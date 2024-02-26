@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta name="dtb:uid" content="bookid"/>
+      <meta name="dtb:depth" content="0"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+   <docTitle>
+      <text>UnKnown</text>
+   </docTitle>
+   <navMap>
+     <navPoint id="id1" playOrder="1">
+       <navLabel>
+         <text>前 言</text>
+       </navLabel>
+       <content src="text00000.html#filepos0000011455"/>
+     </navPoint>
+     <navPoint id="id2" playOrder="2">
+       <navLabel>
+         <text>凡 例</text>
+       </navLabel>
+       <content src="text00000.html#filepos0000018062"/>
+     </navPoint>
+     <navPoint id="id3" playOrder="3">
+       <navLabel>
+         <text>世說新語卷上之上</text>
+       </navLabel>
+       <content src="text00000.html#filepos0000021840"/>
+     </navPoint>
+     <navPoint id="id4" playOrder="4">
+       <navLabel>
+         <text>德行第一</text>
+       </navLabel>
+       <content src="text00000.html#filepos0000021960"/>
+     </navPoint>
+     <navPoint id="id5" playOrder="5">
+       <navLabel>
+         <text>言語第二</text>
+       </navLabel>
+       <content src="text00000.html"/>
+     </navPoint>
+     <navPoint id="id6" playOrder="6">
+       <navLabel>
+         <text>世說新語卷上之下</text>
+       </navLabel>
+       <content src="text00000.html#filepos0000011455"/>
+     </navPoint>
+     <navPoint id="id7" playOrder="7">
+       <navLabel>
+         <text>政事第三</text>
+       </navLabel>
+       <content src="text00002.html#filepos0000397649"/>
+     </navPoint>
+     <navPoint id="id8" playOrder="8">
+       <navLabel>
+         <text>文學第四</text>
+       </navLabel>
+       <content src="text00000.html#filepos0000018062"/>
+     </navPoint>
+     <navPoint id="id9" playOrder="9">
+       <navLabel>
+         <text>世說新語卷中之上</text>
+       </navLabel>
+       <content src="text00000.html#filepos0000021960"/>
+     </navPoint>
+     <navPoint id="id10" playOrder="10">
+       <navLabel>
+         <text>方正第五</text>
+       </navLabel>
+       <content src="text00004.html#filepos0000661456"/>
+     </navPoint>
+     <navPoint id="id11" playOrder="11">
+       <navLabel>
+         <text>雅量第六</text>
+       </navLabel>
+       <content src="text00004.html#filepos0000806909"/>
+     </navPoint>
+     <navPoint id="id12" playOrder="12">
+       <navLabel>
+         <text>識鑒第七</text>
+       </navLabel>
+       <content src="text00000.html#filepos0000021960"/>
+     </navPoint>
+     <navPoint id="id13" playOrder="13">
+       <navLabel>
+         <text>世說新語卷中之下</text>
+       </navLabel>
+       <content src="text00005.html#filepos0000962110"/>
+     </navPoint>
+     <navPoint id="id14" playOrder="14">
+       <navLabel>
+         <text>賞譽第八上</text>
+       </navLabel>
+       <content src="text00005.html#filepos0000962230"/>
+     </navPoint>
+     <navPoint id="id15" playOrder="15">
+       <navLabel>
+         <text>賞譽第八下</text>
+       </navLabel>
+       <content src="text00000.html#filepos0000021960"/>
+     </navPoint>
+     <navPoint id="id16" playOrder="16">
+       <navLabel>
+         <text>品藻第九</text>
+       </navLabel>
+       <content src="text00006.html#filepos0001147731"/>
+     </navPoint>
+     <navPoint id="id17" playOrder="17">
+       <navLabel>
+         <text>規箴第十</text>
+       </navLabel>
+       <content src="text00000.html#filepos0000021960"/>
+     </navPoint>
+     <navPoint id="id18" playOrder="18">
+       <navLabel>
+         <text>捷悟第十一</text>
+       </navLabel>
+       <content src="text00007.html#filepos0001319868"/>
+     </navPoint>
+     <navPoint id="id19" playOrder="19">
+       <navLabel>
+         <text>夙惠第十二</text>
+       </navLabel>
+       <content src="text00007.html#filepos0001334005"/>
+     </navPoint>
+     <navPoint id="id20" playOrder="20">
+       <navLabel>
+         <text>豪爽第十三</text>
+       </navLabel>
+       <content src="text00007.html#filepos0001349716"/>
+     </navPoint>
+     <navPoint id="id21" playOrder="21">
+       <navLabel>
+         <text>世說新語卷下之上</text>
+       </navLabel>
+       <content src="text00007.html#filepos0001370453"/>
+     </navPoint>
+     <navPoint id="id22" playOrder="22">
+       <navLabel>
+         <text>容止第十四</text>
+       </navLabel>
+       <content src="text00007.html#filepos0001370573"/>
+     </navPoint>
+     <navPoint id="id23" playOrder="23">
+       <navLabel>
+         <text>自新第十五</text>
+       </navLabel>
+       <content src="text00007.html#filepos0001414708"/>
+     </navPoint>
+     <navPoint id="id24" playOrder="24">
+       <navLabel>
+         <text>企羡第十六</text>
+       </navLabel>
+       <content src="text00007.html#filepos0001421530"/>
+     </navPoint>
+     <navPoint id="id25" playOrder="25">
+       <navLabel>
+         <text>傷逝第十七</text>
+       </navLabel>
+       <content src="text00007.html#filepos0001434079"/>
+     </navPoint>
+     <navPoint id="id26" playOrder="26">
+       <navLabel>
+         <text>棲逸第十八</text>
+       </navLabel>
+       <content src="text00007.html#filepos0001461756"/>
+     </navPoint>
+     <navPoint id="id27" playOrder="27">
+       <navLabel>
+         <text>賢媛第十九〔一〕</text>
+       </navLabel>
+       <content src="text00000.html#filepos0000021960"/>
+     </navPoint>
+     <navPoint id="id28" playOrder="28">
+       <navLabel>
+         <text>術解第二十</text>
+       </navLabel>
+       <content src="text00008.html#filepos0001585793"/>
+     </navPoint>
+     <navPoint id="id29" playOrder="29">
+       <navLabel>
+         <text>巧蓺第二十一</text>
+       </navLabel>
+       <content src="text00008.html#filepos0001604785"/>
+     </navPoint>
+     <navPoint id="id30" playOrder="30">
+       <navLabel>
+         <text>寵禮第二十二</text>
+       </navLabel>
+       <content src="text00008.html#filepos0001629180"/>
+     </navPoint>
+     <navPoint id="id31" playOrder="31">
+       <navLabel>
+         <text>任誕第二十三〔一〕</text>
+       </navLabel>
+       <content src="text00008.html#filepos0001633464"/>
+     </navPoint>
+     <navPoint id="id32" playOrder="32">
+       <navLabel>
+         <text>簡傲第二十四</text>
+       </navLabel>
+       <content src="text00000.html#filepos0000021960"/>
+     </navPoint>
+     <navPoint id="id33" playOrder="33">
+       <navLabel>
+         <text>世說新語卷下之下</text>
+       </navLabel>
+       <content src="text00009.html#filepos0001748099"/>
+     </navPoint>
+     <navPoint id="id34" playOrder="34">
+       <navLabel>
+         <text>排調第二十五〔一〕</text>
+       </navLabel>
+       <content src="text00009.html#filepos0001748219"/>
+     </navPoint>
+     <navPoint id="id35" playOrder="35">
+       <navLabel>
+         <text>輕詆第二十六</text>
+       </navLabel>
+       <content src="text00009.html#filepos0001850281"/>
+     </navPoint>
+     <navPoint id="id36" playOrder="36">
+       <navLabel>
+         <text>假譎第二十七</text>
+       </navLabel>
+       <content src="text00009.html#filepos0001906484"/>
+     </navPoint>
+     <navPoint id="id37" playOrder="37">
+       <navLabel>
+         <text>黜免第二十八</text>
+       </navLabel>
+       <content src="text00009.html#filepos0001932524"/>
+     </navPoint>
+     <navPoint id="id38" playOrder="38">
+       <navLabel>
+         <text>儉嗇第二十九</text>
+       </navLabel>
+       <content src="text00009.html#filepos0001951127"/>
+     </navPoint>
+     <navPoint id="id39" playOrder="39">
+       <navLabel>
+         <text>汰侈第三十</text>
+       </navLabel>
+       <content src="text00000.html#filepos0000021960"/>
+     </navPoint>
+     <navPoint id="id40" playOrder="40">
+       <navLabel>
+         <text>忿狷第三十一〔一〕</text>
+       </navLabel>
+       <content src="text00010.html#filepos0001976531"/>
+     </navPoint>
+     <navPoint id="id41" playOrder="41">
+       <navLabel>
+         <text>讒險第三十二</text>
+       </navLabel>
+       <content src="text00010.html#filepos0001984660"/>
+     </navPoint>
+     <navPoint id="id42" playOrder="42">
+       <navLabel>
+         <text>尤悔第三十三</text>
+       </navLabel>
+       <content src="text00010.html#filepos0001993029"/>
+     </navPoint>
+     <navPoint id="id43" playOrder="43">
+       <navLabel>
+         <text>紕漏第三十四</text>
+       </navLabel>
+       <content src="text00010.html#filepos0002026122"/>
+     </navPoint>
+     <navPoint id="id44" playOrder="44">
+       <navLabel>
+         <text>惑溺第三十五</text>
+       </navLabel>
+       <content src="text00010.html#filepos0002041152"/>
+     </navPoint>
+     <navPoint id="id45" playOrder="45">
+       <navLabel>
+         <text>仇隙第三十六</text>
+       </navLabel>
+       <content src="text00010.html#filepos0002054473"/>
+     </navPoint>
+     <navPoint id="id46" playOrder="46">
+       <navLabel>
+         <text>世說新語序目</text>
+       </navLabel>
+       <content src="text00010.html#filepos0002071061"/>
+     </navPoint>
+     <navPoint id="id47" playOrder="47">
+       <navLabel>
+         <text>世說舊題一首舊跋二首</text>
+       </navLabel>
+       <content src="text00010.html#filepos0002073558"/>
+     </navPoint>
+     <navPoint id="id48" playOrder="48">
+       <navLabel>
+         <text>世說新語常⾒⼈名異稱表</text>
+       </navLabel>
+       <content src="text00010.html#filepos0002075193"/>
+     </navPoint>
+     <navPoint id="id49" playOrder="49">
+       <navLabel>
+         <text>四庫全書總⽬提要世說新語三卷</text>
+       </navLabel>
+       <content src="text00010.html#filepos0002103021"/>
+     </navPoint>
+   </navMap>
+</ncx>
