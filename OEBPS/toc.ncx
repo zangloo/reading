@@ -38,13 +38,13 @@
        <navLabel>
          <text>言語第二</text>
        </navLabel>
-       <content src="text00000.html"/>
+       <content src="text00001.html"/>
      </navPoint>
      <navPoint id="id6" playOrder="6">
        <navLabel>
          <text>世說新語卷上之下</text>
        </navLabel>
-       <content src="text00000.html#filepos0000011455"/>
+       <content src="text00002.html"/>
      </navPoint>
      <navPoint id="id7" playOrder="7">
        <navLabel>
@@ -56,13 +56,13 @@
        <navLabel>
          <text>文學第四</text>
        </navLabel>
-       <content src="text00000.html#filepos0000018062"/>
+       <content src="text00003.html"/>
      </navPoint>
      <navPoint id="id9" playOrder="9">
        <navLabel>
          <text>世說新語卷中之上</text>
        </navLabel>
-       <content src="text00000.html#filepos0000021960"/>
+       <content src="text00004.html"/>
      </navPoint>
      <navPoint id="id10" playOrder="10">
        <navLabel>
@@ -80,7 +80,7 @@
        <navLabel>
          <text>識鑒第七</text>
        </navLabel>
-       <content src="text00000.html#filepos0000021960"/>
+       <content src="text00005.html"/>
      </navPoint>
      <navPoint id="id13" playOrder="13">
        <navLabel>
@@ -98,7 +98,7 @@
        <navLabel>
          <text>賞譽第八下</text>
        </navLabel>
-       <content src="text00000.html#filepos0000021960"/>
+       <content src="text00006.html"/>
      </navPoint>
      <navPoint id="id16" playOrder="16">
        <navLabel>
@@ -110,7 +110,7 @@
        <navLabel>
          <text>規箴第十</text>
        </navLabel>
-       <content src="text00000.html#filepos0000021960"/>
+       <content src="text00007.html"/>
      </navPoint>
      <navPoint id="id18" playOrder="18">
        <navLabel>
@@ -170,7 +170,7 @@
        <navLabel>
          <text>賢媛第十九〔一〕</text>
        </navLabel>
-       <content src="text00000.html#filepos0000021960"/>
+       <content src="text00008.html"/>
      </navPoint>
      <navPoint id="id28" playOrder="28">
        <navLabel>
@@ -200,7 +200,7 @@
        <navLabel>
          <text>簡傲第二十四</text>
        </navLabel>
-       <content src="text00000.html#filepos0000021960"/>
+       <content src="text00009.html"/>
      </navPoint>
      <navPoint id="id33" playOrder="33">
        <navLabel>
@@ -242,7 +242,7 @@
        <navLabel>
          <text>汰侈第三十</text>
        </navLabel>
-       <content src="text00000.html#filepos0000021960"/>
+       <content src="text00010.html"/>
      </navPoint>
      <navPoint id="id40" playOrder="40">
        <navLabel>
