@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		      <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid" version="3.0" xml:lang="zh" prefix="cc: http://creativecommons.org/ns#">
+			     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+				    <dc:identifier id="uid">https://zh.wikisource.org/wiki/%E6%9D%9C%E8%A9%A9%E8%A9%B3%E8%A8%BB_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29</dc:identifier>
+				    <meta property="dcterms:modified">2024-03-28T08:45:30Z</meta>
+				    <dc:language>zh</dc:language>
+				    <dc:title id="meta-title">杜詩詳註 (四庫全書本)</dc:title>
+				    <meta refines="#meta-title" property="title-type">main</meta>
+				    <dc:source>https://zh.wikisource.org/wiki/%E6%9D%9C%E8%A9%A9%E8%A9%B3%E8%A8%BB_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29</dc:source>
+				    <dc:rights xml:lang="en">Creative Commons BY-SA 3.0</dc:rights>
+				    <link rel="cc:license" href="http://creativecommons.org/licenses/by-sa/3.0/" />
+				    <dc:rights xml:lang="en">GNU Free Documentation License</dc:rights>
+				    <link rel="cc:license" href="http://www.gnu.org/copyleft/fdl.html" />
+				    <dc:contributor id="meta-bkp">Wikisource</dc:contributor>
+				    <meta refines="#meta-bkp" property="role" scheme="marc:relators">bkp</meta><meta name="cover" content="title" /></metadata>
+			     <manifest>
+				    <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav" />
+				    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/><item id="title" href="title.xhtml" media-type="application/xhtml+xml" />
+				    <item id="mainCss" href="main.css" media-type="text/css" /><item id="Accueil_scribe.png" href="images/Accueil_scribe.png" media-type="image/png" /><item id="c0_du_shi_xiang_zhu__si_ku_quan_shu_ben_" href="c0_du_shi_xiang_zhu__si_ku_quan_shu_ben_.xhtml" media-type="application/xhtml+xml" />
+<item id="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01" href="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml" media-type="application/xhtml+xml" />
+<item id="c2_du_shi_xiang_zhu__si_ku_quan_shu_ben__quan_lan" href="c2_du_shi_xiang_zhu__si_ku_quan_shu_ben__quan_lan.xhtml" media-type="application/xhtml+xml" />
+<item id="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01" href="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml" media-type="application/xhtml+xml" />
+<item id="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02" href="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02.xhtml" media-type="application/xhtml+xml" />
+<item id="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03" href="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml" media-type="application/xhtml+xml" />
+<item id="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04" href="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml" media-type="application/xhtml+xml" />
+<item id="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05" href="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml" media-type="application/xhtml+xml" />
+<item id="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06" href="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml" media-type="application/xhtml+xml" />
+<item id="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07" href="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07.xhtml" media-type="application/xhtml+xml" />
+<item id="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08" href="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml" media-type="application/xhtml+xml" />
+<item id="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09" href="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml" media-type="application/xhtml+xml" />
+<item id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" href="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml" media-type="application/xhtml+xml" />
+<item id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" href="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml" media-type="application/xhtml+xml" />
+<item id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" href="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml" media-type="application/xhtml+xml" />
+<item id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" href="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml" media-type="application/xhtml+xml" />
+<item id="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14" href="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml" media-type="application/xhtml+xml" />
+<item id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" href="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml" media-type="application/xhtml+xml" />
+<item id="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16" href="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16.xhtml" media-type="application/xhtml+xml" />
+<item id="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17" href="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17.xhtml" media-type="application/xhtml+xml" />
+<item id="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18" href="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml" media-type="application/xhtml+xml" />
+<item id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" href="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml" media-type="application/xhtml+xml" />
+<item id="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20" href="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml" media-type="application/xhtml+xml" />
+<item id="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21" href="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml" media-type="application/xhtml+xml" />
+<item id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" href="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml" media-type="application/xhtml+xml" />
+<item id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23" href="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml" media-type="application/xhtml+xml" />
+<item id="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24" href="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24.xhtml" media-type="application/xhtml+xml" />
+<item id="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25" href="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml" media-type="application/xhtml+xml" />
+<item id="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang" href="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml" media-type="application/xhtml+xml" />
+<item id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia" href="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia.xhtml" media-type="application/xhtml+xml" />
+<item id="c29_PD_icon.svg_48px_PD_icon.svg.png" href="images/c29_PD_icon.svg_48px_PD_icon.svg.png" media-type="image/png" />
+<item id="c30_SKQSfont.pdf_page3180_20px_SKQSfont.pdf.jpg" href="images/c30_SKQSfont.pdf_page3180_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c31_SKQSfont.pdf_page3787_20px_SKQSfont.pdf.jpg" href="images/c31_SKQSfont.pdf_page3787_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c32_SKQSfont.pdf_page977_20px_SKQSfont.pdf.jpg" href="images/c32_SKQSfont.pdf_page977_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c33_SKQSfont.pdf_page3235_20px_SKQSfont.pdf.jpg" href="images/c33_SKQSfont.pdf_page3235_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c34_SKQSfont.pdf_page2974_20px_SKQSfont.pdf.jpg" href="images/c34_SKQSfont.pdf_page2974_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c35_SKQSfont.pdf_page3810_20px_SKQSfont.pdf.jpg" href="images/c35_SKQSfont.pdf_page3810_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c36_SKQSfont.pdf_page2854_20px_SKQSfont.pdf.jpg" href="images/c36_SKQSfont.pdf_page2854_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c37_SKQSfont.pdf_page3500_20px_SKQSfont.pdf.jpg" href="images/c37_SKQSfont.pdf_page3500_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c38_SKQSfont.pdf_page3932_20px_SKQSfont.pdf.jpg" href="images/c38_SKQSfont.pdf_page3932_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c39_SKQSfont.pdf_page2615_20px_SKQSfont.pdf.jpg" href="images/c39_SKQSfont.pdf_page2615_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c40_SKQSfont.pdf_page3147_20px_SKQSfont.pdf.jpg" href="images/c40_SKQSfont.pdf_page3147_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c41_SKQSfont.pdf_page2959_20px_SKQSfont.pdf.jpg" href="images/c41_SKQSfont.pdf_page2959_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c42_SKQSfont.pdf_page3271_20px_SKQSfont.pdf.jpg" href="images/c42_SKQSfont.pdf_page3271_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c43_SKQSfont.pdf_page3395_20px_SKQSfont.pdf.jpg" href="images/c43_SKQSfont.pdf_page3395_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c44_SKQSfont2.pdf_page639_20px_SKQSfont2.pdf.jpg" href="images/c44_SKQSfont2.pdf_page639_20px_SKQSfont2.pdf.jpg" media-type="image/jpeg" />
+<item id="c45_SKQSfont.pdf_page3392_20px_SKQSfont.pdf.jpg" href="images/c45_SKQSfont.pdf_page3392_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c46_SKQSfont.pdf_page2660_20px_SKQSfont.pdf.jpg" href="images/c46_SKQSfont.pdf_page2660_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c47_SKQSfont.pdf_page3950_20px_SKQSfont.pdf.jpg" href="images/c47_SKQSfont.pdf_page3950_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c48_SKQSfont.pdf_page2733_20px_SKQSfont.pdf.jpg" href="images/c48_SKQSfont.pdf_page2733_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c49_SKQSfont.pdf_page3614_20px_SKQSfont.pdf.jpg" href="images/c49_SKQSfont.pdf_page3614_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c50_SKQSfont2.pdf_page801_20px_SKQSfont2.pdf.jpg" href="images/c50_SKQSfont2.pdf_page801_20px_SKQSfont2.pdf.jpg" media-type="image/jpeg" />
+<item id="c51_SKQSfont.pdf_page3655_20px_SKQSfont.pdf.jpg" href="images/c51_SKQSfont.pdf_page3655_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c52_SKQSfont.pdf_page2869_20px_SKQSfont.pdf.jpg" href="images/c52_SKQSfont.pdf_page2869_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c53_SKQSfont.pdf_page2712_20px_SKQSfont.pdf.jpg" href="images/c53_SKQSfont.pdf_page2712_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c54_SKQSfont.pdf_page3693_20px_SKQSfont.pdf.jpg" href="images/c54_SKQSfont.pdf_page3693_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c55_SKQSfont.pdf_page3218_20px_SKQSfont.pdf.jpg" href="images/c55_SKQSfont.pdf_page3218_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c56_SKQSfont.pdf_page3178_20px_SKQSfont.pdf.jpg" href="images/c56_SKQSfont.pdf_page3178_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c57_SKQSfont.pdf_page3220_20px_SKQSfont.pdf.jpg" href="images/c57_SKQSfont.pdf_page3220_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c58_SKQSfont.pdf_page2634_20px_SKQSfont.pdf.jpg" href="images/c58_SKQSfont.pdf_page2634_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c59_SKQSfont.pdf_page3823_20px_SKQSfont.pdf.jpg" href="images/c59_SKQSfont.pdf_page3823_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c60_SKQSfont.pdf_page2684_20px_SKQSfont.pdf.jpg" href="images/c60_SKQSfont.pdf_page2684_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c61_SKQSfont.pdf_page3099_20px_SKQSfont.pdf.jpg" href="images/c61_SKQSfont.pdf_page3099_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c62_SKQSfont.pdf_page2613_20px_SKQSfont.pdf.jpg" href="images/c62_SKQSfont.pdf_page2613_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c63_SKQSfont.pdf_page2727_20px_SKQSfont.pdf.jpg" href="images/c63_SKQSfont.pdf_page2727_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c64_SKQSfont.pdf_page3605_20px_SKQSfont.pdf.jpg" href="images/c64_SKQSfont.pdf_page3605_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c65_SKQSfont.pdf_page3090_20px_SKQSfont.pdf.jpg" href="images/c65_SKQSfont.pdf_page3090_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c66_SKQSfont.pdf_page3579_20px_SKQSfont.pdf.jpg" href="images/c66_SKQSfont.pdf_page3579_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c67_SKQSfont.pdf_page2833_20px_SKQSfont.pdf.jpg" href="images/c67_SKQSfont.pdf_page2833_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c68_SKQSfont.pdf_page2753_20px_SKQSfont.pdf.jpg" href="images/c68_SKQSfont.pdf_page2753_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c69_SKQSfont2.pdf_page385_20px_SKQSfont2.pdf.jpg" href="images/c69_SKQSfont2.pdf_page385_20px_SKQSfont2.pdf.jpg" media-type="image/jpeg" />
+<item id="c70_SKQSfont.pdf_page2861_20px_SKQSfont.pdf.jpg" href="images/c70_SKQSfont.pdf_page2861_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c71_SKQSfont.pdf_page3567_20px_SKQSfont.pdf.jpg" href="images/c71_SKQSfont.pdf_page3567_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c72_SKQSfont.pdf_page3394_20px_SKQSfont.pdf.jpg" href="images/c72_SKQSfont.pdf_page3394_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c73_SKQSfont.pdf_page2683_20px_SKQSfont.pdf.jpg" href="images/c73_SKQSfont.pdf_page2683_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c74_SKQSfont2.pdf_page590_20px_SKQSfont2.pdf.jpg" href="images/c74_SKQSfont2.pdf_page590_20px_SKQSfont2.pdf.jpg" media-type="image/jpeg" />
+<item id="c75_SKQSfont.pdf_page3522_20px_SKQSfont.pdf.jpg" href="images/c75_SKQSfont.pdf_page3522_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c76_SKQSfont.pdf_page3714_20px_SKQSfont.pdf.jpg" href="images/c76_SKQSfont.pdf_page3714_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c77_SKQSfont.pdf_page3247_20px_SKQSfont.pdf.jpg" href="images/c77_SKQSfont.pdf_page3247_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c78_SKQSfont2.pdf_page824_20px_SKQSfont2.pdf.jpg" href="images/c78_SKQSfont2.pdf_page824_20px_SKQSfont2.pdf.jpg" media-type="image/jpeg" />
+<item id="c79_SKQSfont.pdf_page3713_20px_SKQSfont.pdf.jpg" href="images/c79_SKQSfont.pdf_page3713_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c80_SKQSfont.pdf_page2728_20px_SKQSfont.pdf.jpg" href="images/c80_SKQSfont.pdf_page2728_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c81_SKQSfont.pdf_page2661_20px_SKQSfont.pdf.jpg" href="images/c81_SKQSfont.pdf_page2661_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c82_SKQSfont.pdf_page3142_20px_SKQSfont.pdf.jpg" href="images/c82_SKQSfont.pdf_page3142_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c83_SKQSfont.pdf_page2616_20px_SKQSfont.pdf.jpg" href="images/c83_SKQSfont.pdf_page2616_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c84_SKQSfont.pdf_page2939_20px_SKQSfont.pdf.jpg" href="images/c84_SKQSfont.pdf_page2939_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c85_SKQSfont.pdf_page3726_20px_SKQSfont.pdf.jpg" href="images/c85_SKQSfont.pdf_page3726_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c86_SKQSfont.pdf_page3904_20px_SKQSfont.pdf.jpg" href="images/c86_SKQSfont.pdf_page3904_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c87_SKQSfont.pdf_page3440_20px_SKQSfont.pdf.jpg" href="images/c87_SKQSfont.pdf_page3440_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c88_SKQSfont.pdf_page3555_20px_SKQSfont.pdf.jpg" href="images/c88_SKQSfont.pdf_page3555_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c89_SKQSfont.pdf_page3511_20px_SKQSfont.pdf.jpg" href="images/c89_SKQSfont.pdf_page3511_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c90_SKQSfont.pdf_page2715_20px_SKQSfont.pdf.jpg" href="images/c90_SKQSfont.pdf_page2715_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c91_SKQSfont.pdf_page3949_20px_SKQSfont.pdf.jpg" href="images/c91_SKQSfont.pdf_page3949_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c92_SKQSfont.pdf_page3160_20px_SKQSfont.pdf.jpg" href="images/c92_SKQSfont.pdf_page3160_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c93_SKQSfont.pdf_page2721_20px_SKQSfont.pdf.jpg" href="images/c93_SKQSfont.pdf_page2721_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c94_SKQSfont.pdf_page3314_20px_SKQSfont.pdf.jpg" href="images/c94_SKQSfont.pdf_page3314_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c95_SKQSfont.pdf_page2994_20px_SKQSfont.pdf.jpg" href="images/c95_SKQSfont.pdf_page2994_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c96_SKQSfont.pdf_page3508_20px_SKQSfont.pdf.jpg" href="images/c96_SKQSfont.pdf_page3508_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c97_SKQSfont.pdf_page3295_20px_SKQSfont.pdf.jpg" href="images/c97_SKQSfont.pdf_page3295_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c98_SKQSfont.pdf_page3307_20px_SKQSfont.pdf.jpg" href="images/c98_SKQSfont.pdf_page3307_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c99_SKQSfont.pdf_page3389_20px_SKQSfont.pdf.jpg" href="images/c99_SKQSfont.pdf_page3389_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c100_SKQSfont.pdf_page3724_20px_SKQSfont.pdf.jpg" href="images/c100_SKQSfont.pdf_page3724_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c101_SKQSfont.pdf_page3951_20px_SKQSfont.pdf.jpg" href="images/c101_SKQSfont.pdf_page3951_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c102_SKQSfont.pdf_page3256_20px_SKQSfont.pdf.jpg" href="images/c102_SKQSfont.pdf_page3256_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c103_SKQSfont.pdf_page3947_20px_SKQSfont.pdf.jpg" href="images/c103_SKQSfont.pdf_page3947_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c104_SKQSfont.pdf_page2706_20px_SKQSfont.pdf.jpg" href="images/c104_SKQSfont.pdf_page2706_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c105_SKQSfont.pdf_page3091_20px_SKQSfont.pdf.jpg" href="images/c105_SKQSfont.pdf_page3091_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c106_SKQSfont.pdf_page3455_20px_SKQSfont.pdf.jpg" href="images/c106_SKQSfont.pdf_page3455_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c107_SKQSfont.pdf_page3435_20px_SKQSfont.pdf.jpg" href="images/c107_SKQSfont.pdf_page3435_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="c108_SKQSfont.pdf_page3426_20px_SKQSfont.pdf.jpg" href="images/c108_SKQSfont.pdf_page3426_20px_SKQSfont.pdf.jpg" media-type="image/jpeg" />
+<item id="about" href="about.xhtml" media-type="application/xhtml+xml" />
+			     </manifest>
+			     <spine toc="ncx"><itemref idref="title" linear="yes" /><itemref idref="c0_du_shi_xiang_zhu__si_ku_quan_shu_ben_" linear="yes" /><itemref idref="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01" linear="yes" /><itemref idref="c2_du_shi_xiang_zhu__si_ku_quan_shu_ben__quan_lan" linear="yes" /><itemref idref="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01" linear="yes" /><itemref idref="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02" linear="yes" /><itemref idref="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03" linear="yes" /><itemref idref="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04" linear="yes" /><itemref idref="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05" linear="yes" /><itemref idref="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06" linear="yes" /><itemref idref="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07" linear="yes" /><itemref idref="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08" linear="yes" /><itemref idref="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09" linear="yes" /><itemref idref="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" linear="yes" /><itemref idref="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" linear="yes" /><itemref idref="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" linear="yes" /><itemref idref="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" linear="yes" /><itemref idref="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14" linear="yes" /><itemref idref="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" linear="yes" /><itemref idref="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16" linear="yes" /><itemref idref="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17" linear="yes" /><itemref idref="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18" linear="yes" /><itemref idref="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" linear="yes" /><itemref idref="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20" linear="yes" /><itemref idref="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21" linear="yes" /><itemref idref="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" linear="yes" /><itemref idref="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23" linear="yes" /><itemref idref="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24" linear="yes" /><itemref idref="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25" linear="yes" /><itemref idref="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang" linear="yes" /><itemref idref="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia" linear="yes" /><itemref idref="about" linear="yes" />
+			     </spine>
+		      </package>
