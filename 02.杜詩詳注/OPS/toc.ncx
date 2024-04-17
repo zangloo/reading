@@ -55,6 +55,12 @@
                 </navLabel>
                 <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#ti_zhang_shi_yin_ju_er_shou-n567"/>
             </navPoint>
+            <navPoint id="liu_jiu_fa_cao_zheng_xia_qiu_shi_men_yan_ji-n570" playOrder="105">
+                <navLabel>
+                    <text>劉九法曹鄭瑕丘石門宴集</text>
+                </navLabel>
+                <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#liu_jiu_fa_cao_zheng_xia_qiu_shi_men_yan_ji-n570"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02" playOrder="200">
             <navLabel>
