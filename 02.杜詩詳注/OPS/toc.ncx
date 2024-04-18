@@ -79,6 +79,12 @@
                 </navLabel>
                 <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#yi_shang_ren_mao_zhai-n573"/>
             </navPoint>
+            <navPoint id="fang_bing_cao_hu_ma-n576" playOrder="109">
+                <navLabel>
+                    <text>房兵曹胡馬</text>
+                </navLabel>
+                <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#fang_bing_cao_hu_ma-n576"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02" playOrder="200">
             <navLabel>
