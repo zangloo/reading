@@ -73,6 +73,12 @@
                 </navLabel>
                 <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#dui_yu_shu_huai_zou_yao_zhao_zhu_bu-n572"/>
             </navPoint>
+            <navPoint id="yi_shang_ren_mao_zhai-n573" playOrder="108">
+                <navLabel>
+                    <text>已上人茅齋</text>
+                </navLabel>
+                <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#yi_shang_ren_mao_zhai-n573"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02" playOrder="200">
             <navLabel>
