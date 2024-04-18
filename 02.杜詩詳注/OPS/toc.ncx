@@ -67,6 +67,12 @@
                 </navLabel>
                 <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#yu_ren_cheng_xu_zhu_bu_you_nan_chi-n571"/>
             </navPoint>
+            <navPoint id="dui_yu_shu_huai_zou_yao_zhao_zhu_bu-n572" playOrder="107">
+                <navLabel>
+                    <text>對雨書懷走邀許主簿</text>
+                </navLabel>
+                <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#dui_yu_shu_huai_zou_yao_zhao_zhu_bu-n572"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02" playOrder="200">
             <navLabel>
