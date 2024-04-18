@@ -61,6 +61,12 @@
                 </navLabel>
                 <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#liu_jiu_fa_cao_zheng_xia_qiu_shi_men_yan_ji-n570"/>
             </navPoint>
+            <navPoint id="yu_ren_cheng_xu_zhu_bu_you_nan_chi-n571" playOrder="106">
+                <navLabel>
+                    <text>與任城許主簿遊南池</text>
+                </navLabel>
+                <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#yu_ren_cheng_xu_zhu_bu_you_nan_chi-n571"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02" playOrder="200">
             <navLabel>
