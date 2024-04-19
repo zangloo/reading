@@ -91,6 +91,12 @@
                 </navLabel>
                 <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#hua_ying-n577"/>
             </navPoint>
+            <navPoint id="guo_song_yuan_wai_zhi_wen_jiu_zhuang-n578" playOrder="111">
+                <navLabel>
+                    <text>過宋員外之問舊莊</text>
+                </navLabel>
+                <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#guo_song_yuan_wai_zhi_wen_jiu_zhuang-n578"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02" playOrder="200">
             <navLabel>
