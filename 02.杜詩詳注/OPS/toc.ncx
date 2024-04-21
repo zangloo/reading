@@ -121,6 +121,12 @@
                 </navLabel>
                 <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#long_men-n585"/>
             </navPoint>
+            <navPoint id="li_jian_zhai_er_shou-n586" playOrder="116">
+                <navLabel>
+                    <text>李監宅二首</text>
+                </navLabel>
+                <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#li_jian_zhai_er_shou-n586"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02" playOrder="200">
             <navLabel>
