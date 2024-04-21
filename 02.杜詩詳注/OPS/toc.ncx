@@ -127,6 +127,12 @@
                 </navLabel>
                 <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#li_jian_zhai_er_shou-n586"/>
             </navPoint>
+            <navPoint id="zeng_li_bai-n587" playOrder="117">
+                <navLabel>
+                    <text>贈李白</text>
+                </navLabel>
+                <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#zeng_li_bai-n587"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02" playOrder="200">
             <navLabel>
