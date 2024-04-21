@@ -133,6 +133,12 @@
                 </navLabel>
                 <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#zeng_li_bai-n587"/>
             </navPoint>
+            <navPoint id="zhong-n594" playOrder="118">
+                <navLabel>
+                    <text>重題鄭氏東亭</text>
+                </navLabel>
+                <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#zhong-n594"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02" playOrder="200">
             <navLabel>
