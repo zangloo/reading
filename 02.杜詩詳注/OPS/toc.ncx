@@ -145,6 +145,12 @@
                 </navLabel>
                 <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#pei_li_bei_hai_yan_li_xia_ting-n596"/>
             </navPoint>
+            <navPoint id="tong_li_tai_shou_deng-n600" playOrder="120">
+                <navLabel>
+                    <text>同李太守登歷下古城員外新亭</text>
+                </navLabel>
+                <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#tong_li_tai_shou_deng-n600"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02" playOrder="200">
             <navLabel>
