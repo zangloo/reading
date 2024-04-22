@@ -139,6 +139,12 @@
                 </navLabel>
                 <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#zhong-n594"/>
             </navPoint>
+            <navPoint id="pei_li_bei_hai_yan_li_xia_ting-n596" playOrder="119">
+                <navLabel>
+                    <text>陪李北海宴歷下亭</text>
+                </navLabel>
+                <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#pei_li_bei_hai_yan_li_xia_ting-n596"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02" playOrder="200">
             <navLabel>
