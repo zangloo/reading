@@ -163,6 +163,12 @@
                 </navLabel>
                 <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#zeng_li_bai-n601-2"/>
             </navPoint>
+            <navPoint id="yu_li_shi_er_bai_tong_xun_fan_shi_yin_ju-n602" playOrder="123">
+                <navLabel>
+                    <text>與李十二白同尋范十隱居</text>
+                </navLabel>
+                <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#yu_li_shi_er_bai_tong_xun_fan_shi_yin_ju-n602"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02" playOrder="200">
             <navLabel>
