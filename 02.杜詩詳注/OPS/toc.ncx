@@ -157,6 +157,12 @@
                 </navLabel>
                 <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#ye_ting_bi_hu_shui_xie_ma_gao_lin_jian_tuo_hou-n601"/>
             </navPoint>
+            <navPoint id="zeng_li_bai-n601-2" playOrder="122">
+                <navLabel>
+                    <text>贈李白</text>
+                </navLabel>
+                <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#zeng_li_bai-n601-2"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02" playOrder="200">
             <navLabel>
