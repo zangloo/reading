@@ -175,6 +175,12 @@
                 </navLabel>
                 <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#zheng_fu_ma_zhai_yan_dong_zhong-n603"/>
             </navPoint>
+            <navPoint id="dong_ri_you_huai_li_bai-n605" playOrder="125">
+                <navLabel>
+                    <text>冬日有懷李白</text>
+                </navLabel>
+                <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#dong_ri_you_huai_li_bai-n605"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02" playOrder="200">
             <navLabel>
