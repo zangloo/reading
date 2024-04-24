@@ -169,6 +169,12 @@
                 </navLabel>
                 <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#yu_li_shi_er_bai_tong_xun_fan_shi_yin_ju-n602"/>
             </navPoint>
+            <navPoint id="zheng_fu_ma_zhai_yan_dong_zhong-n603" playOrder="124">
+                <navLabel>
+                    <text>鄭駙馬宅宴洞中</text>
+                </navLabel>
+                <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#zheng_fu_ma_zhai_yan_dong_zhong-n603"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02" playOrder="200">
             <navLabel>
