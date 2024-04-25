@@ -193,6 +193,12 @@
                 </navLabel>
                 <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#song_kong_chao_fu_xie_bing_gui_you_jiang_dong_jian_cheng_li_bai-n609"/>
             </navPoint>
+            <navPoint id="jin_xi_xing-n612" playOrder="128">
+                <navLabel>
+                    <text>今夕行</text>
+                </navLabel>
+                <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#jin_xi_xing-n612"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02" playOrder="200">
             <navLabel>
