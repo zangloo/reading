@@ -28,7 +28,7 @@
         </navPoint>
         <navPoint id="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01" playOrder="100">
             <navLabel>
-                <text>巻一</text>
+                <text>卷一</text>
             </navLabel>
             <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml"/>
             <navPoint id="you_long_men_feng_xian_si-n560" playOrder="101">
@@ -196,127 +196,127 @@
         </navPoint>
         <navPoint id="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02" playOrder="200">
             <navLabel>
-                <text>巻二</text>
+                <text>卷二</text>
             </navLabel>
             <content src="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02.xhtml"/>
         </navPoint>
         <navPoint id="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03" playOrder="300">
             <navLabel>
-                <text>巻三</text>
+                <text>卷三</text>
             </navLabel>
             <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml"/>
         </navPoint>
         <navPoint id="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04" playOrder="400">
             <navLabel>
-                <text>巻四</text>
+                <text>卷四</text>
             </navLabel>
             <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml"/>
         </navPoint>
         <navPoint id="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05" playOrder="500">
             <navLabel>
-                <text>巻五</text>
+                <text>卷五</text>
             </navLabel>
             <content src="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml"/>
         </navPoint>
         <navPoint id="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06" playOrder="600">
             <navLabel>
-                <text>巻六</text>
+                <text>卷六</text>
             </navLabel>
             <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml"/>
         </navPoint>
         <navPoint id="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07" playOrder="700">
             <navLabel>
-                <text>巻七</text>
+                <text>卷七</text>
             </navLabel>
             <content src="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07.xhtml"/>
         </navPoint>
         <navPoint id="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08" playOrder="800">
             <navLabel>
-                <text>巻八</text>
+                <text>卷八</text>
             </navLabel>
             <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml"/>
         </navPoint>
         <navPoint id="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09" playOrder="900">
             <navLabel>
-                <text>巻九</text>
+                <text>卷九</text>
             </navLabel>
             <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml"/>
         </navPoint>
         <navPoint id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" playOrder="1000">
             <navLabel>
-                <text>巻十</text>
+                <text>卷十</text>
             </navLabel>
             <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml"/>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
-                <text>巻十一</text>
+                <text>卷十一</text>
             </navLabel>
             <content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml"/>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
-                <text>巻十二</text>
+                <text>卷十二</text>
             </navLabel>
             <content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml"/>
         </navPoint>
         <navPoint id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" playOrder="1300">
             <navLabel>
-                <text>巻十三</text>
+                <text>卷十三</text>
             </navLabel>
             <content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml"/>
         </navPoint>
         <navPoint id="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14" playOrder="1400">
             <navLabel>
-                <text>巻十四</text>
+                <text>卷十四</text>
             </navLabel>
             <content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml"/>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
-                <text>巻十五</text>
+                <text>卷十五</text>
             </navLabel>
             <content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml"/>
         </navPoint>
         <navPoint id="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16" playOrder="1600">
             <navLabel>
-                <text>巻十六</text>
+                <text>卷十六</text>
             </navLabel>
             <content src="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16.xhtml"/>
         </navPoint>
         <navPoint id="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17" playOrder="1700">
             <navLabel>
-                <text>巻十七</text>
+                <text>卷十七</text>
             </navLabel>
             <content src="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17.xhtml"/>
         </navPoint>
         <navPoint id="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18" playOrder="1800">
             <navLabel>
-                <text>巻十八</text>
+                <text>卷十八</text>
             </navLabel>
             <content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml"/>
         </navPoint>
         <navPoint id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" playOrder="1900">
             <navLabel>
-                <text>巻十九</text>
+                <text>卷十九</text>
             </navLabel>
             <content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml"/>
         </navPoint>
         <navPoint id="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20" playOrder="2000">
             <navLabel>
-                <text>巻二十</text>
+                <text>卷二十</text>
             </navLabel>
             <content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml"/>
         </navPoint>
         <navPoint id="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21" playOrder="2100">
             <navLabel>
-                <text>巻二十一</text>
+                <text>卷二十一</text>
             </navLabel>
             <content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml"/>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
-                <text>巻二十二</text>
+                <text>卷二十二</text>
             </navLabel>
             <content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml"/>
         </navPoint>
@@ -328,25 +328,25 @@
         </navPoint>
         <navPoint id="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24" playOrder="2400">
             <navLabel>
-                <text>巻二十四</text>
+                <text>卷二十四</text>
             </navLabel>
             <content src="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24.xhtml"/>
         </navPoint>
         <navPoint id="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25" playOrder="2500">
             <navLabel>
-                <text>巻二十五</text>
+                <text>卷二十五</text>
             </navLabel>
             <content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml"/>
         </navPoint>
         <navPoint id="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang" playOrder="2600">
             <navLabel>
-                <text>巻上</text>
+                <text>卷上</text>
             </navLabel>
             <content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml"/>
         </navPoint>
         <navPoint id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia" playOrder="2700">
             <navLabel>
-                <text>巻下</text>
+                <text>卷下</text>
             </navLabel>
             <content src="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia.xhtml"/>
         </navPoint>
