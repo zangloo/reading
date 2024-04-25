@@ -187,6 +187,12 @@
                 </navLabel>
                 <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#chun_ri_yi_li_bai-n606"/>
             </navPoint>
+            <navPoint id="song_kong_chao_fu_xie_bing_gui_you_jiang_dong_jian_cheng_li_bai-n609" playOrder="127">
+                <navLabel>
+                    <text>送孔巢父謝病歸游江東兼呈李白</text>
+                </navLabel>
+                <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#song_kong_chao_fu_xie_bing_gui_you_jiang_dong_jian_cheng_li_bai-n609"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02" playOrder="200">
             <navLabel>
