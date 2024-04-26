@@ -199,6 +199,12 @@
                 </navLabel>
                 <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#jin_xi_xing-n612"/>
             </navPoint>
+            <navPoint id="zeng_te_jin_ru_yang_wang_er_shi_yun-n616" playOrder="129">
+                <navLabel>
+                    <text>贈特進汝陽王二十韻</text>
+                </navLabel>
+                <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#zeng_te_jin_ru_yang_wang_er_shi_yun-n616"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02" playOrder="200">
             <navLabel>
