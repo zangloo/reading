@@ -211,6 +211,12 @@
                 </navLabel>
                 <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#zeng_pi_bu_xiao_lang_zhong_shi_xiong-n617"/>
             </navPoint>
+            <navPoint id="feng_ji_he_nan_wei_yin_zhang_ren-n618" playOrder="131">
+                <navLabel>
+                    <text>奉寄河南韋尹丈人</text>
+                </navLabel>
+                <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#feng_ji_he_nan_wei_yin_zhang_ren-n618"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02" playOrder="200">
             <navLabel>
