@@ -217,6 +217,12 @@
                 </navLabel>
                 <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#feng_ji_he_nan_wei_yin_zhang_ren-n618"/>
             </navPoint>
+            <navPoint id="zeng_wei_zuo_cheng_zhang_ji-n620" playOrder="132">
+                <navLabel>
+                    <text>贈韋左丞丈濟</text>
+                </navLabel>
+                <content src="c1_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan01.xhtml#zeng_wei_zuo_cheng_zhang_ji-n620"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02" playOrder="200">
             <navLabel>
