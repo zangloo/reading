@@ -235,6 +235,12 @@
                 <text>卷二</text>
             </navLabel>
             <content src="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02.xhtml"/>
+            <navPoint id="yin_zhong_ba_xian_ge-n625" playOrder="201">
+                <navLabel>
+                    <text>飲中八仙歌</text>
+                </navLabel>
+                <content src="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02.xhtml#yin_zhong_ba_xian_ge-n625"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03" playOrder="300">
             <navLabel>
