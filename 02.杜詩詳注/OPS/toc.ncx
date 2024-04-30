@@ -253,6 +253,12 @@
                 </navLabel>
                 <content src="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02.xhtml#dong_ri_luo_cheng_bei_ye___yuan_huang_di_miao-n636"/>
             </navPoint>
+            <navPoint id="gu_wu_wei_jiang_jun_wan_ci_san_shou-n643" playOrder="204">
+                <navLabel>
+                    <text>故武衛將軍挽詞三首</text>
+                </navLabel>
+                <content src="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02.xhtml#gu_wu_wei_jiang_jun_wan_ci_san_shou-n643"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03" playOrder="300">
             <navLabel>
