@@ -259,6 +259,12 @@
                 </navLabel>
                 <content src="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02.xhtml#gu_wu_wei_jiang_jun_wan_ci_san_shou-n643"/>
             </navPoint>
+            <navPoint id="zeng_han_lin_zhang_si_xue_shi_ji-n646" playOrder="205">
+                <navLabel>
+                    <text>贈翰林張四學士垍</text>
+                </navLabel>
+                <content src="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02.xhtml#zeng_han_lin_zhang_si_xue_shi_ji-n646"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03" playOrder="300">
             <navLabel>
