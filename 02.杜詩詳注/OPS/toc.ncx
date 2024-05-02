@@ -277,6 +277,12 @@
                 </navLabel>
                 <content src="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02.xhtml#tong_zhu_gong_deng_ci_en_si_ta-n655"/>
             </navPoint>
+            <navPoint id="tou_jian_xian-n658" playOrder="208">
+                <navLabel>
+                    <text>投簡咸華兩縣諸子</text>
+                </navLabel>
+                <content src="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02.xhtml#tou_jian_xian-n658"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03" playOrder="300">
             <navLabel>
