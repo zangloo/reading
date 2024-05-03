@@ -295,6 +295,12 @@
                 </navLabel>
                 <content src="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02.xhtml#jing_zeng_zheng_jian_yi_shi_yun-n661"/>
             </navPoint>
+            <navPoint id="bing_che_xing-n661-2" playOrder="211">
+                <navLabel>
+                    <text>兵車行</text>
+                </navLabel>
+                <content src="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02.xhtml#bing_che_xing-n661-2"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03" playOrder="300">
             <navLabel>
