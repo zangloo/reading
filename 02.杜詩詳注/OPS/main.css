@@ -106,3 +106,7 @@ div.tleft {
 	float: none;
 }
 
+/* book name */
+span.book-name {
+	text-decoration: blue wavy underline;
+}
