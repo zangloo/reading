@@ -301,6 +301,12 @@
                 </navLabel>
                 <content src="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02.xhtml#bing_che_xing-n661-2"/>
             </navPoint>
+            <navPoint id="qian_chu_sai_jiu_shou-n665" playOrder="212">
+                <navLabel>
+                    <text>前出塞九首</text>
+                </navLabel>
+                <content src="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02.xhtml#qian_chu_sai_jiu_shou-n665"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03" playOrder="300">
             <navLabel>
