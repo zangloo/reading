@@ -313,6 +313,12 @@
                 </navLabel>
                 <content src="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02.xhtml#song_gao_san_shi_wu_shu_ji_shi_wu_yun-n673"/>
             </navPoint>
+            <navPoint id="feng_liu_zeng_ji_xian_yuan_cui-n676" playOrder="214">
+                <navLabel>
+                    <text>奉留贈集賢院崔于二學士</text>
+                </navLabel>
+                <content src="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02.xhtml#feng_liu_zeng_ji_xian_yuan_cui-n676"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03" playOrder="300">
             <navLabel>
