@@ -325,6 +325,12 @@
                 </navLabel>
                 <content src="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02.xhtml#pin_jiao_xing-n679"/>
             </navPoint>
+            <navPoint id="song_wei_shu_ji_fu_an_xi-n681" playOrder="216">
+                <navLabel>
+                    <text>送韋書記赴安西</text>
+                </navLabel>
+                <content src="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02.xhtml#song_wei_shu_ji_fu_an_xi-n681"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03" playOrder="300">
             <navLabel>
