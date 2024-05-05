@@ -319,6 +319,12 @@
                 </navLabel>
                 <content src="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02.xhtml#feng_liu_zeng_ji_xian_yuan_cui-n676"/>
             </navPoint>
+            <navPoint id="pin_jiao_xing-n679" playOrder="215">
+                <navLabel>
+                    <text>貧交行</text>
+                </navLabel>
+                <content src="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02.xhtml#pin_jiao_xing-n679"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03" playOrder="300">
             <navLabel>
