@@ -337,6 +337,12 @@
                 </navLabel>
                 <content src="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02.xhtml#id-__dou_tan_ge_ji_yuan_yi_ren-n683"/>
             </navPoint>
+            <navPoint id="qu_jiang_san_zhang_zhang_wu_ju-n685" playOrder="218">
+                <navLabel>
+                    <text>曲江三章章五句</text>
+                </navLabel>
+                <content src="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02.xhtml#qu_jiang_san_zhang_zhang_wu_ju-n685"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03" playOrder="300">
             <navLabel>
