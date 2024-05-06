@@ -331,6 +331,12 @@
                 </navLabel>
                 <content src="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02.xhtml#song_wei_shu_ji_fu_an_xi-n681"/>
             </navPoint>
+            <navPoint id="id-__dou_tan_ge_ji_yuan_yi_ren-n683" playOrder="217">
+                <navLabel>
+                    <text>玄都壇歌寄元逸人</text>
+                </navLabel>
+                <content src="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02.xhtml#id-__dou_tan_ge_ji_yuan_yi_ren-n683"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03" playOrder="300">
             <navLabel>
