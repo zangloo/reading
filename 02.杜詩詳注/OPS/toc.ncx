@@ -343,6 +343,12 @@
                 </navLabel>
                 <content src="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02.xhtml#qu_jiang_san_zhang_zhang_wu_ju-n685"/>
             </navPoint>
+            <navPoint id="feng_zeng_xian_yu_jing_zhao_er_shi_yun-n689" playOrder="219">
+                <navLabel>
+                    <text>奉贈鮮于京兆二十韻</text>
+                </navLabel>
+                <content src="c3_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan02.xhtml#feng_zeng_xian_yu_jing_zhao_er_shi_yun-n689"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03" playOrder="300">
             <navLabel>
