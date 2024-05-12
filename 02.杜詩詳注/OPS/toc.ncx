@@ -391,6 +391,12 @@
                 </navLabel>
                 <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#feng_pei_zheng_fu_ma_wei_qu_er_shou-n708"/>
             </navPoint>
+            <navPoint id="zhong_guo-n710" playOrder="302">
+                <navLabel>
+                    <text>重過何氏五首</text>
+                </navLabel>
+                <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#zhong_guo-n710"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04" playOrder="400">
             <navLabel>
