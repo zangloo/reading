@@ -427,6 +427,12 @@
                 </navLabel>
                 <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#mei_bei_xi_nan_tai-n724"/>
             </navPoint>
+            <navPoint id="yu_hu_xian_yuan_da_shao-n725" playOrder="308">
+                <navLabel>
+                    <text>與鄠縣源大少府宴渼陂</text>
+                </navLabel>
+                <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#yu_hu_xian_yuan_da_shao-n725"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04" playOrder="400">
             <navLabel>
