@@ -415,6 +415,12 @@
                 </navLabel>
                 <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#cheng_xi_bei_fan_zhou-n720"/>
             </navPoint>
+            <navPoint id="mei_bei_xing-n722" playOrder="306">
+                <navLabel>
+                    <text>渼陂行</text>
+                </navLabel>
+                <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#mei_bei_xing-n722"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04" playOrder="400">
             <navLabel>
