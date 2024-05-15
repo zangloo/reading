@@ -439,6 +439,12 @@
                 </navLabel>
                 <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#zeng_tian_jiu_pan_guan_liang_qiu-n728"/>
             </navPoint>
+            <navPoint id="tou_zeng_ge_shu_han-n729" playOrder="310">
+                <navLabel>
+                    <text>投贈哥舒開府翰二十韻</text>
+                </navLabel>
+                <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#tou_zeng_ge_shu_han-n729"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04" playOrder="400">
             <navLabel>
