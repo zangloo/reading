@@ -445,6 +445,12 @@
                 </navLabel>
                 <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#tou_zeng_ge_shu_han-n729"/>
             </navPoint>
+            <navPoint id="ji_gao_san_shi_wu_shu_ji-n732" playOrder="311">
+                <navLabel>
+                    <text>寄高三十五書記</text>
+                </navLabel>
+                <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#ji_gao_san_shi_wu_shu_ji-n732"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04" playOrder="400">
             <navLabel>
