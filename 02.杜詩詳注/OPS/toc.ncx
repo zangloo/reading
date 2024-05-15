@@ -451,6 +451,12 @@
                 </navLabel>
                 <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#ji_gao_san_shi_wu_shu_ji-n732"/>
             </navPoint>
+            <navPoint id="song_zhang_shi_er_can_jun_fu_shu_zhou_yin_cheng_yang_wu_shi_yu-n734" playOrder="312">
+                <navLabel>
+                    <text>送張十二參軍赴蜀州因呈楊五侍御</text>
+                </navLabel>
+                <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#song_zhang_shi_er_can_jun_fu_shu_zhou_yin_cheng_yang_wu_shi_yu-n734"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04" playOrder="400">
             <navLabel>
