@@ -433,6 +433,12 @@
                 </navLabel>
                 <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#yu_hu_xian_yuan_da_shao-n725"/>
             </navPoint>
+            <navPoint id="zeng_tian_jiu_pan_guan_liang_qiu-n728" playOrder="309">
+                <navLabel>
+                    <text>贈田九判官梁丘</text>
+                </navLabel>
+                <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#zeng_tian_jiu_pan_guan_liang_qiu-n728"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04" playOrder="400">
             <navLabel>
