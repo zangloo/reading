@@ -457,6 +457,12 @@
                 </navLabel>
                 <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#song_zhang_shi_er_can_jun_fu_shu_zhou_yin_cheng_yang_wu_shi_yu-n734"/>
             </navPoint>
+            <navPoint id="zeng_chen_er_bu_que-n738" playOrder="313">
+                <navLabel>
+                    <text>贈陳二補闕</text>
+                </navLabel>
+                <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#zeng_chen_er_bu_que-n738"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04" playOrder="400">
             <navLabel>
