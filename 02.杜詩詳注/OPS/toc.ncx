@@ -463,6 +463,12 @@
                 </navLabel>
                 <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#zeng_chen_er_bu_que-n738"/>
             </navPoint>
+            <navPoint id="bing_hou_guo-n739" playOrder="314">
+                <navLabel>
+                    <text>病後過王倚飲贈歌</text>
+                </navLabel>
+                <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#bing_hou_guo-n739"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04" playOrder="400">
             <navLabel>
