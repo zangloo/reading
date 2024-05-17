@@ -481,6 +481,12 @@
                 </navLabel>
                 <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#zeng_xian_na_shi-n742"/>
             </navPoint>
+            <navPoint id="cui_fu_ma_shan_ting_yan_ji-n745" playOrder="317">
+                <navLabel>
+                    <text>崔駙馬山亭宴集</text>
+                </navLabel>
+                <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#cui_fu_ma_shan_ting_yan_ji-n745"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04" playOrder="400">
             <navLabel>
