@@ -487,6 +487,12 @@
                 </navLabel>
                 <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#cui_fu_ma_shan_ting_yan_ji-n745"/>
             </navPoint>
+            <navPoint id="shi_cong-n747" playOrder="318">
+                <navLabel>
+                    <text>示從孫濟</text>
+                </navLabel>
+                <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#shi_cong-n747"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04" playOrder="400">
             <navLabel>
