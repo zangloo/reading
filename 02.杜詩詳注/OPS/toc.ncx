@@ -511,6 +511,12 @@
                 </navLabel>
                 <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#cheng_shen_ba_zhang-n753"/>
             </navPoint>
+            <navPoint id="ku_yu_feng_ji_long_xi_gong_jian_cheng_wang_zhi_shi-n754" playOrder="322">
+                <navLabel>
+                    <text>苦雨奉寄隴西公兼呈王徵士</text>
+                </navLabel>
+                <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#ku_yu_feng_ji_long_xi_gong_jian_cheng_wang_zhi_shi-n754"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04" playOrder="400">
             <navLabel>
