@@ -493,6 +493,12 @@
                 </navLabel>
                 <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#shi_cong-n747"/>
             </navPoint>
+            <navPoint id="jiu_ri_ji_cen_can-n749" playOrder="319">
+                <navLabel>
+                    <text>九日寄岑參</text>
+                </navLabel>
+                <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#jiu_ri_ji_cen_can-n749"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04" playOrder="400">
             <navLabel>
