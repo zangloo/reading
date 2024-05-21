@@ -541,6 +541,12 @@
                 </navLabel>
                 <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#sha_yuan_xing-n766"/>
             </navPoint>
+            <navPoint id="qiao_ling_shi_san_shi_yun_yin_cheng_xian_nei_zhu_guan-n770" playOrder="326">
+                <navLabel>
+                    <text>橋陵詩三十韻因呈縣内諸官</text>
+                </navLabel>
+                <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#qiao_ling_shi_san_shi_yun_yin_cheng_xian_nei_zhu_guan-n770"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04" playOrder="400">
             <navLabel>
