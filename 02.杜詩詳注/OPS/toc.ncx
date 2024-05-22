@@ -547,6 +547,12 @@
                 </navLabel>
                 <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#qiao_ling_shi_san_shi_yun_yin_cheng_xian_nei_zhu_guan-n770"/>
             </navPoint>
+            <navPoint id="song_cai_xi_lu-n776" playOrder="327">
+                <navLabel>
+                    <text>送蔡希魯都尉還隴右因寄高三十五書記</text>
+                </navLabel>
+                <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#song_cai_xi_lu-n776"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04" playOrder="400">
             <navLabel>
