@@ -559,6 +559,12 @@
                 </navLabel>
                 <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#zui_ge_xing-n779"/>
             </navPoint>
+            <navPoint id="sheng_de_chu_xiang_yin_xu-n781" playOrder="329">
+                <navLabel>
+                    <text>陪李金吾花下飲</text>
+                </navLabel>
+                <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#sheng_de_chu_xiang_yin_xu-n781"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04" playOrder="400">
             <navLabel>
