@@ -583,6 +583,12 @@
                 </navLabel>
                 <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#ye_ting-n785"/>
             </navPoint>
+            <navPoint id="xi_jian_zheng_guang_wen-n786" playOrder="333">
+                <navLabel>
+                    <text>戲簡鄭廣文兼呈蘇司業</text>
+                </navLabel>
+                <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#xi_jian_zheng_guang_wen-n786"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04" playOrder="400">
             <navLabel>
