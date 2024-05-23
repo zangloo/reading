@@ -571,6 +571,12 @@
                 </navLabel>
                 <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#guan_ding_hou_xi_zeng-n782"/>
             </navPoint>
+            <navPoint id="qu_yi_xing-n784" playOrder="331">
+                <navLabel>
+                    <text>去矣行</text>
+                </navLabel>
+                <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#qu_yi_xing-n784"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04" playOrder="400">
             <navLabel>
