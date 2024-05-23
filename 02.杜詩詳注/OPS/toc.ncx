@@ -565,6 +565,12 @@
                 </navLabel>
                 <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#sheng_de_chu_xiang_yin_xu-n781"/>
             </navPoint>
+            <navPoint id="guan_ding_hou_xi_zeng-n782" playOrder="330">
+                <navLabel>
+                    <text>官定後戲贈</text>
+                </navLabel>
+                <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#guan_ding_hou_xi_zeng-n782"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04" playOrder="400">
             <navLabel>
