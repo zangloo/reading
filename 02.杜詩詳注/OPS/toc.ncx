@@ -589,6 +589,12 @@
                 </navLabel>
                 <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#xi_jian_zheng_guang_wen-n786"/>
             </navPoint>
+            <navPoint id="xia_ri_li_gong-n788" playOrder="334">
+                <navLabel>
+                    <text>夏日李公見訪</text>
+                </navLabel>
+                <content src="c4_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan03.xhtml#xia_ri_li_gong-n788"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04" playOrder="400">
             <navLabel>
