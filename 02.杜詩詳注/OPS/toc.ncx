@@ -601,6 +601,12 @@
                 <text>卷四</text>
             </navLabel>
             <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml"/>
+            <navPoint id="tian_yu_biao-n790" playOrder="401">
+                <navLabel>
+                    <text>天育驃圖歌</text>
+                </navLabel>
+                <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#tian_yu_biao-n790"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05" playOrder="500">
             <navLabel>
