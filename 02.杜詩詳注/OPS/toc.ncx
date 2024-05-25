@@ -619,6 +619,12 @@
                 </navLabel>
                 <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#wei_jiang_jun_ge-n796"/>
             </navPoint>
+            <navPoint id="bai_shui_ming_fu_jiu_zhai_xi_yu-n798" playOrder="404">
+                <navLabel>
+                    <text>白水明府舅宅喜雨</text>
+                </navLabel>
+                <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#bai_shui_ming_fu_jiu_zhai_xi_yu-n798"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05" playOrder="500">
             <navLabel>
