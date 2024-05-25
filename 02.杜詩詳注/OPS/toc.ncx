@@ -607,6 +607,12 @@
                 </navLabel>
                 <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#tian_yu_biao-n790"/>
             </navPoint>
+            <navPoint id="cong_ma_xing-n793" playOrder="402">
+                <navLabel>
+                    <text>驄馬行</text>
+                </navLabel>
+                <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#cong_ma_xing-n793"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05" playOrder="500">
             <navLabel>
