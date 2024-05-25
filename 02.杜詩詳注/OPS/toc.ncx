@@ -613,6 +613,12 @@
                 </navLabel>
                 <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#cong_ma_xing-n793"/>
             </navPoint>
+            <navPoint id="wei_jiang_jun_ge-n796" playOrder="403">
+                <navLabel>
+                    <text>魏將軍歌</text>
+                </navLabel>
+                <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#wei_jiang_jun_ge-n796"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05" playOrder="500">
             <navLabel>
