@@ -625,6 +625,12 @@
                 </navLabel>
                 <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#bai_shui_ming_fu_jiu_zhai_xi_yu-n798"/>
             </navPoint>
+            <navPoint id="jiu_ri_yang_feng_xian_hui_bai_shui_cui_ming_fu-n800" playOrder="405">
+                <navLabel>
+                    <text>九日楊奉先會白水崔明府</text>
+                </navLabel>
+                <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#jiu_ri_yang_feng_xian_hui_bai_shui_cui_ming_fu-n800"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05" playOrder="500">
             <navLabel>
