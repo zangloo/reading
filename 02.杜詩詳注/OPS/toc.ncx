@@ -631,6 +631,12 @@
                 </navLabel>
                 <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#jiu_ri_yang_feng_xian_hui_bai_shui_cui_ming_fu-n800"/>
             </navPoint>
+            <navPoint id="zi_jing_fu_feng_xian_xian_yong_huai_wu_bai_zi-n801" playOrder="406">
+                <navLabel>
+                    <text>自京赴奉先縣詠懷五百字</text>
+                </navLabel>
+                <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#zi_jing_fu_feng_xian_xian_yong_huai_wu_bai_zi-n801"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05" playOrder="500">
             <navLabel>
