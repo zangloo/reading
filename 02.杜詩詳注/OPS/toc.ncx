@@ -643,6 +643,12 @@
                 </navLabel>
                 <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#feng_xian_liu_shao-n805"/>
             </navPoint>
+            <navPoint id="feng_tong_guo_gei_shi_tang_dong_ling_jiao_zuo-n808" playOrder="408">
+                <navLabel>
+                    <text>奉同郭給事湯東靈湫作</text>
+                </navLabel>
+                <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#feng_tong_guo_gei_shi_tang_dong_ling_jiao_zuo-n808"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05" playOrder="500">
             <navLabel>
