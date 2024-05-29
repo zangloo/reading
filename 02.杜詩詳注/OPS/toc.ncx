@@ -649,6 +649,12 @@
                 </navLabel>
                 <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#feng_tong_guo_gei_shi_tang_dong_ling_jiao_zuo-n808"/>
             </navPoint>
+            <navPoint id="hou_chu_sai_wu_shou-n813" playOrder="409">
+                <navLabel>
+                    <text>後出塞五首</text>
+                </navLabel>
+                <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#hou_chu_sai_wu_shou-n813"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05" playOrder="500">
             <navLabel>
