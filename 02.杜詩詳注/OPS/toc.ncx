@@ -655,6 +655,12 @@
                 </navLabel>
                 <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#hou_chu_sai_wu_shou-n813"/>
             </navPoint>
+            <navPoint id="su_duan_xue_fu_yan_jian_xue_hua_zui_ge-n816" playOrder="410">
+                <navLabel>
+                    <text>蘇端薛復筵簡薛華醉歌</text>
+                </navLabel>
+                <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#su_duan_xue_fu_yan_jian_xue_hua_zui_ge-n816"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05" playOrder="500">
             <navLabel>
