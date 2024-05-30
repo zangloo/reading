@@ -661,6 +661,12 @@
                 </navLabel>
                 <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#su_duan_xue_fu_yan_jian_xue_hua_zui_ge-n816"/>
             </navPoint>
+            <navPoint id="hui_ri_xun_cui_ji_li_feng-n817" playOrder="411">
+                <navLabel>
+                    <text>晦日尋崔戢李封</text>
+                </navLabel>
+                <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#hui_ri_xun_cui_ji_li_feng-n817"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05" playOrder="500">
             <navLabel>
