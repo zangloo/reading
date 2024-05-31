@@ -667,6 +667,12 @@
                 </navLabel>
                 <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#hui_ri_xun_cui_ji_li_feng-n817"/>
             </navPoint>
+            <navPoint id="bai_shui_cui_shao-n821" playOrder="412">
+                <navLabel>
+                    <text>白水崔少府十九翁高齋三十韻</text>
+                </navLabel>
+                <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#bai_shui_cui_shao-n821"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05" playOrder="500">
             <navLabel>
