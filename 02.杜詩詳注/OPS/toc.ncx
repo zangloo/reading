@@ -679,6 +679,12 @@
                 </navLabel>
                 <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#san_chuan_guan_shui_zhang_er_shi_yun-n823"/>
             </navPoint>
+            <navPoint id="yue_ye-n829" playOrder="414">
+                <navLabel>
+                    <text>月夜</text>
+                </navLabel>
+                <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#yue_ye-n829"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05" playOrder="500">
             <navLabel>
