@@ -673,6 +673,12 @@
                 </navLabel>
                 <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#bai_shui_cui_shao-n821"/>
             </navPoint>
+            <navPoint id="san_chuan_guan_shui_zhang_er_shi_yun-n823" playOrder="413">
+                <navLabel>
+                    <text>三川觀水漲二十韻</text>
+                </navLabel>
+                <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#san_chuan_guan_shui_zhang_er_shi_yun-n823"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05" playOrder="500">
             <navLabel>
