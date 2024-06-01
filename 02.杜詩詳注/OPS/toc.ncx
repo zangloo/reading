@@ -685,6 +685,12 @@
                 </navLabel>
                 <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#yue_ye-n829"/>
             </navPoint>
+            <navPoint id="ai_wang_sun-n831" playOrder="415">
+                <navLabel>
+                    <text>哀王孫</text>
+                </navLabel>
+                <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#ai_wang_sun-n831"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05" playOrder="500">
             <navLabel>
