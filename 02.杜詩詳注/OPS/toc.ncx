@@ -721,6 +721,12 @@
                 </navLabel>
                 <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#yuan_ri_ji_wei_shi_mei-n840-2"/>
             </navPoint>
+            <navPoint id="guo_po_shan_he_zai_cheng_chun-n841" playOrder="421">
+                <navLabel>
+                    <text>春望</text>
+                </navLabel>
+                <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#guo_po_shan_he_zai_cheng_chun-n841"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05" playOrder="500">
             <navLabel>
