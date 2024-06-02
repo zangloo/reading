@@ -697,6 +697,12 @@
                 </navLabel>
                 <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#bei_chen_tao-n835"/>
             </navPoint>
+            <navPoint id="bei_qing_ban-n838" playOrder="417">
+                <navLabel>
+                    <text>悲青坂</text>
+                </navLabel>
+                <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#bei_qing_ban-n838"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05" playOrder="500">
             <navLabel>
