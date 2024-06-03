@@ -739,6 +739,12 @@
                 </navLabel>
                 <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#yi_you_zi-n843"/>
             </navPoint>
+            <navPoint id="yi_bai_wu_ri_ye_dui_yue-n844" playOrder="424">
+                <navLabel>
+                    <text>一百五日夜對月</text>
+                </navLabel>
+                <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#yi_bai_wu_ri_ye_dui_yue-n844"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05" playOrder="500">
             <navLabel>
