@@ -727,6 +727,12 @@
                 </navLabel>
                 <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#guo_po_shan_he_zai_cheng_chun-n841"/>
             </navPoint>
+            <navPoint id="de_she_di_xiao_xi_er_shou-n842" playOrder="422">
+                <navLabel>
+                    <text>得舍弟消息二首</text>
+                </navLabel>
+                <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#de_she_di_xiao_xi_er_shou-n842"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05" playOrder="500">
             <navLabel>
