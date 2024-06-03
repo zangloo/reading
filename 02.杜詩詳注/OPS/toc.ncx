@@ -745,6 +745,12 @@
                 </navLabel>
                 <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#yi_bai_wu_ri_ye_dui_yue-n844"/>
             </navPoint>
+            <navPoint id="qian_xing-n845" playOrder="425">
+                <navLabel>
+                    <text>遣興</text>
+                </navLabel>
+                <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#qian_xing-n845"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05" playOrder="500">
             <navLabel>
