@@ -733,6 +733,12 @@
                 </navLabel>
                 <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#de_she_di_xiao_xi_er_shou-n842"/>
             </navPoint>
+            <navPoint id="yi_you_zi-n843" playOrder="423">
+                <navLabel>
+                    <text>憶幼子</text>
+                </navLabel>
+                <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#yi_you_zi-n843"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05" playOrder="500">
             <navLabel>
