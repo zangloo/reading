@@ -757,6 +757,12 @@
                 </navLabel>
                 <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#sai-n846"/>
             </navPoint>
+            <navPoint id="ai_jiang_tou-n848" playOrder="427">
+                <navLabel>
+                    <text>哀江頭</text>
+                </navLabel>
+                <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#ai_jiang_tou-n848"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05" playOrder="500">
             <navLabel>
