@@ -769,6 +769,12 @@
                 </navLabel>
                 <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#da_yun_si_zan_gong_fang_si_shou-n850"/>
             </navPoint>
+            <navPoint id="yu_guo-n854" playOrder="429">
+                <navLabel>
+                    <text>雨過蘇端</text>
+                </navLabel>
+                <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#yu_guo-n854"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05" playOrder="500">
             <navLabel>
