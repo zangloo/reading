@@ -763,6 +763,12 @@
                 </navLabel>
                 <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#ai_jiang_tou-n848"/>
             </navPoint>
+            <navPoint id="da_yun_si_zan_gong_fang_si_shou-n850" playOrder="428">
+                <navLabel>
+                    <text>大雲寺贊公房四首</text>
+                </navLabel>
+                <content src="c5_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan04.xhtml#da_yun_si_zan_gong_fang_si_shou-n850"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05" playOrder="500">
             <navLabel>
