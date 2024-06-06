@@ -787,6 +787,12 @@
                 <text>卷五</text>
             </navLabel>
             <content src="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml"/>
+            <navPoint id="song_lu-n860" playOrder="501">
+                <navLabel>
+                    <text>送率府程錄事還鄉</text>
+                </navLabel>
+                <content src="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml#song_lu-n860"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06" playOrder="600">
             <navLabel>
