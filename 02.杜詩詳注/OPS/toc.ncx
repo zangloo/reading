@@ -793,6 +793,12 @@
                 </navLabel>
                 <content src="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml#song_lu-n860"/>
             </navPoint>
+            <navPoint id="zheng_fu_ma_chi_tai_xi_yu_zheng_guang_wen_tong_yin-n862" playOrder="502">
+                <navLabel>
+                    <text>鄭駙馬池臺喜遇鄭廣文同飲</text>
+                </navLabel>
+                <content src="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml#zheng_fu_ma_chi_tai_xi_yu_zheng_guang_wen_tong_yin-n862"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06" playOrder="600">
             <navLabel>
