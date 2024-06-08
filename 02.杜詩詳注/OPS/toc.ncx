@@ -817,6 +817,12 @@
                 </navLabel>
                 <content src="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml#song_wei_shi_liu-n870"/>
             </navPoint>
+            <navPoint id="shu_huai-n871" playOrder="506">
+                <navLabel>
+                    <text>述懷</text>
+                </navLabel>
+                <content src="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml#shu_huai-n871"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06" playOrder="600">
             <navLabel>
