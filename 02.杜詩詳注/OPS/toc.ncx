@@ -829,6 +829,12 @@
                 </navLabel>
                 <content src="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml#de_jia_shu-n872"/>
             </navPoint>
+            <navPoint id="song_zhang-n874" playOrder="508">
+                <navLabel>
+                    <text>送長孫九侍御赴武威判官</text>
+                </navLabel>
+                <content src="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml#song_zhang-n874"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06" playOrder="600">
             <navLabel>
