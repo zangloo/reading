@@ -865,6 +865,12 @@
                 </navLabel>
                 <content src="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml#ku_zhang-n884"/>
             </navPoint>
+            <navPoint id="feng_zeng_yan_ba_ge_lao-n886" playOrder="514">
+                <navLabel>
+                    <text>奉贈嚴八閣老</text>
+                </navLabel>
+                <content src="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml#feng_zeng_yan_ba_ge_lao-n886"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06" playOrder="600">
             <navLabel>
