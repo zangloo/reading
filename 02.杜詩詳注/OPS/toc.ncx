@@ -871,6 +871,12 @@
                 </navLabel>
                 <content src="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml#feng_zeng_yan_ba_ge_lao-n886"/>
             </navPoint>
+            <navPoint id="yue-n888" playOrder="515">
+                <navLabel>
+                    <text>月</text>
+                </navLabel>
+                <content src="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml#yue-n888"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06" playOrder="600">
             <navLabel>
