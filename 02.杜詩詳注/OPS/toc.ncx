@@ -859,6 +859,12 @@
                 </navLabel>
                 <content src="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml#song_yang_liu_pan_guan_shi-n883"/>
             </navPoint>
+            <navPoint id="ku_zhang-n884" playOrder="513">
+                <navLabel>
+                    <text>哭長孫侍御</text>
+                </navLabel>
+                <content src="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml#ku_zhang-n884"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06" playOrder="600">
             <navLabel>
