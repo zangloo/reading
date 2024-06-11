@@ -889,6 +889,12 @@
                 </navLabel>
                 <content src="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml#wan_xing_kou_hao-n891"/>
             </navPoint>
+            <navPoint id="du_zhuo_cheng_shi-n896" playOrder="518">
+                <navLabel>
+                    <text>獨酌成詩</text>
+                </navLabel>
+                <content src="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml#du_zhuo_cheng_shi-n896"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06" playOrder="600">
             <navLabel>
