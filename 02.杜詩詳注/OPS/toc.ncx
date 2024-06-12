@@ -901,6 +901,12 @@
                 </navLabel>
                 <content src="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml#tu_bu_gui_xing-n898"/>
             </navPoint>
+            <navPoint id="jiu_cheng_gong-n899" playOrder="520">
+                <navLabel>
+                    <text>九成宮</text>
+                </navLabel>
+                <content src="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml#jiu_cheng_gong-n899"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06" playOrder="600">
             <navLabel>
