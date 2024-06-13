@@ -913,6 +913,12 @@
                 </navLabel>
                 <content src="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml#yu_hua_gong-n902"/>
             </navPoint>
+            <navPoint id="qiang_cun_san_shou-n908" playOrder="522">
+                <navLabel>
+                    <text>羌村三首</text>
+                </navLabel>
+                <content src="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml#qiang_cun_san_shou-n908"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06" playOrder="600">
             <navLabel>
