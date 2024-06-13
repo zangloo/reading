@@ -907,6 +907,12 @@
                 </navLabel>
                 <content src="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml#jiu_cheng_gong-n899"/>
             </navPoint>
+            <navPoint id="yu_hua_gong-n902" playOrder="521">
+                <navLabel>
+                    <text>玉華宮</text>
+                </navLabel>
+                <content src="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml#yu_hua_gong-n902"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06" playOrder="600">
             <navLabel>
