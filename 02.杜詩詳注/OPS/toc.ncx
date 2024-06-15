@@ -925,6 +925,12 @@
                 </navLabel>
                 <content src="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml#bei_zheng-n910"/>
             </navPoint>
+            <navPoint id="xing_ci_zhao_ling-n912" playOrder="524">
+                <navLabel>
+                    <text>行次昭陵</text>
+                </navLabel>
+                <content src="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml#xing_ci_zhao_ling-n912"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06" playOrder="600">
             <navLabel>
