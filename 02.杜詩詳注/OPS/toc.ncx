@@ -931,6 +931,12 @@
                 </navLabel>
                 <content src="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml#xing_ci_zhao_ling-n912"/>
             </navPoint>
+            <navPoint id="zhong-n914" playOrder="525">
+                <navLabel>
+                    <text>重經昭陵</text>
+                </navLabel>
+                <content src="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml#zhong-n914"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06" playOrder="600">
             <navLabel>
