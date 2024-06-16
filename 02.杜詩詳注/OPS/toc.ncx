@@ -943,6 +943,12 @@
                 </navLabel>
                 <content src="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml#peng_ya_xing-n915"/>
             </navPoint>
+            <navPoint id="xi_wen_guan_jun_yi_lin_zei_jing_er_shi_yun-n916" playOrder="527">
+                <navLabel>
+                    <text>喜聞官軍已臨賊境二十韻</text>
+                </navLabel>
+                <content src="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml#xi_wen_guan_jun_yi_lin_zei_jing_er_shi_yun-n916"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06" playOrder="600">
             <navLabel>
