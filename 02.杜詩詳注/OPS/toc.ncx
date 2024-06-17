@@ -961,6 +961,12 @@
                 </navLabel>
                 <content src="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml#zheng_gong_chu_san_bin_cheng-n921"/>
             </navPoint>
+            <navPoint id="la_ri-n922" playOrder="530">
+                <navLabel>
+                    <text>臘日</text>
+                </navLabel>
+                <content src="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml#la_ri-n922"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06" playOrder="600">
             <navLabel>
