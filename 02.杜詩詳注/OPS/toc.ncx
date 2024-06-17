@@ -949,6 +949,12 @@
                 </navLabel>
                 <content src="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml#xi_wen_guan_jun_yi_lin_zei_jing_er_shi_yun-n916"/>
             </navPoint>
+            <navPoint id="shou_jing_san_shou-n918" playOrder="528">
+                <navLabel>
+                    <text>收京三首</text>
+                </navLabel>
+                <content src="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml#shou_jing_san_shou-n918"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06" playOrder="600">
             <navLabel>
