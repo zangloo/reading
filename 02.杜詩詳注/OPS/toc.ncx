@@ -967,6 +967,12 @@
                 </navLabel>
                 <content src="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml#feng_he-n924"/>
             </navPoint>
+            <navPoint id="zao_chao-n928" playOrder="532">
+                <navLabel>
+                    <text>早朝大明宮呈兩省僚友</text>
+                </navLabel>
+                <content src="c6_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan05.xhtml#zao_chao-n928"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06" playOrder="600">
             <navLabel>
