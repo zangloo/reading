@@ -991,6 +991,12 @@
                 <text>卷六</text>
             </navLabel>
             <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml"/>
+            <navPoint id="xuan_zheng_dian_tui_chao-n936" playOrder="601">
+                <navLabel>
+                    <text>宣政殿退朝晚岀左掖</text>
+                </navLabel>
+                <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#xuan_zheng_dian_tui_chao-n936"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07" playOrder="700">
             <navLabel>
