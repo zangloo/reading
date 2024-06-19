@@ -997,6 +997,12 @@
                 </navLabel>
                 <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#xuan_zheng_dian_tui_chao-n936"/>
             </navPoint>
+            <navPoint id="zi_chen_dian_tui_chao-n938" playOrder="602">
+                <navLabel>
+                    <text>紫宸殿退朝口號</text>
+                </navLabel>
+                <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#zi_chen_dian_tui_chao-n938"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07" playOrder="700">
             <navLabel>
