@@ -1003,6 +1003,12 @@
                 </navLabel>
                 <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#zi_chen_dian_tui_chao-n938"/>
             </navPoint>
+            <navPoint id="hua_yin_ye_yuan_mu_jiu_jiu_qi_niao_guo-n939" playOrder="603">
+                <navLabel>
+                    <text>春宿左省</text>
+                </navLabel>
+                <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#hua_yin_ye_yuan_mu_jiu_jiu_qi_niao_guo-n939"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07" playOrder="700">
             <navLabel>
