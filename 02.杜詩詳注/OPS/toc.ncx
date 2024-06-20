@@ -1027,6 +1027,12 @@
                 </navLabel>
                 <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#song_jia_ge_lao_chu_ru_zhou-n942"/>
             </navPoint>
+            <navPoint id="song_zhang_han_lin-n942-2" playOrder="607">
+                <navLabel>
+                    <text>送翰林張司馬南海勒碑</text>
+                </navLabel>
+                <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#song_zhang_han_lin-n942-2"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07" playOrder="700">
             <navLabel>
