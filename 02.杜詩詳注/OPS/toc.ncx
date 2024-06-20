@@ -1021,6 +1021,12 @@
                 </navLabel>
                 <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#ti_sheng_zhong_bi-n941"/>
             </navPoint>
+            <navPoint id="song_jia_ge_lao_chu_ru_zhou-n942" playOrder="606">
+                <navLabel>
+                    <text>送賈閣老出汝州</text>
+                </navLabel>
+                <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#song_jia_ge_lao_chu_ru_zhou-n942"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07" playOrder="700">
             <navLabel>
