@@ -1015,6 +1015,12 @@
                 </navLabel>
                 <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#zhou_ke_chuan_hu_qian_chun_qi_cu_zhang_qi_tui_chao-n940"/>
             </navPoint>
+            <navPoint id="ti_sheng_zhong_bi-n941" playOrder="605">
+                <navLabel>
+                    <text>題省中壁</text>
+                </navLabel>
+                <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#ti_sheng_zhong_bi-n941"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07" playOrder="700">
             <navLabel>
