@@ -1039,6 +1039,12 @@
                 </navLabel>
                 <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#qu_jiang_pei_zheng_ba_zhang_nan_shi_yin-n943"/>
             </navPoint>
+            <navPoint id="qu_jiang_er_shou-n944" playOrder="609">
+                <navLabel>
+                    <text>曲江二首</text>
+                </navLabel>
+                <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#qu_jiang_er_shou-n944"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07" playOrder="700">
             <navLabel>
