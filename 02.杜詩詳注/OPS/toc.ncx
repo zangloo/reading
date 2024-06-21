@@ -1069,6 +1069,12 @@
                 </navLabel>
                 <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#ji_zuo_sheng_du_shi_yi-n954"/>
             </navPoint>
+            <navPoint id="zhong_yun_sheng_ming_jiu_ru_jin_qi-n955" playOrder="614">
+                <navLabel>
+                    <text>奉贈王中允維</text>
+                </navLabel>
+                <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#zhong_yun_sheng_ming_jiu_ru_jin_qi-n955"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07" playOrder="700">
             <navLabel>
