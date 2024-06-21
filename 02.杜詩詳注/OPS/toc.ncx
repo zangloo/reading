@@ -1063,6 +1063,12 @@
                 </navLabel>
                 <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#feng_da_cen_can_bu_que_jian_zeng-n952"/>
             </navPoint>
+            <navPoint id="ji_zuo_sheng_du_shi_yi-n954" playOrder="613">
+                <navLabel>
+                    <text>寄左省杜拾遺</text>
+                </navLabel>
+                <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#ji_zuo_sheng_du_shi_yi-n954"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07" playOrder="700">
             <navLabel>
