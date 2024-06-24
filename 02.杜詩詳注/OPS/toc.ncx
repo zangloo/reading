@@ -1123,6 +1123,12 @@
                 </navLabel>
                 <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#tai_zhou_de_kuo-n964"/>
             </navPoint>
+            <navPoint id="shou-n965" playOrder="623">
+                <navLabel>
+                    <text>瘦馬行</text>
+                </navLabel>
+                <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#shou-n965"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07" playOrder="700">
             <navLabel>
