@@ -1117,6 +1117,12 @@
                 </navLabel>
                 <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#zeng_bi_si_yao-n963_2"/>
             </navPoint>
+            <navPoint id="tai_zhou_de_kuo-n964" playOrder="622">
+                <navLabel>
+                    <text>題鄭十八著作丈故居</text>
+                </navLabel>
+                <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#tai_zhou_de_kuo-n964"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07" playOrder="700">
             <navLabel>
