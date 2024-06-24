@@ -1105,6 +1105,12 @@
                 </navLabel>
                 <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#song_li_xiao_shu_er_shi_liu_yun-n962"/>
             </navPoint>
+            <navPoint id="bi_ce_xing-n963" playOrder="620">
+                <navLabel>
+                    <text>偪側行贈畢四曜</text>
+                </navLabel>
+                <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#bi_ce_xing-n963"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07" playOrder="700">
             <navLabel>
