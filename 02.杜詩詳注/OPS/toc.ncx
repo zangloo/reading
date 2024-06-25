@@ -1141,6 +1141,12 @@
                 </navLabel>
                 <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#hua_gu_xing-n972"/>
             </navPoint>
+            <navPoint id="duan_wu_ri_ci_yi-n974" playOrder="626">
+                <navLabel>
+                    <text>端午日賜衣</text>
+                </navLabel>
+                <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#duan_wu_ri_ci_yi-n974"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07" playOrder="700">
             <navLabel>
