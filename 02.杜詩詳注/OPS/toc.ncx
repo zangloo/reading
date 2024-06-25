@@ -1135,6 +1135,12 @@
                 </navLabel>
                 <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#yi_gu-n968"/>
             </navPoint>
+            <navPoint id="hua_gu_xing-n972" playOrder="625">
+                <navLabel>
+                    <text>畫鶻行</text>
+                </navLabel>
+                <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#hua_gu_xing-n972"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07" playOrder="700">
             <navLabel>
