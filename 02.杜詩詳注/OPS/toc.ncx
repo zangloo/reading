@@ -1171,6 +1171,12 @@
                 </navLabel>
                 <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#zeng_gao_shi_yan-n980"/>
             </navPoint>
+            <navPoint id="ti_zheng_xian_ting_zi-n982" playOrder="631">
+                <navLabel>
+                    <text>題鄭縣亭子</text>
+                </navLabel>
+                <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#ti_zheng_xian_ting_zi-n982"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07" playOrder="700">
             <navLabel>
