@@ -1177,6 +1177,12 @@
                 </navLabel>
                 <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#ti_zheng_xian_ting_zi-n982"/>
             </navPoint>
+            <navPoint id="wang_yue-n983" playOrder="632">
+                <navLabel>
+                    <text>望岳</text>
+                </navLabel>
+                <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#wang_yue-n983"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07" playOrder="700">
             <navLabel>
