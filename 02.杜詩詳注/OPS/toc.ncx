@@ -1159,6 +1159,12 @@
                 </navLabel>
                 <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#ci_dao_xi_gui_shun_xi_jiao_hu_zheng-n978"/>
             </navPoint>
+            <navPoint id="ji_gao_san_shi_wu_zhan_shi-n979" playOrder="629">
+                <navLabel>
+                    <text>寄高三十五詹事</text>
+                </navLabel>
+                <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#ji_gao_san_shi_wu_zhan_shi-n979"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07" playOrder="700">
             <navLabel>
