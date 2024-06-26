@@ -1165,6 +1165,12 @@
                 </navLabel>
                 <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#ji_gao_san_shi_wu_zhan_shi-n979"/>
             </navPoint>
+            <navPoint id="zeng_gao_shi_yan-n980" playOrder="630">
+                <navLabel>
+                    <text>贈高式顏</text>
+                </navLabel>
+                <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#zeng_gao_shi_yan-n980"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07" playOrder="700">
             <navLabel>
