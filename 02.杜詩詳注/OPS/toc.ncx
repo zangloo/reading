@@ -1207,6 +1207,12 @@
                 </navLabel>
                 <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#cui_shi_dong_shan_cao_tang-n992"/>
             </navPoint>
+            <navPoint id="qian_xing-n994" playOrder="637">
+                <navLabel>
+                    <text>遣興三首</text>
+                </navLabel>
+                <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#qian_xing-n994"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07" playOrder="700">
             <navLabel>
