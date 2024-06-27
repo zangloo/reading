@@ -1195,6 +1195,12 @@
                 </navLabel>
                 <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#guan_an_xi_bing_guo_fu_guan_zhong_dai_ming_er_shou-n987"/>
             </navPoint>
+            <navPoint id="jiu_ri_lan_tian_cui_shi_zhuang-n989" playOrder="635">
+                <navLabel>
+                    <text>九日藍田崔氏莊</text>
+                </navLabel>
+                <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#jiu_ri_lan_tian_cui_shi_zhuang-n989"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07" playOrder="700">
             <navLabel>
