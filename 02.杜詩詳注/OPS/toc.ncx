@@ -1225,6 +1225,12 @@
                 </navLabel>
                 <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#zhi_ri_qian_xing-n996"/>
             </navPoint>
+            <navPoint id="lu_feng_xiang_yang_yang_shao-n1000" playOrder="640">
+                <navLabel>
+                    <text>路逢襄陽楊少府入城戲呈楊四員外綰</text>
+                </navLabel>
+                <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#lu_feng_xiang_yang_yang_shao-n1000"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07" playOrder="700">
             <navLabel>
