@@ -1243,6 +1243,12 @@
                 </navLabel>
                 <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#wen_xiang-n1001_2"/>
             </navPoint>
+            <navPoint id="xi_zeng_wen_xiang_qin_shao-n1002" playOrder="643">
+                <navLabel>
+                    <text>戲贈閿鄉秦少府短歌</text>
+                </navLabel>
+                <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#xi_zeng_wen_xiang_qin_shao-n1002"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07" playOrder="700">
             <navLabel>
