@@ -1237,6 +1237,12 @@
                 </navLabel>
                 <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#dong_mo_yi_shi_zhi_dong_dou-n1001"/>
             </navPoint>
+            <navPoint id="wen_xiang-n1001_2" playOrder="642">
+                <navLabel>
+                    <text>閿鄉姜七少府設鱠戲贈長歌</text>
+                </navLabel>
+                <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#wen_xiang-n1001_2"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07" playOrder="700">
             <navLabel>
