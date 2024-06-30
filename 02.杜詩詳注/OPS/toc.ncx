@@ -1273,6 +1273,12 @@
                 </navLabel>
                 <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#de_she_di_xiao_xi-n1011"/>
             </navPoint>
+            <navPoint id="bu_gui-n1012" playOrder="648">
+                <navLabel>
+                    <text>不歸</text>
+                </navLabel>
+                <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#bu_gui-n1012"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07" playOrder="700">
             <navLabel>
