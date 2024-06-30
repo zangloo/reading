@@ -1279,6 +1279,12 @@
                 </navLabel>
                 <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#bu_gui-n1012"/>
             </navPoint>
+            <navPoint id="zeng_wei_ba_chu-n1015" playOrder="649">
+                <navLabel>
+                    <text>贈衛八處士</text>
+                </navLabel>
+                <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#zeng_wei_ba_chu-n1015"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07" playOrder="700">
             <navLabel>
