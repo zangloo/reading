@@ -1267,6 +1267,12 @@
                 </navLabel>
                 <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#yi_di_er_shou-n1008"/>
             </navPoint>
+            <navPoint id="de_she_di_xiao_xi-n1011" playOrder="647">
+                <navLabel>
+                    <text>得舍弟消息</text>
+                </navLabel>
+                <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#de_she_di_xiao_xi-n1011"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07" playOrder="700">
             <navLabel>
