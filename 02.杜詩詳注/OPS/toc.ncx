@@ -1255,6 +1255,12 @@
                 </navLabel>
                 <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#li_hu-n1004"/>
             </navPoint>
+            <navPoint id="guan_bing-n1006" playOrder="645">
+                <navLabel>
+                    <text>觀兵</text>
+                </navLabel>
+                <content src="c7_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan06.xhtml#guan_bing-n1006"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07" playOrder="700">
             <navLabel>
