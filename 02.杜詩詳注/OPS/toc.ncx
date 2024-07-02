@@ -1303,6 +1303,12 @@
                 </navLabel>
                 <content src="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07.xhtml#xin_an_li-n1021"/>
             </navPoint>
+            <navPoint id="tong_guan_li-n1024" playOrder="702">
+                <navLabel>
+                    <text>潼關吏</text>
+                </navLabel>
+                <content src="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07.xhtml#tong_guan_li-n1024"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08" playOrder="800">
             <navLabel>
