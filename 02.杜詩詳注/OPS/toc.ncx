@@ -1339,6 +1339,12 @@
                 </navLabel>
                 <content src="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07.xhtml#xia_ri_tan-n1035"/>
             </navPoint>
+            <navPoint id="yong_ri_bu_ke_mu_yan_zheng_du_wo-n1037" playOrder="708">
+                <navLabel>
+                    <text>夏夜歎</text>
+                </navLabel>
+                <content src="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07.xhtml#yong_ri_bu_ke_mu_yan_zheng_du_wo-n1037"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08" playOrder="800">
             <navLabel>
