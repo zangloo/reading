@@ -1351,6 +1351,12 @@
                 </navLabel>
                 <content src="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07.xhtml#li_qiu_hou_ti-n1039"/>
             </navPoint>
+            <navPoint id="yi_ruan_yin_ju-n1040" playOrder="710">
+                <navLabel>
+                    <text>貽阮隱居</text>
+                </navLabel>
+                <content src="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07.xhtml#yi_ruan_yin_ju-n1040"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08" playOrder="800">
             <navLabel>
