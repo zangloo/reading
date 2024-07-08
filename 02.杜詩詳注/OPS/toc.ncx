@@ -1387,6 +1387,12 @@
                 </navLabel>
                 <content src="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07.xhtml#you_huai_tai_zhou_zheng_shi_ba_si_hu-n1054"/>
             </navPoint>
+            <navPoint id="qian_xing-n1055" playOrder="716">
+                <navLabel>
+                    <text>遣興五首</text>
+                </navLabel>
+                <content src="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07.xhtml#qian_xing-n1055"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08" playOrder="800">
             <navLabel>
