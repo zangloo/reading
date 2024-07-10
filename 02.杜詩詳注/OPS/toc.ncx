@@ -1411,6 +1411,12 @@
                 </navLabel>
                 <content src="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07.xhtml#qin_zhou_za_shi_er_shi_shou-n1064"/>
             </navPoint>
+            <navPoint id="yue_ye_yi_she_di-n1080" playOrder="720">
+                <navLabel>
+                    <text>月夜憶舍弟</text>
+                </navLabel>
+                <content src="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07.xhtml#yue_ye_yi_she_di-n1080"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08" playOrder="800">
             <navLabel>
