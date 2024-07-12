@@ -1447,6 +1447,12 @@
                 </navLabel>
                 <content src="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07.xhtml#ji_zan_shang_ren-n1088"/>
             </navPoint>
+            <navPoint id="tai_ping_si_quan_yan-n1089" playOrder="726">
+                <navLabel>
+                    <text>太平寺泉眼</text>
+                </navLabel>
+                <content src="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07.xhtml#tai_ping_si_quan_yan-n1089"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08" playOrder="800">
             <navLabel>
