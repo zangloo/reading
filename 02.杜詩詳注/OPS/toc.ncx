@@ -1471,6 +1471,12 @@
                 </navLabel>
                 <content src="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07.xhtml#yu_mu-n1095"/>
             </navPoint>
+            <navPoint id="shan_si-n1095_2" playOrder="730">
+                <navLabel>
+                    <text>山寺</text>
+                </navLabel>
+                <content src="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07.xhtml#shan_si-n1095_2"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08" playOrder="800">
             <navLabel>
