@@ -1459,6 +1459,12 @@
                 </navLabel>
                 <content src="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07.xhtml#dong_lou-n1091"/>
             </navPoint>
+            <navPoint id="yu_qing-n1093" playOrder="728">
+                <navLabel>
+                    <text>雨晴</text>
+                </navLabel>
+                <content src="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07.xhtml#yu_qing-n1093"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08" playOrder="800">
             <navLabel>
