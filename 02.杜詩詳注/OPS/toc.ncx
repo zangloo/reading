@@ -1483,6 +1483,12 @@
                 </navLabel>
                 <content src="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07.xhtml#wen_dao-n1096"/>
             </navPoint>
+            <navPoint id="qian_huai-n1097" playOrder="732">
+                <navLabel>
+                    <text>遣懷</text>
+                </navLabel>
+                <content src="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07.xhtml#qian_huai-n1097"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08" playOrder="800">
             <navLabel>
