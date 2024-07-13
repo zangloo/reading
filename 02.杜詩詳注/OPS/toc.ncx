@@ -1513,6 +1513,12 @@
                 </navLabel>
                 <content src="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07.xhtml#gui_yan-n1102"/>
             </navPoint>
+            <navPoint id="cu_zhi_shen_wei_xi_ai_yin-n1103" playOrder="737">
+                <navLabel>
+                    <text>促織</text>
+                </navLabel>
+                <content src="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07.xhtml#cu_zhi_shen_wei_xi_ai_yin-n1103"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08" playOrder="800">
             <navLabel>
