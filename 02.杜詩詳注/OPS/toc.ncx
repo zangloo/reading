@@ -1531,6 +1531,12 @@
                 </navLabel>
                 <content src="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07.xhtml#jian_jia-n1105"/>
             </navPoint>
+            <navPoint id="ku_zhu-n1107" playOrder="740">
+                <navLabel>
+                    <text>苦竹</text>
+                </navLabel>
+                <content src="c8_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan07.xhtml#ku_zhu-n1107"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08" playOrder="800">
             <navLabel>
