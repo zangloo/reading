@@ -1543,6 +1543,12 @@
                 <text>卷八</text>
             </navLabel>
             <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml"/>
+            <navPoint id="chu_jia" playOrder="801">
+                <navLabel>
+                    <text>除架</text>
+                </navLabel>
+                <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#chu_jia"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09" playOrder="900">
             <navLabel>
