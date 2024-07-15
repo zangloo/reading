@@ -1561,6 +1561,12 @@
                 </navLabel>
                 <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#xi_feng"/>
             </navPoint>
+            <navPoint id="qiu_di" playOrder="804">
+                <navLabel>
+                    <text>秋笛</text>
+                </navLabel>
+                <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#qiu_di"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09" playOrder="900">
             <navLabel>
