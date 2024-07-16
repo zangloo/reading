@@ -1627,6 +1627,12 @@
                 </navLabel>
                 <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#zuo_hai_shan_hou_ji_san_shou"/>
             </navPoint>
+            <navPoint id="cong_ren_mi_xiao_hu_sun_xu_ji" playOrder="815">
+                <navLabel>
+                    <text>從人覓小胡孫許寄</text>
+                </navLabel>
+                <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#cong_ren_mi_xiao_hu_sun_xu_ji"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09" playOrder="900">
             <navLabel>
