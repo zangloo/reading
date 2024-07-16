@@ -1621,6 +1621,12 @@
                 </navLabel>
                 <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#shi_zhi_zuo"/>
             </navPoint>
+            <navPoint id="zuo_hai_shan_hou_ji_san_shou" playOrder="814">
+                <navLabel>
+                    <text>佐還山後寄三首</text>
+                </navLabel>
+                <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#zuo_hai_shan_hou_ji_san_shou"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09" playOrder="900">
             <navLabel>
