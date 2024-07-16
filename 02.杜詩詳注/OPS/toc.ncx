@@ -1609,6 +1609,12 @@
                 </navLabel>
                 <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#song_yuan"/>
             </navPoint>
+            <navPoint id="ruo_shui_ying" playOrder="812">
+                <navLabel>
+                    <text>送人從軍</text>
+                </navLabel>
+                <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#ruo_shui_ying"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09" playOrder="900">
             <navLabel>
