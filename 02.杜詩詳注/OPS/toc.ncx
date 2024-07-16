@@ -1615,6 +1615,12 @@
                 </navLabel>
                 <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#ruo_shui_ying"/>
             </navPoint>
+            <navPoint id="shi_zhi_zuo" playOrder="813">
+                <navLabel>
+                    <text>示姪佐</text>
+                </navLabel>
+                <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#shi_zhi_zuo"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09" playOrder="900">
             <navLabel>
