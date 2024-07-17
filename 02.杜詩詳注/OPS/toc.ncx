@@ -1633,6 +1633,12 @@
                 </navLabel>
                 <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#cong_ren_mi_xiao_hu_sun_xu_ji"/>
             </navPoint>
+            <navPoint id="qiu_ri_ruan" playOrder="816">
+                <navLabel>
+                    <text>秋日阮隱居致薤三十束</text>
+                </navLabel>
+                <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#qiu_ri_ruan"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09" playOrder="900">
             <navLabel>
