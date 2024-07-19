@@ -1645,6 +1645,12 @@
                 </navLabel>
                 <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#qin_zhou_jian_chi"/>
             </navPoint>
+            <navPoint id="ji_peng_zhou_gao_san_shi_wu_shi" playOrder="818">
+                <navLabel>
+                    <text>寄彭州高三十五使君適虢州岑二十七長史參三十韻</text>
+                </navLabel>
+                <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#ji_peng_zhou_gao_san_shi_wu_shi"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09" playOrder="900">
             <navLabel>
