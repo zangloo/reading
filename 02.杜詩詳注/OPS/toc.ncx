@@ -1651,6 +1651,12 @@
                 </navLabel>
                 <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#ji_peng_zhou_gao_san_shi_wu_shi"/>
             </navPoint>
+            <navPoint id="ji_yue_zhou" playOrder="819">
+                <navLabel>
+                    <text>寄岳州賈司馬六丈巴州嚴八使君兩閣老五十韻</text>
+                </navLabel>
+                <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#ji_yue_zhou"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09" playOrder="900">
             <navLabel>
