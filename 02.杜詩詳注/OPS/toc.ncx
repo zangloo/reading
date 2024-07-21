@@ -1657,6 +1657,12 @@
                 </navLabel>
                 <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#ji_yue_zhou"/>
             </navPoint>
+            <navPoint id="ji_zhang_shi_er_shan_ren_biao_san_shi_yun" playOrder="820">
+                <navLabel>
+                    <text>寄張十二山人彪三十韻</text>
+                </navLabel>
+                <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#ji_zhang_shi_er_shan_ren_biao_san_shi_yun"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09" playOrder="900">
             <navLabel>
