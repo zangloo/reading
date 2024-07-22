@@ -1675,6 +1675,12 @@
                 </navLabel>
                 <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#suo_si"/>
             </navPoint>
+            <navPoint id="bie_zan_shang_ren" playOrder="823">
+                <navLabel>
+                    <text>别贊上人</text>
+                </navLabel>
+                <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#bie_zan_shang_ren"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09" playOrder="900">
             <navLabel>
