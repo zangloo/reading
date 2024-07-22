@@ -1669,6 +1669,12 @@
                 </navLabel>
                 <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#ji_li_shi_er_bai_er_shi_yun"/>
             </navPoint>
+            <navPoint id="suo_si" playOrder="822">
+                <navLabel>
+                    <text>所思</text>
+                </navLabel>
+                <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#suo_si"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09" playOrder="900">
             <navLabel>
