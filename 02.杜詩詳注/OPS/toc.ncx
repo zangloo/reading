@@ -1681,6 +1681,12 @@
                 </navLabel>
                 <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#bie_zan_shang_ren"/>
             </navPoint>
+            <navPoint id="liang_dang_xian_wu_shi_shi_yu_jiang_shang_zhai" playOrder="824">
+                <navLabel>
+                    <text>兩當縣吳十侍御江上宅</text>
+                </navLabel>
+                <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#liang_dang_xian_wu_shi_shi_yu_jiang_shang_zhai"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09" playOrder="900">
             <navLabel>
