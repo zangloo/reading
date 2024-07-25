@@ -117,13 +117,16 @@ small {
     display: unset;
 }
 
+span.book-name {
+    text-decoration: wavy underline;
+}
+
 span.date{
     color: black;
 }
 
 span.name, span.dynasty, span.place {
     text-decoration-line: underline;
-
 }
 
 span.sectional, span.comment {
