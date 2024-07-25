@@ -1699,6 +1699,12 @@
                 </navLabel>
                 <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#chi_gu"/>
             </navPoint>
+            <navPoint id="tie_tang_xia" playOrder="827">
+                <navLabel>
+                    <text>鐵堂峽</text>
+                </navLabel>
+                <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#tie_tang_xia"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09" playOrder="900">
             <navLabel>
