@@ -1687,6 +1687,12 @@
                 </navLabel>
                 <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#liang_dang_xian_wu_shi_shi_yu_jiang_shang_zhai"/>
             </navPoint>
+            <navPoint id="fa_qin_zhou" playOrder="825">
+                <navLabel>
+                    <text>發秦州</text>
+                </navLabel>
+                <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#fa_qin_zhou"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09" playOrder="900">
             <navLabel>
