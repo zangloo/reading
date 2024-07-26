@@ -1729,6 +1729,12 @@
                 </navLabel>
                 <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#sai_wai_ku_yan_shan_nan_xing_dao"/>
             </navPoint>
+            <navPoint id="long_men_zhen" playOrder="832">
+                <navLabel>
+                    <text>龍門鎮</text>
+                </navLabel>
+                <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#long_men_zhen"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09" playOrder="900">
             <navLabel>
