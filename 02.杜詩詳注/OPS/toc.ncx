@@ -1723,6 +1723,12 @@
                 </navLabel>
                 <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#shen_wei_shi_ta_zhou_mian_qiang"/>
             </navPoint>
+            <navPoint id="sai_wai_ku_yan_shan_nan_xing_dao" playOrder="831">
+                <navLabel>
+                    <text>青陽峽</text>
+                </navLabel>
+                <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#sai_wai_ku_yan_shan_nan_xing_dao"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09" playOrder="900">
             <navLabel>
