@@ -1741,6 +1741,12 @@
                 </navLabel>
                 <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#shi_kan"/>
             </navPoint>
+            <navPoint id="ji_cao_ling" playOrder="834">
+                <navLabel>
+                    <text>積草嶺</text>
+                </navLabel>
+                <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#ji_cao_ling"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09" playOrder="900">
             <navLabel>
