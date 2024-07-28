@@ -1765,6 +1765,12 @@
                 </navLabel>
                 <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#qian_yuan_zhong_yu_ju_tong_gu_xian_zuo_ge_qi_shou"/>
             </navPoint>
+            <navPoint id="wan_zhang_tan" playOrder="838">
+                <navLabel>
+                    <text>萬丈潭</text>
+                </navLabel>
+                <content src="c9_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan08.xhtml#wan_zhang_tan"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09" playOrder="900">
             <navLabel>
