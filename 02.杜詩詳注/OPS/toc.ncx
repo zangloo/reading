@@ -1801,6 +1801,12 @@
                 </navLabel>
                 <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#shui_hui"/>
             </navPoint>
+            <navPoint id="fei_xian_ge" playOrder="905">
+                <navLabel>
+                    <text>飛仙閣</text>
+                </navLabel>
+                <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#fei_xian_ge"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" playOrder="1000">
             <navLabel>
