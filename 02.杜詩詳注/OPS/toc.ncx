@@ -1789,6 +1789,12 @@
                 </navLabel>
                 <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#mu_pi_ling"/>
             </navPoint>
+            <navPoint id="bai_sha_du" playOrder="903">
+                <navLabel>
+                    <text>白沙渡</text>
+                </navLabel>
+                <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#bai_sha_du"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" playOrder="1000">
             <navLabel>
