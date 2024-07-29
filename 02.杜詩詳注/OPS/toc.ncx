@@ -1783,6 +1783,12 @@
                 </navLabel>
                 <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#fa_tong_gu_xian"/>
             </navPoint>
+            <navPoint id="mu_pi_ling" playOrder="902">
+                <navLabel>
+                    <text>木皮嶺</text>
+                </navLabel>
+                <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#mu_pi_ling"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" playOrder="1000">
             <navLabel>
