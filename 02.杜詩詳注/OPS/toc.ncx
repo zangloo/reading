@@ -1819,6 +1819,12 @@
                 </navLabel>
                 <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#long_men_ge"/>
             </navPoint>
+            <navPoint id="shi_gui_ge" playOrder="908">
+                <navLabel>
+                    <text>石櫃閣</text>
+                </navLabel>
+                <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#shi_gui_ge"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" playOrder="1000">
             <navLabel>
