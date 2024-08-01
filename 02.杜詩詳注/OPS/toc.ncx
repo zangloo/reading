@@ -1843,6 +1843,12 @@
                 </navLabel>
                 <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#lu_tou_shan"/>
             </navPoint>
+            <navPoint id="cheng_dou_fu" playOrder="912">
+                <navLabel>
+                    <text>成都府</text>
+                </navLabel>
+                <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#cheng_dou_fu"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" playOrder="1000">
             <navLabel>
