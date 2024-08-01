@@ -1867,6 +1867,12 @@
                 </navLabel>
                 <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#bo_ju"/>
             </navPoint>
+            <navPoint id="wang_shi_wu_si_ma" playOrder="916">
+                <navLabel>
+                    <text>王十五司馬弟出郭相訪遺營草堂貲</text>
+                </navLabel>
+                <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#wang_shi_wu_si_ma"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" playOrder="1000">
             <navLabel>
