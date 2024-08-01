@@ -1849,6 +1849,12 @@
                 </navLabel>
                 <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#cheng_dou_fu"/>
             </navPoint>
+            <navPoint id="chou_gao_shi" playOrder="913">
+                <navLabel>
+                    <text>酬高使君相贈</text>
+                </navLabel>
+                <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#chou_gao_shi"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" playOrder="1000">
             <navLabel>
