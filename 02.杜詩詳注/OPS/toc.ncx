@@ -1855,6 +1855,12 @@
                 </navLabel>
                 <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#chou_gao_shi"/>
             </navPoint>
+            <navPoint id="zeng_du_er_shi_yi" playOrder="914">
+                <navLabel>
+                    <text>贈杜二拾遺</text>
+                </navLabel>
+                <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#zeng_du_er_shi_yi"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" playOrder="1000">
             <navLabel>
