@@ -1873,6 +1873,12 @@
                 </navLabel>
                 <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#wang_shi_wu_si_ma"/>
             </navPoint>
+            <navPoint id="xiao_ba_ming_fu_shi_chu_mi_tao_zai" playOrder="917">
+                <navLabel>
+                    <text>蕭八明府實處覓桃栽</text>
+                </navLabel>
+                <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#xiao_ba_ming_fu_shi_chu_mi_tao_zai"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" playOrder="1000">
             <navLabel>
