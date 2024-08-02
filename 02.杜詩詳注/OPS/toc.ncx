@@ -1879,6 +1879,12 @@
                 </navLabel>
                 <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#xiao_ba_ming_fu_shi_chu_mi_tao_zai"/>
             </navPoint>
+            <navPoint id="cong_wei_er_ming_fu_xu_chu_mi_mian" playOrder="918">
+                <navLabel>
+                    <text>從韋二明府續處覓綿竹</text>
+                </navLabel>
+                <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#cong_wei_er_ming_fu_xu_chu_mi_mian"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" playOrder="1000">
             <navLabel>
