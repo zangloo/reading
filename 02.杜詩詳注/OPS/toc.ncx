@@ -1897,6 +1897,12 @@
                 </navLabel>
                 <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#ping_wei_shao"/>
             </navPoint>
+            <navPoint id="da_yi_shao_ci_qing_qie_jian_kou_ru_ai" playOrder="921">
+                <navLabel>
+                    <text>又於韋處乞大邑瓷碗</text>
+                </navLabel>
+                <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#da_yi_shao_ci_qing_qie_jian_kou_ru_ai"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" playOrder="1000">
             <navLabel>
