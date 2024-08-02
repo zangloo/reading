@@ -1903,6 +1903,12 @@
                 </navLabel>
                 <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#da_yi_shao_ci_qing_qie_jian_kou_ru_ai"/>
             </navPoint>
+            <navPoint id="yi_xu_qing_mi_guo_zai" playOrder="922">
+                <navLabel>
+                    <text>詣徐卿覓果栽</text>
+                </navLabel>
+                <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#yi_xu_qing_mi_guo_zai"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" playOrder="1000">
             <navLabel>
