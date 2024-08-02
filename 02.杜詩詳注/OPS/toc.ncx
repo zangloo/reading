@@ -1885,6 +1885,12 @@
                 </navLabel>
                 <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#cong_wei_er_ming_fu_xu_chu_mi_mian"/>
             </navPoint>
+            <navPoint id="ping_he_shi_yi_shao" playOrder="919">
+                <navLabel>
+                    <text>憑何十一少府邕覓榿木栽</text>
+                </navLabel>
+                <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#ping_he_shi_yi_shao"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" playOrder="1000">
             <navLabel>
