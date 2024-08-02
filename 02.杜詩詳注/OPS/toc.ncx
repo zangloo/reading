@@ -1891,6 +1891,12 @@
                 </navLabel>
                 <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#ping_he_shi_yi_shao"/>
             </navPoint>
+            <navPoint id="ping_wei_shao" playOrder="920">
+                <navLabel>
+                    <text>憑韋少府班覓松樹子栽</text>
+                </navLabel>
+                <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#ping_wei_shao"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" playOrder="1000">
             <navLabel>
