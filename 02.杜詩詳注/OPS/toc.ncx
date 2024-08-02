@@ -1909,6 +1909,12 @@
                 </navLabel>
                 <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#yi_xu_qing_mi_guo_zai"/>
             </navPoint>
+            <navPoint id="tang_cheng" playOrder="923">
+                <navLabel>
+                    <text>堂成</text>
+                </navLabel>
+                <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#tang_cheng"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" playOrder="1000">
             <navLabel>
