@@ -1945,6 +1945,12 @@
                 </navLabel>
                 <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#you_qi_de_pi_jing_guo"/>
             </navPoint>
+            <navPoint id="kuang_fu" playOrder="929">
+                <navLabel>
+                    <text>狂夫</text>
+                </navLabel>
+                <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#kuang_fu"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" playOrder="1000">
             <navLabel>
