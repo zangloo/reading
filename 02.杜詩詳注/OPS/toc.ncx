@@ -2005,6 +2005,12 @@
                 </navLabel>
                 <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#ti_bi_shang_wei_yan_hua_ma_ge"/>
             </navPoint>
+            <navPoint id="xi_ti_wang_zai_hua_shan_shui_tu_ge" playOrder="939">
+                <navLabel>
+                    <text>戲題王宰畫山水圖歌</text>
+                </navLabel>
+                <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#xi_ti_wang_zai_hua_shan_shui_tu_ge"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" playOrder="1000">
             <navLabel>
