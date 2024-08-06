@@ -1999,6 +1999,12 @@
                 </navLabel>
                 <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#du_juan_xing"/>
             </navPoint>
+            <navPoint id="ti_bi_shang_wei_yan_hua_ma_ge" playOrder="938">
+                <navLabel>
+                    <text>題壁上韋偃畫馬歌</text>
+                </navLabel>
+                <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#ti_bi_shang_wei_yan_hua_ma_ge"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" playOrder="1000">
             <navLabel>
