@@ -2035,6 +2035,12 @@
                 </navLabel>
                 <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#guo_nan_lin_zhu_shan_ren_shui_ting"/>
             </navPoint>
+            <navPoint id="yin_cui_wu_shi_yu_ji_gao_peng_zhou_yi_jue" playOrder="944">
+                <navLabel>
+                    <text>因崔五侍御寄高彭州一絕</text>
+                </navLabel>
+                <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#yin_cui_wu_shi_yu_ji_gao_peng_zhou_yi_jue"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" playOrder="1000">
             <navLabel>
