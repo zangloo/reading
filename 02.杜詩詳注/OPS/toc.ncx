@@ -2029,6 +2029,12 @@
                 </navLabel>
                 <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#nan_lin"/>
             </navPoint>
+            <navPoint id="guo_nan_lin_zhu_shan_ren_shui_ting" playOrder="943">
+                <navLabel>
+                    <text>過南鄰朱山人水亭</text>
+                </navLabel>
+                <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#guo_nan_lin_zhu_shan_ren_shui_ting"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" playOrder="1000">
             <navLabel>
