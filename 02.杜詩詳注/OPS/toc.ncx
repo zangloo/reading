@@ -2047,6 +2047,12 @@
                 </navLabel>
                 <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#feng_jian_gao_san_shi_wu_shi"/>
             </navPoint>
+            <navPoint id="he" playOrder="946">
+                <navLabel>
+                    <text>和裴迪登新津寺寄王侍郎</text>
+                </navLabel>
+                <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#he"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" playOrder="1000">
             <navLabel>
