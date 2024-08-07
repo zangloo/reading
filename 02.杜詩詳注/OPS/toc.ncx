@@ -2041,6 +2041,12 @@
                 </navLabel>
                 <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#yin_cui_wu_shi_yu_ji_gao_peng_zhou_yi_jue"/>
             </navPoint>
+            <navPoint id="feng_jian_gao_san_shi_wu_shi" playOrder="945">
+                <navLabel>
+                    <text>奉簡高三十五使君</text>
+                </navLabel>
+                <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#feng_jian_gao_san_shi_wu_shi"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" playOrder="1000">
             <navLabel>
