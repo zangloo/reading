@@ -2065,6 +2065,12 @@
                 </navLabel>
                 <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#fan_xi"/>
             </navPoint>
+            <navPoint id="chu_guo" playOrder="949">
+                <navLabel>
+                    <text>出郭</text>
+                </navLabel>
+                <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#chu_guo"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" playOrder="1000">
             <navLabel>
