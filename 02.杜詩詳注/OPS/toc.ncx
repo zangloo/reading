@@ -2053,6 +2053,12 @@
                 </navLabel>
                 <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#he"/>
             </navPoint>
+            <navPoint id="zeng_shu_seng_lu_qiu_shi_xiong" playOrder="947">
+                <navLabel>
+                    <text>贈蜀僧閭丘師兄</text>
+                </navLabel>
+                <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#zeng_shu_seng_lu_qiu_shi_xiong"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" playOrder="1000">
             <navLabel>
