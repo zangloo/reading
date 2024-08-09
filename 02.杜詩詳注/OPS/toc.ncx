@@ -2077,6 +2077,12 @@
                 </navLabel>
                 <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#hen_bie"/>
             </navPoint>
+            <navPoint id="san_chou_er_shou" playOrder="951">
+                <navLabel>
+                    <text>散愁二首</text>
+                </navLabel>
+                <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#san_chou_er_shou"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" playOrder="1000">
             <navLabel>
