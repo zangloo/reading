@@ -2095,6 +2095,12 @@
                 </navLabel>
                 <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#cun_ye"/>
             </navPoint>
+            <navPoint id="ji_yang_wu_gui_zhou_tan" playOrder="954">
+                <navLabel>
+                    <text>寄楊五桂州譚</text>
+                </navLabel>
+                <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#ji_yang_wu_gui_zhou_tan"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" playOrder="1000">
             <navLabel>
