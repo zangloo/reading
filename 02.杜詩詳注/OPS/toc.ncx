@@ -2083,6 +2083,12 @@
                 </navLabel>
                 <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#san_chou_er_shou"/>
             </navPoint>
+            <navPoint id="jian_dou_shi_er_yun" playOrder="952">
+                <navLabel>
+                    <text>建都十二韻</text>
+                </navLabel>
+                <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#jian_dou_shi_er_yun"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" playOrder="1000">
             <navLabel>
