@@ -2101,6 +2101,12 @@
                 </navLabel>
                 <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#ji_yang_wu_gui_zhou_tan"/>
             </navPoint>
+            <navPoint id="xi_jiao" playOrder="955">
+                <navLabel>
+                    <text>西郊</text>
+                </navLabel>
+                <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#xi_jiao"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" playOrder="1000">
             <navLabel>
