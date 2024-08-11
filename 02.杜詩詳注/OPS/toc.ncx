@@ -2125,6 +2125,12 @@
                 </navLabel>
                 <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#ji_zeng_wang_shi_jiang_jun_cheng_jun"/>
             </navPoint>
+            <navPoint id="feng_chou_li_dou_du_biao_zhang_zao_chun_zuo" playOrder="959">
+                <navLabel>
+                    <text>奉酬李都督表丈早春作</text>
+                </navLabel>
+                <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#feng_chou_li_dou_du_biao_zhang_zao_chun_zuo"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" playOrder="1000">
             <navLabel>
