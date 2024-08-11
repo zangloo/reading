@@ -2131,6 +2131,12 @@
                 </navLabel>
                 <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#feng_chou_li_dou_du_biao_zhang_zao_chun_zuo"/>
             </navPoint>
+            <navPoint id="ti_xin_jin_bei_qiao_lou" playOrder="960">
+                <navLabel>
+                    <text>題新津北橋樓</text>
+                </navLabel>
+                <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#ti_xin_jin_bei_qiao_lou"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" playOrder="1000">
             <navLabel>
