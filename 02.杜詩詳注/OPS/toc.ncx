@@ -2119,6 +2119,12 @@
                 </navLabel>
                 <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#mu_deng_si"/>
             </navPoint>
+            <navPoint id="ji_zeng_wang_shi_jiang_jun_cheng_jun" playOrder="958">
+                <navLabel>
+                    <text>寄贈王十將軍承俊</text>
+                </navLabel>
+                <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#ji_zeng_wang_shi_jiang_jun_cheng_jun"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" playOrder="1000">
             <navLabel>
