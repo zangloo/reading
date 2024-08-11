@@ -2137,6 +2137,12 @@
                 </navLabel>
                 <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#ti_xin_jin_bei_qiao_lou"/>
             </navPoint>
+            <navPoint id="you_xiu_jue_si" playOrder="961">
+                <navLabel>
+                    <text>遊修覺寺</text>
+                </navLabel>
+                <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#you_xiu_jue_si"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" playOrder="1000">
             <navLabel>
