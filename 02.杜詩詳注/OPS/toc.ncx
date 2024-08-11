@@ -2113,6 +2113,12 @@
                 </navLabel>
                 <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#he_pei_di"/>
             </navPoint>
+            <navPoint id="mu_deng_si" playOrder="957">
+                <navLabel>
+                    <text>暮登四安寺鐘樓寄裴十迪</text>
+                </navLabel>
+                <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#mu_deng_si"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" playOrder="1000">
             <navLabel>
