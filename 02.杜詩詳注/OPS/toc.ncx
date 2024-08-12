@@ -2161,6 +2161,12 @@
                 </navLabel>
                 <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#ke_zhi"/>
             </navPoint>
+            <navPoint id="qian_yi_er_shou" playOrder="965">
+                <navLabel>
+                    <text>遣意二首</text>
+                </navLabel>
+                <content src="c10_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan09.xhtml#qian_yi_er_shou"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10" playOrder="1000">
             <navLabel>
