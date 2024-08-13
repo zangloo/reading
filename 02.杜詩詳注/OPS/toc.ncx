@@ -2173,6 +2173,12 @@
                 <text>卷十</text>
             </navLabel>
             <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml"/>
+            <navPoint id="man_cheng_er_shou" playOrder="1001">
+                <navLabel>
+                    <text>漫成二首</text>
+                </navLabel>
+                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#man_cheng_er_shou"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
