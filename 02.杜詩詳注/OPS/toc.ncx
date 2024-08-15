@@ -2251,6 +2251,12 @@
                 </navLabel>
                 <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#chun_shui_sheng_er_jue"/>
             </navPoint>
+            <navPoint id="jiang_shang_zhi" playOrder="1014">
+                <navLabel>
+                    <text>江上值水如海𫝑聊短述</text>
+                </navLabel>
+                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#jiang_shang_zhi"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
