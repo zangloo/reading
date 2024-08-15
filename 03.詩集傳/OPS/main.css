@@ -106,3 +106,33 @@ div.tleft {
 	float: none;
 }
 
+/* custom styles */
+small {
+    color :red;
+    font-family: Kaiti;
+    font-size: 20px;
+}
+
+small {
+    display: unset;
+}
+
+span.book-name {
+    text-decoration: wavy underline;
+}
+
+span.date{
+    color: blue;
+}
+
+span.name, span.dynasty, span.place {
+    text-decoration-line: underline;
+}
+
+span.sectional, span.comment {
+    text-decoration: dashed underline;
+}
+
+span.source, span.mistake {
+    text-decoration: dotted underline;
+}
