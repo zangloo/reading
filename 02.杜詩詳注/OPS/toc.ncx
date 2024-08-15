@@ -2269,6 +2269,12 @@
                 </navLabel>
                 <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#jiang_zhang-n1321"/>
             </navPoint>
+            <navPoint id="liang_qi_xiao" playOrder="1017">
+                <navLabel>
+                    <text>朝雨</text>
+                </navLabel>
+                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#liang_qi_xiao"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
