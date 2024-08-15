@@ -17,10 +17,6 @@
 						    <content src="c0_shi_ji_chuan__si_ku_quan_shu_ben_.xhtml" />
 					    </navPoint><navPoint id="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1" playOrder="3">
 									    <navLabel><text>卷一</text></navLabel>
-									    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml" /></navPoint><navPoint id="c2_shi_ji_chuan__si_ku_quan_shu_ben__quan_lan" playOrder="4">
-									    <navLabel><text>全覽</text></navLabel>
-									    <content src="c2_shi_ji_chuan__si_ku_quan_shu_ben__quan_lan.xhtml" /></navPoint><navPoint id="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1" playOrder="5">
-									    <navLabel><text>卷一</text></navLabel>
 									    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml" /></navPoint><navPoint id="c3_shi_ji_chuan__si_ku_quan_shu_ben__juan2" playOrder="6">
 									    <navLabel><text>卷二</text></navLabel>
 									    <content src="c3_shi_ji_chuan__si_ku_quan_shu_ben__juan2.xhtml" /></navPoint><navPoint id="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3" playOrder="7">
