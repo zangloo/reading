@@ -1,41 +1,101 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-			<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
-				<head>
-					<meta name="dtb:uid" content="https://zh.wikisource.org/wiki/%E8%A9%A9%E9%9B%86%E5%82%B3_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29" />
-					<meta name="dtb:depth" content="1" />
-					<meta name="dtb:totalPageCount" content="0" />
-					<meta name="dtb:maxPageNumber" content="0" />
-				</head>
-				<docTitle><text>詩集傳 (四庫全書本)</text></docTitle>
-				<docAuthor><text></text></docAuthor>
-				<navMap>
-					<navPoint id="title" playOrder="1">
-						<navLabel><text>封面</text></navLabel>
-						<content src="title.xhtml"/>
-					</navPoint><navPoint id="c0_shi_ji_chuan__si_ku_quan_shu_ben_" playOrder="2">
-						    <navLabel><text>詩集傳 (四庫全書本)</text></navLabel>
-						    <content src="c0_shi_ji_chuan__si_ku_quan_shu_ben_.xhtml" />
-					    </navPoint><navPoint id="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1" playOrder="3">
-									    <navLabel><text>卷一</text></navLabel>
-									    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml" /></navPoint><navPoint id="c3_shi_ji_chuan__si_ku_quan_shu_ben__juan2" playOrder="6">
-									    <navLabel><text>卷二</text></navLabel>
-									    <content src="c3_shi_ji_chuan__si_ku_quan_shu_ben__juan2.xhtml" /></navPoint><navPoint id="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3" playOrder="7">
-									    <navLabel><text>卷三</text></navLabel>
-									    <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml" /></navPoint><navPoint id="c5_shi_ji_chuan__si_ku_quan_shu_ben__juan4" playOrder="8">
-									    <navLabel><text>卷四</text></navLabel>
-									    <content src="c5_shi_ji_chuan__si_ku_quan_shu_ben__juan4.xhtml" /></navPoint><navPoint id="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5" playOrder="9">
-									    <navLabel><text>卷五</text></navLabel>
-									    <content src="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5.xhtml" /></navPoint><navPoint id="c7_shi_ji_chuan__si_ku_quan_shu_ben__juan6" playOrder="10">
-									    <navLabel><text>巻六</text></navLabel>
-									    <content src="c7_shi_ji_chuan__si_ku_quan_shu_ben__juan6.xhtml" /></navPoint><navPoint id="c8_shi_ji_chuan__si_ku_quan_shu_ben__juan7" playOrder="11">
-									    <navLabel><text>卷七</text></navLabel>
-									    <content src="c8_shi_ji_chuan__si_ku_quan_shu_ben__juan7.xhtml" /></navPoint><navPoint id="c9_shi_ji_chuan__si_ku_quan_shu_ben__juan8" playOrder="12">
-									    <navLabel><text>卷八</text></navLabel>
-									    <content src="c9_shi_ji_chuan__si_ku_quan_shu_ben__juan8.xhtml" /></navPoint><navPoint id="about" playOrder="13">
-						<navLabel>
-							<text>关于</text>
-						</navLabel>
-						<content src="about.xhtml"/>
-					</navPoint>
-			       </navMap>
-			</ncx>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta name="dtb:uid" content="https://zh.wikisource.org/wiki/%E8%A9%A9%E9%9B%86%E5%82%B3_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29"/>
+        <meta name="dtb:depth" content="1"/>
+        <meta name="dtb:totalPageCount" content="0"/>
+        <meta name="dtb:maxPageNumber" content="0"/>
+    </head>
+    <docTitle>
+        <text>詩集傳 (四庫全書本)</text>
+    </docTitle>
+    <docAuthor>
+        <text></text>
+    </docAuthor>
+    <navMap>
+        <navPoint id="title" playOrder="1">
+            <navLabel>
+                <text>封面</text>
+            </navLabel>
+            <content src="title.xhtml"/>
+        </navPoint>
+        <navPoint id="c0_shi_ji_chuan__si_ku_quan_shu_ben_" playOrder="2">
+            <navLabel>
+                <text>詩集傳 (四庫全書本)</text>
+            </navLabel>
+            <content src="c0_shi_ji_chuan__si_ku_quan_shu_ben_.xhtml"/>
+        </navPoint>
+        <navPoint id="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1" playOrder="100">
+            <navLabel>
+                <text>卷一</text>
+            </navLabel>
+            <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml"/>
+	        <navPoint id="guo_feng_yi-n457" playOrder="101">
+	            <navLabel>
+	                <text>國風一</text>
+	            </navLabel>
+	            <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#guo_feng_yi-n457"/>
+	        <navPoint id="zhou_nan_yi_zhi_yi-n458" playOrder="102">
+	            <navLabel>
+	                <text>周南一之一</text>
+	            </navLabel>
+	            <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#zhou_nan_yi_zhi_yi-n458"/>
+		        <navPoint id="guan_guan_ju-n459" playOrder="103">
+		            <navLabel>
+		                <text>關關雎鳩</text>
+		            </navLabel>
+		            <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#guan_guan_ju-n459"/>
+		        </navPoint>
+	        </navPoint>
+	        </navPoint>
+        </navPoint>
+        <navPoint id="c3_shi_ji_chuan__si_ku_quan_shu_ben__juan2" playOrder="200">
+            <navLabel>
+                <text>卷二</text>
+            </navLabel>
+            <content src="c3_shi_ji_chuan__si_ku_quan_shu_ben__juan2.xhtml"/>
+        </navPoint>
+        <navPoint id="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3" playOrder="300">
+            <navLabel>
+                <text>卷三</text>
+            </navLabel>
+            <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml"/>
+        </navPoint>
+        <navPoint id="c5_shi_ji_chuan__si_ku_quan_shu_ben__juan4" playOrder="400">
+            <navLabel>
+                <text>卷四</text>
+            </navLabel>
+            <content src="c5_shi_ji_chuan__si_ku_quan_shu_ben__juan4.xhtml"/>
+        </navPoint>
+        <navPoint id="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5" playOrder="500">
+            <navLabel>
+                <text>卷五</text>
+            </navLabel>
+            <content src="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5.xhtml"/>
+        </navPoint>
+        <navPoint id="c7_shi_ji_chuan__si_ku_quan_shu_ben__juan6" playOrder="600">
+            <navLabel>
+                <text>巻六</text>
+            </navLabel>
+            <content src="c7_shi_ji_chuan__si_ku_quan_shu_ben__juan6.xhtml"/>
+        </navPoint>
+        <navPoint id="c8_shi_ji_chuan__si_ku_quan_shu_ben__juan7" playOrder="700">
+            <navLabel>
+                <text>卷七</text>
+            </navLabel>
+            <content src="c8_shi_ji_chuan__si_ku_quan_shu_ben__juan7.xhtml"/>
+        </navPoint>
+        <navPoint id="c9_shi_ji_chuan__si_ku_quan_shu_ben__juan8" playOrder="800">
+            <navLabel>
+                <text>卷八</text>
+            </navLabel>
+            <content src="c9_shi_ji_chuan__si_ku_quan_shu_ben__juan8.xhtml"/>
+        </navPoint>
+        <navPoint id="about" playOrder="900">
+            <navLabel>
+                <text>关于</text>
+            </navLabel>
+            <content src="about.xhtml"/>
+        </navPoint>
+    </navMap>
+</ncx>
