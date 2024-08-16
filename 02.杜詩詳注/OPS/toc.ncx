@@ -2305,6 +2305,12 @@
                 </navLabel>
                 <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#jin_ting"/>
             </navPoint>
+            <navPoint id="yi_shi_ta_xiang_yuan" playOrder="1023">
+                <navLabel>
+                    <text>一室</text>
+                </navLabel>
+                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#yi_shi_ta_xiang_yuan"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
