@@ -2317,6 +2317,12 @@
                 </navLabel>
                 <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#suo_si-n1332"/>
             </navPoint>
+            <navPoint id="wen_hu_si_liu_guan_wei_gui" playOrder="1025">
+                <navLabel>
+                    <text>聞斛斯六官未歸</text>
+                </navLabel>
+                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#wen_hu_si_liu_guan_wei_gui"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
