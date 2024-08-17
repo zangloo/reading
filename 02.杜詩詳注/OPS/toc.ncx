@@ -2341,6 +2341,12 @@
                 </navLabel>
                 <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#zhang_ren_shan"/>
             </navPoint>
+            <navPoint id="ji_du_wei" playOrder="1029">
+                <navLabel>
+                    <text>寄杜位</text>
+                </navLabel>
+                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#ji_du_wei"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
