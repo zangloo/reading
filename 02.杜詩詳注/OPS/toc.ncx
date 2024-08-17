@@ -2329,6 +2329,12 @@
                 </navLabel>
                 <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#fu_qing_cheng_xian_chu_cheng_dou_ji_tao_wang_er_shao"/>
             </navPoint>
+            <navPoint id="ye_wang_yin_guo_chang_shao" playOrder="1027">
+                <navLabel>
+                    <text>野望因過常少仙</text>
+                </navLabel>
+                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#ye_wang_yin_guo_chang_shao"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
