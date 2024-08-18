@@ -2353,6 +2353,12 @@
                 </navLabel>
                 <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#song_pei_wu_fu_dong_chuan"/>
             </navPoint>
+            <navPoint id="song_han_shi_si_jiang_dong_sheng_jin" playOrder="1031">
+                <navLabel>
+                    <text>送韓十四江東省覲</text>
+                </navLabel>
+                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#song_han_shi_si_jiang_dong_sheng_jin"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
