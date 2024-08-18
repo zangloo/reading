@@ -2365,6 +2365,12 @@
                 </navLabel>
                 <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#nan"/>
             </navPoint>
+            <navPoint id="mao_wu_wei_qiu_feng_suo_po_ge" playOrder="1033">
+                <navLabel>
+                    <text>茅屋為秋風所破歌</text>
+                </navLabel>
+                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#mao_wu_wei_qiu_feng_suo_po_ge"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
