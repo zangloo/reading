@@ -2347,6 +2347,12 @@
                 </navLabel>
                 <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#ji_du_wei"/>
             </navPoint>
+            <navPoint id="song_pei_wu_fu_dong_chuan" playOrder="1030">
+                <navLabel>
+                    <text>送裴五赴東川</text>
+                </navLabel>
+                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#song_pei_wu_fu_dong_chuan"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
