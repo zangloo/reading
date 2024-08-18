@@ -2359,6 +2359,12 @@
                 </navLabel>
                 <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#song_han_shi_si_jiang_dong_sheng_jin"/>
             </navPoint>
+            <navPoint id="nan" playOrder="1032">
+                <navLabel>
+                    <text>柟樹為風雨所拔歎</text>
+                </navLabel>
+                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#nan"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
