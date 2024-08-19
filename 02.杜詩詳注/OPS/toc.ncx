@@ -2383,6 +2383,12 @@
                 </navLabel>
                 <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#shi_xi_xing"/>
             </navPoint>
+            <navPoint id="jun_bu_jian_xi_ri_shu_tian_zi_hua_wei" playOrder="1036">
+                <navLabel>
+                    <text>杜鵑行</text>
+                </navLabel>
+                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#jun_bu_jian_xi_ri_shu_tian_zi_hua_wei"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
