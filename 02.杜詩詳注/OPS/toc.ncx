@@ -2413,6 +2413,12 @@
                 </navLabel>
                 <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#bai_you_ji_xing"/>
             </navPoint>
+            <navPoint id="xu_qing_er_zi_ge" playOrder="1041">
+                <navLabel>
+                    <text>徐卿二子歌</text>
+                </navLabel>
+                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#xu_qing_er_zi_ge"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
