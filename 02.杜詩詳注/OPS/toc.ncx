@@ -2389,6 +2389,12 @@
                 </navLabel>
                 <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#jun_bu_jian_xi_ri_shu_tian_zi_hua_wei"/>
             </navPoint>
+            <navPoint id="feng_tang_xing_liu_zhu_bu_di" playOrder="1037">
+                <navLabel>
+                    <text>逢唐興劉主簿弟</text>
+                </navLabel>
+                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#feng_tang_xing_liu_zhu_bu_di"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
