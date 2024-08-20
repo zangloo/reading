@@ -88,6 +88,12 @@
 		            </navLabel>
 		            <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#cai_cai_fu_yi-n468"/>
 		        </navPoint>
+		        <navPoint id="nan_you_qiao_mu" playOrder="111">
+		            <navLabel>
+		                <text>漢廣</text>
+		            </navLabel>
+		            <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#nan_you_qiao_mu"/>
+		        </navPoint>
 	        </navPoint>
 	        </navPoint>
         </navPoint>
