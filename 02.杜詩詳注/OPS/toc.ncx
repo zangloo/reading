@@ -2395,6 +2395,12 @@
                 </navLabel>
                 <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#feng_tang_xing_liu_zhu_bu_di"/>
             </navPoint>
+            <navPoint id="jing_jian_wang_ming_fu" playOrder="1038">
+                <navLabel>
+                    <text>敬簡王明府</text>
+                </navLabel>
+                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#jing_jian_wang_ming_fu"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
