@@ -2431,6 +2431,12 @@
                 </navLabel>
                 <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#jin_cheng_si_guan_ri"/>
             </navPoint>
+            <navPoint id="shao-n1368" playOrder="1044">
+                <navLabel>
+                    <text>少年行二首</text>
+                </navLabel>
+                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#shao-n1368"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
