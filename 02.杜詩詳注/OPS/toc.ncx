@@ -2425,6 +2425,12 @@
                 </navLabel>
                 <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#xi_zuo_hua_qing_ge"/>
             </navPoint>
+            <navPoint id="jin_cheng_si_guan_ri" playOrder="1043">
+                <navLabel>
+                    <text>贈花卿</text>
+                </navLabel>
+                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#jin_cheng_si_guan_ri"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
