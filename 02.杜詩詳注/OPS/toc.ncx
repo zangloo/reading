@@ -2437,6 +2437,12 @@
                 </navLabel>
                 <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#shao-n1368"/>
             </navPoint>
+            <navPoint id="zeng_yu_shi_wu_si_ma" playOrder="1045">
+                <navLabel>
+                    <text>贈虞十五司馬</text>
+                </navLabel>
+                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#zeng_yu_shi_wu_si_ma"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
