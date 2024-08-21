@@ -2419,6 +2419,12 @@
                 </navLabel>
                 <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#xu_qing_er_zi_ge"/>
             </navPoint>
+            <navPoint id="xi_zuo_hua_qing_ge" playOrder="1042">
+                <navLabel>
+                    <text>戲作花卿歌</text>
+                </navLabel>
+                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#xi_zuo_hua_qing_ge"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
