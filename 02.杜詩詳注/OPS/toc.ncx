@@ -2443,6 +2443,12 @@
                 </navLabel>
                 <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#zeng_yu_shi_wu_si_ma"/>
             </navPoint>
+            <navPoint id="bing_bai" playOrder="1046">
+                <navLabel>
+                    <text>病柏</text>
+                </navLabel>
+                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#bing_bai"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
