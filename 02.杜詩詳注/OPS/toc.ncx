@@ -2491,6 +2491,12 @@
                 </navLabel>
                 <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#zan_wang_bi"/>
             </navPoint>
+            <navPoint id="wang_shi_qi_shi_yu" playOrder="1054">
+                <navLabel>
+                    <text>王十七侍御掄許攜酒至草堂奉寄此詩便請邀高三十五使君同到</text>
+                </navLabel>
+                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#wang_shi_qi_shi_yu"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
