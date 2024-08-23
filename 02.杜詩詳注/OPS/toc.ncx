@@ -2485,6 +2485,12 @@
                 </navLabel>
                 <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#xu_jiu_shao"/>
             </navPoint>
+            <navPoint id="zan_wang_bi" playOrder="1053">
+                <navLabel>
+                    <text>范二員外邈吳十侍御郁特枉駕闕展待聊寄此作</text>
+                </navLabel>
+                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#zan_wang_bi"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
