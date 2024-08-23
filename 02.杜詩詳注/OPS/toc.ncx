@@ -2479,6 +2479,12 @@
                 </navLabel>
                 <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#cao_tang_ji_shi"/>
             </navPoint>
+            <navPoint id="xu_jiu_shao" playOrder="1052">
+                <navLabel>
+                    <text>徐九少尹見過</text>
+                </navLabel>
+                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#xu_jiu_shao"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
