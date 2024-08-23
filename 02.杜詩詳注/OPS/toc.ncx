@@ -2473,6 +2473,12 @@
                 </navLabel>
                 <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#bu_jian"/>
             </navPoint>
+            <navPoint id="cao_tang_ji_shi" playOrder="1051">
+                <navLabel>
+                    <text>草堂即事</text>
+                </navLabel>
+                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#cao_tang_ji_shi"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
