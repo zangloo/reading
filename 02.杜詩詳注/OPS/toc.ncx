@@ -2515,6 +2515,12 @@
                 </navLabel>
                 <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#ba_zhu_qiao_cheng"/>
             </navPoint>
+            <navPoint id="li_si_ma_qiao_cheng" playOrder="1058">
+                <navLabel>
+                    <text>李司馬橋成承高使君自成都回</text>
+                </navLabel>
+                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#li_si_ma_qiao_cheng"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
