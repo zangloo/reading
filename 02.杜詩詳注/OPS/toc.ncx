@@ -2521,6 +2521,12 @@
                 </navLabel>
                 <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#li_si_ma_qiao_cheng"/>
             </navPoint>
+            <navPoint id="ru_zou_xing_zeng" playOrder="1059">
+                <navLabel>
+                    <text>入奏行贈西山檢察使竇侍御</text>
+                </navLabel>
+                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#ru_zou_xing_zeng"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
