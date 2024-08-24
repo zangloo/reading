@@ -2527,6 +2527,12 @@
                 </navLabel>
                 <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#ru_zou_xing_zeng"/>
             </navPoint>
+            <navPoint id="de_guang_zhou_zhang_pan_guan_shu_qing_shu_shi" playOrder="1060">
+                <navLabel>
+                    <text>得廣州張判官叔卿書使還以詩代意</text>
+                </navLabel>
+                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#de_guang_zhou_zhang_pan_guan_shu_qing_shu_shi"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
