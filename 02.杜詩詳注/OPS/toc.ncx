@@ -2533,6 +2533,12 @@
                 </navLabel>
                 <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#de_guang_zhou_zhang_pan_guan_shu_qing_shu_shi"/>
             </navPoint>
+            <navPoint id="wei_shi_si_shi_yu_jiu_bi_lu_xiang_bie" playOrder="1061">
+                <navLabel>
+                    <text>魏十四侍御就敝廬相别</text>
+                </navLabel>
+                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#wei_shi_si_shi_yu_jiu_bi_lu_xiang_bie"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
