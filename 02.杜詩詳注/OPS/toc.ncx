@@ -2539,6 +2539,12 @@
                 </navLabel>
                 <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#wei_shi_si_shi_yu_jiu_bi_lu_xiang_bie"/>
             </navPoint>
+            <navPoint id="zeng_bie_he_yong" playOrder="1062">
+                <navLabel>
+                    <text>贈别何邕</text>
+                </navLabel>
+                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#zeng_bie_he_yong"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
