@@ -2497,6 +2497,12 @@
                 </navLabel>
                 <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#wang_shi_qi_shi_yu"/>
             </navPoint>
+            <navPoint id="wang_jing_xie_jiu_gao_yi_tong_guo" playOrder="1055">
+                <navLabel>
+                    <text>王竟攜酒高亦同過</text>
+                </navLabel>
+                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#wang_jing_xie_jiu_gao_yi_tong_guo"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
