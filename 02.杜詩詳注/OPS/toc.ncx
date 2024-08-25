@@ -2592,6 +2592,12 @@
 	                </navLabel>
 	                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#xi_chi"/>
 	            </navPoint>
+	            <navPoint id="hua_ya" playOrder="1071">
+	                <navLabel>
+	                    <text>花鴨</text>
+	                </navLabel>
+	                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#hua_ya"/>
+	            </navPoint>
             </navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
