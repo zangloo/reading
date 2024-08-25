@@ -2563,6 +2563,18 @@
                 </navLabel>
                 <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#zhong-n1360"/>
             </navPoint>
+            <navPoint id="jiang_tou_wu_yong" playOrder="1066">
+                <navLabel>
+                    <text>江頭五咏</text>
+                </navLabel>
+                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#jiang_tou_wu_yong"/>
+	            <navPoint id="ding_xiang" playOrder="1067">
+	                <navLabel>
+	                    <text>丁香</text>
+	                </navLabel>
+	                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#ding_xiang"/>
+	            </navPoint>
+            </navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
