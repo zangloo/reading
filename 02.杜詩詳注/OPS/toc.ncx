@@ -2557,6 +2557,12 @@
                 </navLabel>
                 <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#zeng_bie_zheng_lian_fu_xiang_yang"/>
             </navPoint>
+            <navPoint id="zhong-n1360" playOrder="1065">
+                <navLabel>
+                    <text>重贈鄭鍊絕句</text>
+                </navLabel>
+                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#zhong-n1360"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
