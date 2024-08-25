@@ -2551,6 +2551,12 @@
                 </navLabel>
                 <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#jue_ju"/>
             </navPoint>
+            <navPoint id="zeng_bie_zheng_lian_fu_xiang_yang" playOrder="1064">
+                <navLabel>
+                    <text>贈别鄭鍊赴襄陽</text>
+                </navLabel>
+                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#zeng_bie_zheng_lian_fu_xiang_yang"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
