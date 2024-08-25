@@ -2599,6 +2599,12 @@
 	                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#hua_ya"/>
 	            </navPoint>
             </navPoint>
+			<navPoint id="ye_wang" playOrder="1072">
+				<navLabel>
+					<text>野望</text>
+				</navLabel>
+				<content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#ye_wang"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
