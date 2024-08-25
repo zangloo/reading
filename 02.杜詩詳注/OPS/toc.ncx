@@ -2545,6 +2545,12 @@
                 </navLabel>
                 <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#zeng_bie_he_yong"/>
             </navPoint>
+            <navPoint id="jue_ju" playOrder="1063">
+                <navLabel>
+                    <text>絕句</text>
+                </navLabel>
+                <content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#jue_ju"/>
+            </navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
