@@ -2647,6 +2647,12 @@
                 <text>卷十一</text>
             </navLabel>
             <content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml"/>
+			<navPoint id="yan_zhong_cheng_wang_jia_jian_guo" playOrder="1101">
+				<navLabel>
+					<text>嚴中丞枉駕見過</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#yan_zhong_cheng_wang_jia_jian_guo"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
