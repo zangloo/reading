@@ -2635,6 +2635,12 @@
 				</navLabel>
 				<content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#ji_ti_du_er_jin_jiang_ye_ting"/>
 			</navPoint>
+			<navPoint id="feng_chou_yan_gong_ji_ti_ye_ting_zhi_zuo" playOrder="1078">
+				<navLabel>
+					<text>奉酬嚴公寄題野亭之作</text>
+				</navLabel>
+				<content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#feng_chou_yan_gong_ji_ti_ye_ting_zhi_zuo"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
