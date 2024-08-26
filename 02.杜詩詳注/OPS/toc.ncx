@@ -2611,6 +2611,12 @@
 				</navLabel>
 				<content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#wei_ren"/>
 			</navPoint>
+			<navPoint id="ping_ji_san_shou" playOrder="1074">
+				<navLabel>
+					<text>屏跡三首</text>
+				</navLabel>
+				<content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#ping_ji_san_shou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
