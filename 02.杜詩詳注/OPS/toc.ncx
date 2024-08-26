@@ -2629,6 +2629,12 @@
 				</navLabel>
 				<content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#ji_shi"/>
 			</navPoint>
+			<navPoint id="ji_ti_du_er_jin_jiang_ye_ting" playOrder="1077">
+				<navLabel>
+					<text>寄題杜二錦江野亭</text>
+				</navLabel>
+				<content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#ji_ti_du_er_jin_jiang_ye_ting"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
