@@ -2617,6 +2617,12 @@
 				</navLabel>
 				<content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#ping_ji_san_shou"/>
 			</navPoint>
+			<navPoint id="shao_niao_xing" playOrder="1075">
+				<navLabel>
+					<text>少年行</text>
+				</navLabel>
+				<content src="c11_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan10.xhtml#shao_niao_xing"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11" playOrder="1100">
             <navLabel>
