@@ -2665,6 +2665,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#feng_he-n1427"/>
 			</navPoint>
+			<navPoint id="yu_ying_xing_gong" playOrder="1104">
+				<navLabel>
+					<text>中丞嚴公雨中垂寄見憶一絕奉答二絕</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#yu_ying_xing_gong"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
