@@ -2671,6 +2671,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#yu_ying_xing_gong"/>
 			</navPoint>
+			<navPoint id="shan_ping_ru_jiu_xia" playOrder="1105">
+				<navLabel>
+					<text>謝嚴中丞送青城山道士乳酒一瓶</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#shan_ping_ru_jiu_xia"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
