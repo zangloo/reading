@@ -184,6 +184,12 @@
 	                    </navLabel>
 	                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#ye_you_si_jun-n486"/>
 	                </navPoint>
+	                <navPoint id="he_bi_nong-n487" playOrder="127">
+	                    <navLabel>
+	                        <text>何彼穠矣</text>
+	                    </navLabel>
+	                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#he_bi_nong-n487"/>
+	                </navPoint>
                 </navPoint>
             </navPoint>
         </navPoint>
