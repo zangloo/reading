@@ -2683,6 +2683,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#san_jue_ju"/>
 			</navPoint>
+			<navPoint id="xi_wei_liu_jue_ju" playOrder="1107">
+				<navLabel>
+					<text>戲為六絕句</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#xi_wei_liu_jue_ju"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
