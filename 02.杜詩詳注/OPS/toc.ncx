@@ -2677,6 +2677,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#shan_ping_ru_jiu_xia"/>
 			</navPoint>
+			<navPoint id="san_jue_ju" playOrder="1106">
+				<navLabel>
+					<text>三絕句</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#san_jue_ju"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
