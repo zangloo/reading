@@ -2701,6 +2701,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#yan_gong_zhong_xia_wang_jia_cao_tang_jian_xie_jiu_zhuan"/>
 			</navPoint>
+			<navPoint id="yan_gong___yan_tong_yong_shu_dao_hua_tu" playOrder="1110">
+				<navLabel>
+					<text>嚴公廳宴同詠蜀道畫圖</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#yan_gong___yan_tong_yong_shu_dao_hua_tu"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
