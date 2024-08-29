@@ -2695,6 +2695,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#xi_shu_ying_tao_ye"/>
 			</navPoint>
+			<navPoint id="yan_gong_zhong_xia_wang_jia_cao_tang_jian_xie_jiu_zhuan" playOrder="1109">
+				<navLabel>
+					<text>嚴公仲夏枉駕草堂兼攜酒饌</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#yan_gong_zhong_xia_wang_jia_cao_tang_jian_xie_jiu_zhuan"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
