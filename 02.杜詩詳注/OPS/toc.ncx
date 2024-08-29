@@ -2707,6 +2707,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#yan_gong___yan_tong_yong_shu_dao_hua_tu"/>
 			</navPoint>
+			<navPoint id="xi_zeng_you_er_shou" playOrder="1111">
+				<navLabel>
+					<text>戲贈友二首</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#xi_zeng_you_er_shou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
