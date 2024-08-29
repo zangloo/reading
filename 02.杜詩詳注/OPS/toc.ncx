@@ -2719,6 +2719,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#da_yu"/>
 			</navPoint>
+			<navPoint id="xi_zhang" playOrder="1113">
+				<navLabel>
+					<text>溪漲</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#xi_zhang"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
