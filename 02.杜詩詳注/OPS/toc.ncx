@@ -2737,6 +2737,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#feng_song_yan_gong_ru_chao"/>
 			</navPoint>
+			<navPoint id="chou_bie_du_er" playOrder="1116">
+				<navLabel>
+					<text>酬别杜二</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#chou_bie_du_er"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
