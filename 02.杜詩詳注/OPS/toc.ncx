@@ -2743,6 +2743,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#chou_bie_du_er"/>
 			</navPoint>
+			<navPoint id="song_yan_shi_lang_dao_mian_zhou_tong_deng_du_shi" playOrder="1117">
+				<navLabel>
+					<text>送嚴侍郎到綿州同登杜使君江樓宴</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#song_yan_shi_lang_dao_mian_zhou_tong_deng_du_shi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
