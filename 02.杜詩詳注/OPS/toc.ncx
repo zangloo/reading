@@ -2731,6 +2731,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#da_mai_xing"/>
 			</navPoint>
+			<navPoint id="feng_song_yan_gong_ru_chao" playOrder="1115">
+				<navLabel>
+					<text>奉送嚴公入朝十韻</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#feng_song_yan_gong_ru_chao"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
