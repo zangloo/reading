@@ -2749,6 +2749,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#song_yan_shi_lang_dao_mian_zhou_tong_deng_du_shi"/>
 			</navPoint>
+			<navPoint id="feng_ji_yi_zhong" playOrder="1118">
+				<navLabel>
+					<text>奉濟驛重送嚴公四韻</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#feng_ji_yi_zhong"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
