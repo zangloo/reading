@@ -2761,6 +2761,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#song_zi_zhou_li_shi"/>
 			</navPoint>
+			<navPoint id="guan_da_yu_ge" playOrder="1120">
+				<navLabel>
+					<text>觀打魚歌</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#guan_da_yu_ge"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
