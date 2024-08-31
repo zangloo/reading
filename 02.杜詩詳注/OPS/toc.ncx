@@ -2767,6 +2767,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#guan_da_yu_ge"/>
 			</navPoint>
+			<navPoint id="you_guan_da_yu" playOrder="1121">
+				<navLabel>
+					<text>又觀打魚</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#you_guan_da_yu"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
