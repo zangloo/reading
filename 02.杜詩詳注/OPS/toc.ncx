@@ -2755,6 +2755,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#feng_ji_yi_zhong"/>
 			</navPoint>
+			<navPoint id="song_zi_zhou_li_shi" playOrder="1119">
+				<navLabel>
+					<text>送梓州李使君之任</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#song_zi_zhou_li_shi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
