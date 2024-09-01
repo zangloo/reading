@@ -2785,6 +2785,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#hai_zong_xing"/>
 			</navPoint>
+			<navPoint id="jiang_chu_gong" playOrder="1124">
+				<navLabel>
+					<text>姜楚公畫角鷹歌</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#jiang_chu_gong"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
