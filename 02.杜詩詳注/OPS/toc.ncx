@@ -2803,6 +2803,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#guang_lu_ban_xing"/>
 			</navPoint>
+			<navPoint id="ku_zhan_xing" playOrder="1127">
+				<navLabel>
+					<text>苦戰行</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#ku_zhan_xing"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
