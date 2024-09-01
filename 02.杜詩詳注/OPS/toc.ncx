@@ -2791,6 +2791,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#jiang_chu_gong"/>
 			</navPoint>
+			<navPoint id="dong_jing_song_wei_feng" playOrder="1125">
+				<navLabel>
+					<text>東津送韋諷攝閬州錄事</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#dong_jing_song_wei_feng"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
