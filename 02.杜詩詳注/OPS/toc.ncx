@@ -2773,6 +2773,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#you_guan_da_yu"/>
 			</navPoint>
+			<navPoint id="yue_wang_lou_ge" playOrder="1122">
+				<navLabel>
+					<text>越王樓歌</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#yue_wang_lou_ge"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
