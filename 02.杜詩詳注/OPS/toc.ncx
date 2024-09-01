@@ -2821,6 +2821,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#wei_qing_kai_mu_fu_yang_pu_jiang"/>
 			</navPoint>
+			<navPoint id="song_duan_gong_cao_gui_guang_zhou" playOrder="1130">
+				<navLabel>
+					<text>送段功曹歸廣州</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#song_duan_gong_cao_gui_guang_zhou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
