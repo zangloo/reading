@@ -2797,6 +2797,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#dong_jing_song_wei_feng"/>
 			</navPoint>
+			<navPoint id="guang_lu_ban_xing" playOrder="1126">
+				<navLabel>
+					<text>光祿阪行</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#guang_lu_ban_xing"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
