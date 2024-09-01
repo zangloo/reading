@@ -2779,6 +2779,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#yue_wang_lou_ge"/>
 			</navPoint>
+			<navPoint id="hai_zong_xing" playOrder="1123">
+				<navLabel>
+					<text>海棕行</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#hai_zong_xing"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
