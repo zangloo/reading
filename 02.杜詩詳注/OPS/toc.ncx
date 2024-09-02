@@ -2863,6 +2863,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#jiu_ri_feng_ji_yan_da_fu"/>
 			</navPoint>
+			<navPoint id="ba_ling_da_du_er_jian_yi" playOrder="1137">
+				<navLabel>
+					<text>巴嶺答杜二見憶</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#ba_ling_da_du_er_jian_yi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
