@@ -2857,6 +2857,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#jiu_ri_deng_zi_zhou_cheng"/>
 			</navPoint>
+			<navPoint id="jiu_ri_feng_ji_yan_da_fu" playOrder="1136">
+				<navLabel>
+					<text>九日奉寄嚴大夫</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#jiu_ri_feng_ji_yan_da_fu"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
