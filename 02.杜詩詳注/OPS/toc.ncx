@@ -2851,6 +2851,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#ke_ting"/>
 			</navPoint>
+			<navPoint id="jiu_ri_deng_zi_zhou_cheng" playOrder="1135">
+				<navLabel>
+					<text>九日登梓州城</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#jiu_ri_deng_zi_zhou_cheng"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
