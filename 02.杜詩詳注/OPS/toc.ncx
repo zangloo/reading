@@ -2827,6 +2827,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#song_duan_gong_cao_gui_guang_zhou"/>
 			</navPoint>
+			<navPoint id="ti___wu_chan_shi_wu_bi" playOrder="1131">
+				<navLabel>
+					<text>題玄武禪師屋壁</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#ti___wu_chan_shi_wu_bi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
