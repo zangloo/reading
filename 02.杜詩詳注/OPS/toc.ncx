@@ -2869,6 +2869,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#ba_ling_da_du_er_jian_yi"/>
 			</navPoint>
+			<navPoint id="qiu_jin" playOrder="1138">
+				<navLabel>
+					<text>秋盡</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#qiu_jin"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
