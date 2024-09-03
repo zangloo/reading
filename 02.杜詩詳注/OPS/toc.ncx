@@ -2875,6 +2875,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#qiu_jin"/>
 			</navPoint>
+			<navPoint id="xi_ti_ji_shang" playOrder="1139">
+				<navLabel>
+					<text>戲題寄上漢中王三首</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#xi_ti_ji_shang"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
