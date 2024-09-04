@@ -2893,6 +2893,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#cong_shi_xing"/>
 			</navPoint>
+			<navPoint id="zeng_wei_zan_shan_bie" playOrder="1142">
+				<navLabel>
+					<text>贈韋贊善别</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#zeng_wei_zan_shan_bie"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
