@@ -2881,6 +2881,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#xi_ti_ji_shang"/>
 			</navPoint>
+			<navPoint id="wan_yue_cheng_han_zhong_wang" playOrder="1140">
+				<navLabel>
+					<text>翫月呈漢中王</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#wan_yue_cheng_han_zhong_wang"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
