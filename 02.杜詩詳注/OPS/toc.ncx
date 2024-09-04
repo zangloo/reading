@@ -2899,6 +2899,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#zeng_wei_zan_shan_bie"/>
 			</navPoint>
+			<navPoint id="ji_gao_shi" playOrder="1143">
+				<navLabel>
+					<text>寄高適</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#ji_gao_shi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
