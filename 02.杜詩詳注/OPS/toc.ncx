@@ -2917,6 +2917,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#dong_dao_jin_hua_shan_guan"/>
 			</navPoint>
+			<navPoint id="chen_shi_yi_gu_zhai" playOrder="1146">
+				<navLabel>
+					<text>陳拾遺故宅</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#chen_shi_yi_gu_zhai"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
