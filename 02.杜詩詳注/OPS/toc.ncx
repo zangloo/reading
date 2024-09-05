@@ -2923,6 +2923,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#chen_shi_yi_gu_zhai"/>
 			</navPoint>
+			<navPoint id="ye_wen_gong_shang_fang" playOrder="1147">
+				<navLabel>
+					<text>謁文公上方</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#ye_wen_gong_shang_fang"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
