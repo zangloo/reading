@@ -2959,6 +2959,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#guan_xue_ji_shao"/>
 			</navPoint>
+			<navPoint id="tong_quan_xian_shu_bi_hou_xue_shao" playOrder="1153">
+				<navLabel>
+					<text>通泉縣署壁後薛少保畫鶴</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#tong_quan_xian_shu_bi_hou_xue_shao"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
