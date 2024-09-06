@@ -2941,6 +2941,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#zao_fa_she_hong_xian_nan_tu_zhong_zuo"/>
 			</navPoint>
+			<navPoint id="tong_quan_yi_nan_qu" playOrder="1150">
+				<navLabel>
+					<text>通泉驛南去通泉縣十五里山水作</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#tong_quan_yi_nan_qu"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
