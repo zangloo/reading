@@ -2935,6 +2935,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#feng_zeng_she_hong_li_si_zhang"/>
 			</navPoint>
+			<navPoint id="zao_fa_she_hong_xian_nan_tu_zhong_zuo" playOrder="1149">
+				<navLabel>
+					<text>早發射洪縣南途中作</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#zao_fa_she_hong_xian_nan_tu_zhong_zuo"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
