@@ -3001,6 +3001,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#wen_guan_jun_shou_he_nan_he_bei"/>
 			</navPoint>
+			<navPoint id="yuan_you" playOrder="1160">
+				<navLabel>
+					<text>遠遊</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#yuan_you"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
