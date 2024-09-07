@@ -2965,6 +2965,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#tong_quan_xian_shu_bi_hou_xue_shao"/>
 			</navPoint>
+			<navPoint id="pei_wang_shi_yu_yan_tong_quan_dong_shan_ye_ting" playOrder="1154">
+				<navLabel>
+					<text>陪王侍御宴通泉東山野亭</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#pei_wang_shi_yu_yan_tong_quan_dong_shan_ye_ting"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
