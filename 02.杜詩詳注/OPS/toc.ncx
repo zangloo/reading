@@ -2995,6 +2995,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#liu_bian"/>
 			</navPoint>
+			<navPoint id="wen_guan_jun_shou_he_nan_he_bei" playOrder="1159">
+				<navLabel>
+					<text>聞官軍收河南河北</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#wen_guan_jun_shou_he_nan_he_bei"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
