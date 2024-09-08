@@ -3019,6 +3019,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#you_gan_wu_shou"/>
 			</navPoint>
+			<navPoint id="chun_ri_xi_ti_nao_hao_shi" playOrder="1163">
+				<navLabel>
+					<text>春日戲題惱郝使君兄</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#chun_ri_xi_ti_nao_hao_shi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
