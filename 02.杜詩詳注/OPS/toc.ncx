@@ -3013,6 +3013,12 @@
 				</navLabel>
 				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#chun_ri_zi_zhou_deng_lou_er_shou"/>
 			</navPoint>
+			<navPoint id="you_gan_wu_shou" playOrder="1162">
+				<navLabel>
+					<text>有感五首</text>
+				</navLabel>
+				<content src="c12_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan11.xhtml#you_gan_wu_shou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12" playOrder="1200">
             <navLabel>
