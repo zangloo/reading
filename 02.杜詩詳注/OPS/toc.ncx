@@ -3055,6 +3055,12 @@
 				</navLabel>
 				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#fu_jiang_fan_zhou_song_wei_ban_gui_jing"/>
 			</navPoint>
+			<navPoint id="chi_ri_shen_jiang" playOrder="1205">
+				<navLabel>
+					<text>泛舟送魏十八倉曹還京因寄岑中允參范郎中季明</text>
+				</navLabel>
+				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#chi_ri_shen_jiang"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" playOrder="1300">
             <navLabel>
