@@ -3067,6 +3067,12 @@
 				</navLabel>
 				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#song_lu_liu_shi_yu_ru_chao"/>
 			</navPoint>
+			<navPoint id="fu_cheng_xian_xiang_ji_si" playOrder="1207">
+				<navLabel>
+					<text>涪城縣香積寺官閣</text>
+				</navLabel>
+				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#fu_cheng_xian_xiang_ji_si"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" playOrder="1300">
             <navLabel>
