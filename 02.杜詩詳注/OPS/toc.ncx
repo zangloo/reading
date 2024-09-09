@@ -3031,6 +3031,12 @@
                 <text>卷十二</text>
             </navLabel>
             <content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml"/>
+			<navPoint id="ti_qi" playOrder="1201">
+				<navLabel>
+					<text>題郪原郭三十二明府茅屋壁</text>
+				</navLabel>
+				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#ti_qi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" playOrder="1300">
             <navLabel>
