@@ -3037,6 +3037,12 @@
 				</navLabel>
 				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#ti_qi"/>
 			</navPoint>
+			<navPoint id="feng_song_cui_dou_shui_weng_xia" playOrder="1202">
+				<navLabel>
+					<text>奉送崔都水翁下峽</text>
+				</navLabel>
+				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#feng_song_cui_dou_shui_weng_xia"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" playOrder="1300">
             <navLabel>
