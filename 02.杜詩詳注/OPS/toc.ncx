@@ -3109,6 +3109,12 @@
 				</navLabel>
 				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#deng_niu_tou_shan_ting_zi"/>
 			</navPoint>
+			<navPoint id="shang_dou_lu_si" playOrder="1214">
+				<navLabel>
+					<text>上兜率寺</text>
+				</navLabel>
+				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#shang_dou_lu_si"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" playOrder="1300">
             <navLabel>
