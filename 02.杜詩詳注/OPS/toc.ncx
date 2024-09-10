@@ -3103,6 +3103,12 @@
 				</navLabel>
 				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#wang_niu_tou_si"/>
 			</navPoint>
+			<navPoint id="deng_niu_tou_shan_ting_zi" playOrder="1213">
+				<navLabel>
+					<text>登牛頭山亭子</text>
+				</navLabel>
+				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#deng_niu_tou_shan_ting_zi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" playOrder="1300">
             <navLabel>
