@@ -3133,6 +3133,12 @@
 				</navLabel>
 				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#pei_li"/>
 			</navPoint>
+			<navPoint id="shu" playOrder="1218">
+				<navLabel>
+					<text>數陪李梓州泛江有女樂在諸舫戲為艷曲二首贈李</text>
+				</navLabel>
+				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#shu"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" playOrder="1300">
             <navLabel>
