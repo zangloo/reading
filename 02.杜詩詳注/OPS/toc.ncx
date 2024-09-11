@@ -3151,6 +3151,12 @@
 				</navLabel>
 				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#liu_ying_han_yun_mu"/>
 			</navPoint>
+			<navPoint id="xing_ci_yan_ting_xian" playOrder="1221">
+				<navLabel>
+					<text>行次鹽亭縣聊題四韻奉簡嚴遂州蓬州兩使君咨議諸昆季</text>
+				</navLabel>
+				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#xing_ci_yan_ting_xian"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" playOrder="1300">
             <navLabel>
