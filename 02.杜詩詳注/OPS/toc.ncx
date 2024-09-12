@@ -3169,6 +3169,12 @@
 				</navLabel>
 				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#hui_yi_si_song_wang_shao"/>
 			</navPoint>
+			<navPoint id="hui_yi_si_yuan" playOrder="1224">
+				<navLabel>
+					<text>惠義寺園送辛員外</text>
+				</navLabel>
+				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#hui_yi_si_yuan"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" playOrder="1300">
             <navLabel>
