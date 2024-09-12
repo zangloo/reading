@@ -3181,6 +3181,12 @@
 				</navLabel>
 				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#you_song"/>
 			</navPoint>
+			<navPoint id="ba_xi_yi_ting_guan_jiang_zhang_cheng_dou_shi_wu_shi" playOrder="1226">
+				<navLabel>
+					<text>巴西驛亭觀江漲呈竇十五使君二首</text>
+				</navLabel>
+				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#ba_xi_yi_ting_guan_jiang_zhang_cheng_dou_shi_wu_shi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" playOrder="1300">
             <navLabel>
