@@ -3223,6 +3223,12 @@
 				</navLabel>
 				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#guan_chi_chun_yan_er_shou"/>
 			</navPoint>
+			<navPoint id="tou_jian_zi_zhou_mu_fu_jian_jian_wei_shi_lang_guan" playOrder="1233">
+				<navLabel>
+					<text>投簡梓州幕府兼簡韋十郎官</text>
+				</navLabel>
+				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#tou_jian_zi_zhou_mu_fu_jian_jian_wei_shi_lang_guan"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" playOrder="1300">
             <navLabel>
