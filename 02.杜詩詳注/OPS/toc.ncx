@@ -3217,6 +3217,12 @@
 				</navLabel>
 				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#zhou_qian_xiao_e_er"/>
 			</navPoint>
+			<navPoint id="guan_chi_chun_yan_er_shou" playOrder="1232">
+				<navLabel>
+					<text>官池春雁二首</text>
+				</navLabel>
+				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#guan_chi_chun_yan_er_shou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" playOrder="1300">
             <navLabel>
