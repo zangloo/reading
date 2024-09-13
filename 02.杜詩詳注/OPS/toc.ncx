@@ -3205,6 +3205,12 @@
 				</navLabel>
 				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#de_fang_gong_chi_e"/>
 			</navPoint>
+			<navPoint id="da_yang_zi_zhou" playOrder="1230">
+				<navLabel>
+					<text>答楊梓州</text>
+				</navLabel>
+				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#da_yang_zi_zhou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" playOrder="1300">
             <navLabel>
