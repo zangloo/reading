@@ -3229,6 +3229,12 @@
 				</navLabel>
 				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#tou_jian_zi_zhou_mu_fu_jian_jian_wei_shi_lang_guan"/>
 			</navPoint>
+			<navPoint id="han_chuan_wang_da_lu_shi_zhai_zuo" playOrder="1234">
+				<navLabel>
+					<text>漢川王大錄事宅作</text>
+				</navLabel>
+				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#han_chuan_wang_da_lu_shi_zhai_zuo"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" playOrder="1300">
             <navLabel>
