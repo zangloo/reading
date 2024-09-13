@@ -3235,6 +3235,12 @@
 				</navLabel>
 				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#han_chuan_wang_da_lu_shi_zhai_zuo"/>
 			</navPoint>
+			<navPoint id="duan_ge_xing_song" playOrder="1235">
+				<navLabel>
+					<text>短歌行送祁錄事歸合州因寄蘇使君</text>
+				</navLabel>
+				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#duan_ge_xing_song"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" playOrder="1300">
             <navLabel>
