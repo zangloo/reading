@@ -3253,6 +3253,12 @@
 				</navLabel>
 				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#ji_ti_jiang_wai_cao_tang"/>
 			</navPoint>
+			<navPoint id="pei_zhang_liu_hou_shi_yu" playOrder="1238">
+				<navLabel>
+					<text>陪章留後侍御宴南樓</text>
+				</navLabel>
+				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#pei_zhang_liu_hou_shi_yu"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" playOrder="1300">
             <navLabel>
