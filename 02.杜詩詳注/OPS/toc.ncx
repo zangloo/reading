@@ -3289,6 +3289,12 @@
 				</navLabel>
 				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#pei_zhang_liu_hou"/>
 			</navPoint>
+			<navPoint id="song_dou_jiu_gui_cheng_dou" playOrder="1244">
+				<navLabel>
+					<text>送竇九歸成都</text>
+				</navLabel>
+				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#song_dou_jiu_gui_cheng_dou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" playOrder="1300">
             <navLabel>
