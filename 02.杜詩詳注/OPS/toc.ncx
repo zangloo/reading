@@ -3331,6 +3331,12 @@
 				</navLabel>
 				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#zong_fu_zi"/>
 			</navPoint>
+			<navPoint id="wang_shi_bi" playOrder="1251">
+				<navLabel>
+					<text>送陵州路使君之任</text>
+				</navLabel>
+				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#wang_shi_bi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" playOrder="1300">
             <navLabel>
