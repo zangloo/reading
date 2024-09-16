@@ -3307,6 +3307,12 @@
 				</navLabel>
 				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#zhang_zi_zhou_ju_ting_jian_cheng_dou_dou_shao"/>
 			</navPoint>
+			<navPoint id="sui_zhang_liu_hou_xin_ting_hui_song_zhu_jun" playOrder="1247">
+				<navLabel>
+					<text>隨章留後新亭會送諸君</text>
+				</navLabel>
+				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#sui_zhang_liu_hou_xin_ting_hui_song_zhu_jun"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" playOrder="1300">
             <navLabel>
