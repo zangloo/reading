@@ -3319,6 +3319,12 @@
 				</navLabel>
 				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#ke_jiu_guan"/>
 			</navPoint>
+			<navPoint id="xi_zuo_ji_shang" playOrder="1249">
+				<navLabel>
+					<text>戲作寄上漢中王二首</text>
+				</navLabel>
+				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#xi_zuo_ji_shang"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" playOrder="1300">
             <navLabel>
