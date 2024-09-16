@@ -3325,6 +3325,12 @@
 				</navLabel>
 				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#xi_zuo_ji_shang"/>
 			</navPoint>
+			<navPoint id="zong_fu_zi" playOrder="1250">
+				<navLabel>
+					<text>椶拂子</text>
+				</navLabel>
+				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#zong_fu_zi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" playOrder="1300">
             <navLabel>
