@@ -3337,6 +3337,12 @@
 				</navLabel>
 				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#wang_shi_bi"/>
 			</navPoint>
+			<navPoint id="song_yuan_er_shi_jiang_zuo" playOrder="1252">
+				<navLabel>
+					<text>送元二適江左</text>
+				</navLabel>
+				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#song_yuan_er_shi_jiang_zuo"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" playOrder="1300">
             <navLabel>
