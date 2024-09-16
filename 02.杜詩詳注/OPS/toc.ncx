@@ -3301,6 +3301,12 @@
 				</navLabel>
 				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#zhang_zi_zhou_shui_ting"/>
 			</navPoint>
+			<navPoint id="zhang_zi_zhou_ju_ting_jian_cheng_dou_dou_shao" playOrder="1246">
+				<navLabel>
+					<text>章梓州橘亭餞成都竇少尹</text>
+				</navLabel>
+				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#zhang_zi_zhou_ju_ting_jian_cheng_dou_dou_shao"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" playOrder="1300">
             <navLabel>
