@@ -3361,6 +3361,12 @@
 				</navLabel>
 				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#bao_mu"/>
 			</navPoint>
+			<navPoint id="lang_zhou_feng_song_er_shi_si_jiu_shi" playOrder="1256">
+				<navLabel>
+					<text>閬州奉送二十四舅使自京赴任青城</text>
+				</navLabel>
+				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#lang_zhou_feng_song_er_shi_si_jiu_shi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" playOrder="1300">
             <navLabel>
