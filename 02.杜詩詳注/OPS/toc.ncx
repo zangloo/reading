@@ -3367,6 +3367,12 @@
 				</navLabel>
 				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#lang_zhou_feng_song_er_shi_si_jiu_shi"/>
 			</navPoint>
+			<navPoint id="wan_he_shu_sheng_man_qian_ya_qiu_qi_gao_fu_zhou" playOrder="1257">
+				<navLabel>
+					<text>王閬州筵奉酬十一舅惜别之作</text>
+				</navLabel>
+				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#wan_he_shu_sheng_man_qian_ya_qiu_qi_gao_fu_zhou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" playOrder="1300">
             <navLabel>
