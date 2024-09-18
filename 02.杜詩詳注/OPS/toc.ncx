@@ -3385,6 +3385,12 @@
 				</navLabel>
 				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#bao_you"/>
 			</navPoint>
+			<navPoint id="tian_xia_bing" playOrder="1261">
+				<navLabel>
+					<text>嚴氏溪放歌</text>
+				</navLabel>
+				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#tian_xia_bing"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" playOrder="1300">
             <navLabel>
