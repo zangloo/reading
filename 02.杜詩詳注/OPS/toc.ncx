@@ -3373,11 +3373,11 @@
 				</navLabel>
 				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#wan_he_shu_sheng_man_qian_ya_qiu_qi_gao_fu_zhou"/>
 			</navPoint>
-			<navPoint id="ceng" playOrder="1258">
+			<navPoint id="fang_chuan" playOrder="1259">
 				<navLabel>
-					<text>閬州東樓筵奉送十一舅往青城</text>
+					<text>放船</text>
 				</navLabel>
-				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#ceng"/>
+				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#fang_chuan"/>
 			</navPoint>
         </navPoint>
         <navPoint id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" playOrder="1300">
