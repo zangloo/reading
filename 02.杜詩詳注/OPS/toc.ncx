@@ -3409,6 +3409,12 @@
 				</navLabel>
 				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#zheng_fu"/>
 			</navPoint>
+			<navPoint id="xi_shan_san_shou" playOrder="1265">
+				<navLabel>
+					<text>西山三首</text>
+				</navLabel>
+				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#xi_shan_san_shou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" playOrder="1300">
             <navLabel>
