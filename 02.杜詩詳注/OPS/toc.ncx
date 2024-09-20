@@ -3427,6 +3427,12 @@
 				</navLabel>
 				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#chen_man_lai_wu_zeng_tang_heng_dan_fu"/>
 			</navPoint>
+			<navPoint id="ba_shan" playOrder="1268">
+				<navLabel>
+					<text>巴山</text>
+				</navLabel>
+				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#ba_shan"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" playOrder="1300">
             <navLabel>
