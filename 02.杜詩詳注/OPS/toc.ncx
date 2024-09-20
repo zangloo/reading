@@ -3451,6 +3451,12 @@
 				</navLabel>
 				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#jiang_ling_wang_xing"/>
 			</navPoint>
+			<navPoint id="chou_zuo" playOrder="1272">
+				<navLabel>
+					<text>愁坐</text>
+				</navLabel>
+				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#chou_zuo"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" playOrder="1300">
             <navLabel>
