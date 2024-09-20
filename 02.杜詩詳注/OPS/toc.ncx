@@ -3439,6 +3439,12 @@
 				</navLabel>
 				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#zao_hua"/>
 			</navPoint>
+			<navPoint id="fa_lang_zhong" playOrder="1270">
+				<navLabel>
+					<text>發閬中</text>
+				</navLabel>
+				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#fa_lang_zhong"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" playOrder="1300">
             <navLabel>
