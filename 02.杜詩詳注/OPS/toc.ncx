@@ -3481,6 +3481,12 @@
 				</navLabel>
 				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#tao_zhu_zhang_yin_zeng_zhang_liu_hou"/>
 			</navPoint>
+			<navPoint id="wo" playOrder="1277">
+				<navLabel>
+					<text>將適吳楚留别章使君留後兼幕府諸公</text>
+				</navLabel>
+				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#wo"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" playOrder="1300">
             <navLabel>
