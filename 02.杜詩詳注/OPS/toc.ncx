@@ -3499,6 +3499,12 @@
 				</navLabel>
 				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#sui_mu"/>
 			</navPoint>
+			<navPoint id="song_li_qing_ye" playOrder="1280">
+				<navLabel>
+					<text>送李卿曄</text>
+				</navLabel>
+				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#song_li_qing_ye"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" playOrder="1300">
             <navLabel>
