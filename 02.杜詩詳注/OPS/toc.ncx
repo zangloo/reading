@@ -3511,6 +3511,12 @@
 				</navLabel>
 				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#shi_men"/>
 			</navPoint>
+			<navPoint id="huang_que_bao_ye_su_qun_fei_dong_jing_zhen_jin_jun" playOrder="1282">
+				<navLabel>
+					<text>贈别賀蘭銛</text>
+				</navLabel>
+				<content src="c13_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan12.xhtml#huang_que_bao_ye_su_qun_fei_dong_jing_zhen_jin_jun"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13" playOrder="1300">
             <navLabel>
