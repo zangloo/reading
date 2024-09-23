@@ -3523,17 +3523,17 @@
                 <text>卷十三</text>
             </navLabel>
             <content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml"/>
-			<navPoint id="lang_shui_ge" playOrder="1301">
+			<navPoint id="lang_shan_ge" playOrder="1301">
 				<navLabel>
 					<text>閬山歌</text>
 				</navLabel>
-				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#lang_shui_ge"/>
+				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#lang_shan_ge"/>
 			</navPoint>
-			<navPoint id="lang_shan_ge" playOrder="1302">
+			<navPoint id="lang_shui_ge" playOrder="1302">
 				<navLabel>
 					<text>閬水歌</text>
 				</navLabel>
-				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#lang_shan_ge"/>
+				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#lang_shui_ge"/>
 			</navPoint>
         </navPoint>
         <navPoint id="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14" playOrder="1400">
