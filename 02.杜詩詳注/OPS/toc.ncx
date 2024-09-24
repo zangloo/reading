@@ -3565,6 +3565,12 @@
 				</navLabel>
 				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#ba_xi_wen_shou_jing"/>
 			</navPoint>
+			<navPoint id="cheng_shang" playOrder="1308">
+				<navLabel>
+					<text>城上</text>
+				</navLabel>
+				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#cheng_shang"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14" playOrder="1400">
             <navLabel>
