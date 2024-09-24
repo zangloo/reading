@@ -3547,6 +3547,12 @@
 				</navLabel>
 				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#pei_wang_shi"/>
 			</navPoint>
+			<navPoint id="fan_jiang" playOrder="1305">
+				<navLabel>
+					<text>泛江</text>
+				</navLabel>
+				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#fan_jiang"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14" playOrder="1400">
             <navLabel>
