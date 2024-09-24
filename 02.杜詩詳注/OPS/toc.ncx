@@ -3559,6 +3559,12 @@
 				</navLabel>
 				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#shou_jing"/>
 			</navPoint>
+			<navPoint id="ba_xi_wen_shou_jing" playOrder="1307">
+				<navLabel>
+					<text>巴西聞收京闕送班司馬入京二首</text>
+				</navLabel>
+				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#ba_xi_wen_shou_jing"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14" playOrder="1400">
             <navLabel>
