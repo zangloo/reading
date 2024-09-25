@@ -3571,6 +3571,12 @@
 				</navLabel>
 				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#cheng_shang"/>
 			</navPoint>
+			<navPoint id="shang_chun_wu_shou" playOrder="1309">
+				<navLabel>
+					<text>傷春五首</text>
+				</navLabel>
+				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#shang_chun_wu_shou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14" playOrder="1400">
             <navLabel>
