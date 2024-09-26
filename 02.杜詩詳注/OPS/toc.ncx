@@ -3589,6 +3589,12 @@
 				</navLabel>
 				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#ba_shu_chou_shui_yu_wu_men_xing"/>
 			</navPoint>
+			<navPoint id="teng_wang_ting_zi_er_shou" playOrder="1312">
+				<navLabel>
+					<text>滕王亭子二首</text>
+				</navLabel>
+				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#teng_wang_ting_zi_er_shou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14" playOrder="1400">
             <navLabel>
