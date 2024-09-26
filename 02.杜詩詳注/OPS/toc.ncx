@@ -3583,6 +3583,12 @@
 				</navLabel>
 				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#mu_han"/>
 			</navPoint>
+			<navPoint id="ba_shu_chou_shui_yu_wu_men_xing" playOrder="1311">
+				<navLabel>
+					<text>遊子</text>
+				</navLabel>
+				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#ba_shu_chou_shui_yu_wu_men_xing"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14" playOrder="1400">
             <navLabel>
