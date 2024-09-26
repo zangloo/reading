@@ -3595,6 +3595,12 @@
 				</navLabel>
 				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#teng_wang_ting_zi_er_shou"/>
 			</navPoint>
+			<navPoint id="yu_tai_guan" playOrder="1313">
+				<navLabel>
+					<text>玉臺觀二首</text>
+				</navLabel>
+				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#yu_tai_guan"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14" playOrder="1400">
             <navLabel>
