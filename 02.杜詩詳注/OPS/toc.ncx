@@ -3601,6 +3601,12 @@
 				</navLabel>
 				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#yu_tai_guan"/>
 			</navPoint>
+			<navPoint id="feng_ji_zhang_shi_shi_yu" playOrder="1314">
+				<navLabel>
+					<text>奉寄章十侍御</text>
+				</navLabel>
+				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#feng_ji_zhang_shi_shi_yu"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14" playOrder="1400">
             <navLabel>
