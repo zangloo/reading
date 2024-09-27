@@ -3613,6 +3613,12 @@
 				</navLabel>
 				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#nan_chi"/>
 			</navPoint>
+			<navPoint id="jiang_fu_jing_nan_ji_bie_li_jian_zhou" playOrder="1316">
+				<navLabel>
+					<text>將赴荆南寄别李劍州</text>
+				</navLabel>
+				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#jiang_fu_jing_nan_ji_bie_li_jian_zhou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14" playOrder="1400">
             <navLabel>
