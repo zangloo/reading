@@ -3643,6 +3643,12 @@
 				</navLabel>
 				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#gu_gu"/>
 			</navPoint>
+			<navPoint id="ta_xiang_fu" playOrder="1321">
+				<navLabel>
+					<text>别房太尉墓</text>
+				</navLabel>
+				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#ta_xiang_fu"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14" playOrder="1400">
             <navLabel>
