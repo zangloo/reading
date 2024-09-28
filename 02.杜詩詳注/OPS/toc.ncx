@@ -3631,6 +3631,12 @@
 				</navLabel>
 				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#feng_dai_yan_da_fu"/>
 			</navPoint>
+			<navPoint id="du_jiang" playOrder="1319">
+				<navLabel>
+					<text>渡江</text>
+				</navLabel>
+				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#du_jiang"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14" playOrder="1400">
             <navLabel>
