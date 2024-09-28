@@ -3637,6 +3637,12 @@
 				</navLabel>
 				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#du_jiang"/>
 			</navPoint>
+			<navPoint id="gu_gu" playOrder="1320">
+				<navLabel>
+					<text>自閬州領妻子却赴蜀山行三首</text>
+				</navLabel>
+				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#gu_gu"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14" playOrder="1400">
             <navLabel>
