@@ -3655,6 +3655,12 @@
 				</navLabel>
 				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#de_gui_mao_wu_fu_cheng_dou_zhi"/>
 			</navPoint>
+			<navPoint id="chun_gui" playOrder="1323">
+				<navLabel>
+					<text>春歸</text>
+				</navLabel>
+				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#chun_gui"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14" playOrder="1400">
             <navLabel>
