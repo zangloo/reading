@@ -3649,6 +3649,12 @@
 				</navLabel>
 				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#ta_xiang_fu"/>
 			</navPoint>
+			<navPoint id="de_gui_mao_wu_fu_cheng_dou_zhi" playOrder="1322">
+				<navLabel>
+					<text>將赴成都草堂途中有作先寄嚴鄭公五首</text>
+				</navLabel>
+				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#de_gui_mao_wu_fu_cheng_dou_zhi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14" playOrder="1400">
             <navLabel>
