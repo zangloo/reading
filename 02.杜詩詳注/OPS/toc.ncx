@@ -3697,6 +3697,12 @@
 				</navLabel>
 				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#po_chuan"/>
 			</navPoint>
+			<navPoint id="feng_ji_gao_chang_shi" playOrder="1330">
+				<navLabel>
+					<text>奉寄高常侍</text>
+				</navLabel>
+				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#feng_ji_gao_chang_shi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14" playOrder="1400">
             <navLabel>
