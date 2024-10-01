@@ -3703,6 +3703,12 @@
 				</navLabel>
 				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#feng_ji_gao_chang_shi"/>
 			</navPoint>
+			<navPoint id="zeng_wang_er_shi_si_shi_yu_qi_si_shi_yun" playOrder="1331">
+				<navLabel>
+					<text>贈王二十四侍御契四十韻</text>
+				</navLabel>
+				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#zeng_wang_er_shi_si_shi_yu_qi_si_shi_yun"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14" playOrder="1400">
             <navLabel>
