@@ -3763,6 +3763,12 @@
 				</navLabel>
 				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#jue_ju_liu_shou"/>
 			</navPoint>
+			<navPoint id="tang_xi_zhang_sun_bie_kai_men_qian_bei_xing" playOrder="1341">
+				<navLabel>
+					<text>絕句四首</text>
+				</navLabel>
+				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#tang_xi_zhang_sun_bie_kai_men_qian_bei_xing"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14" playOrder="1400">
             <navLabel>
