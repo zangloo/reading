@@ -3775,6 +3775,12 @@
 				</navLabel>
 				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#ji_li_shi_si_yuan_wai_bu_shi_er_yun"/>
 			</navPoint>
+			<navPoint id="jun_zhong_zui_ge_ji_shen_ba_liu_sou" playOrder="1343">
+				<navLabel>
+					<text>軍中醉歌寄沈八劉叟</text>
+				</navLabel>
+				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#jun_zhong_zui_ge_ji_shen_ba_liu_sou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14" playOrder="1400">
             <navLabel>
