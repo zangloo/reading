@@ -3781,6 +3781,12 @@
 				</navLabel>
 				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#jun_zhong_zui_ge_ji_shen_ba_liu_sou"/>
 			</navPoint>
+			<navPoint id="dan_qing_yin" playOrder="1344">
+				<navLabel>
+					<text>丹青引</text>
+				</navLabel>
+				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#dan_qing_yin"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14" playOrder="1400">
             <navLabel>
