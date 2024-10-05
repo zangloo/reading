@@ -3793,6 +3793,12 @@
 				</navLabel>
 				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#guo_chu_yi_lai_hua_an_ma_shen_miao_du_shu"/>
 			</navPoint>
+			<navPoint id="song_wei_feng_shang" playOrder="1346">
+				<navLabel>
+					<text>送韋諷上閬州錄事參軍</text>
+				</navLabel>
+				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#song_wei_feng_shang"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14" playOrder="1400">
             <navLabel>
