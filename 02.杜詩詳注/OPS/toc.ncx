@@ -3817,6 +3817,12 @@
                 <text>卷十四</text>
             </navLabel>
             <content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml"/>
+			<navPoint id="ji_dong_qing_jia_rong_shi_yun" playOrder="1401">
+				<navLabel>
+					<text>寄董卿嘉榮十韻</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#ji_dong_qing_jia_rong_shi_yun"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
