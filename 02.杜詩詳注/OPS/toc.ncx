@@ -3799,6 +3799,12 @@
 				</navLabel>
 				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#song_wei_feng_shang"/>
 			</navPoint>
+			<navPoint id="tai_zi_zhang_she_ren_yi" playOrder="1347">
+				<navLabel>
+					<text>太子張舍人遺織成褥段</text>
+				</navLabel>
+				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#tai_zi_zhang_she_ren_yi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14" playOrder="1400">
             <navLabel>
