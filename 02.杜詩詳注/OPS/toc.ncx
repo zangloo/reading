@@ -3823,6 +3823,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#ji_dong_qing_jia_rong_shi_yun"/>
 			</navPoint>
+			<navPoint id="li_qiu_yu_yuan_zhong_you_zuo" playOrder="1402">
+				<navLabel>
+					<text>立秋雨院中有作</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#li_qiu_yu_yuan_zhong_you_zuo"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
