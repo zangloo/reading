@@ -3847,6 +3847,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#yuan_zhong_wan_qing_huai_xi_guo_mao_she"/>
 			</navPoint>
+			<navPoint id="qing_qiu_mu_fu_jing_wu" playOrder="1406">
+				<navLabel>
+					<text>宿府</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#qing_qiu_mu_fu_jing_wu"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
