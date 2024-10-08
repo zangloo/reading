@@ -3877,6 +3877,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#juan_ye"/>
 			</navPoint>
+			<navPoint id="pei_zheng_gong_qiu_wan" playOrder="1411">
+				<navLabel>
+					<text>陪鄭公秋晚北池臨眺</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#pei_zheng_gong_qiu_wan"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
