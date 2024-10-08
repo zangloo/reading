@@ -3871,6 +3871,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#du_zuo"/>
 			</navPoint>
+			<navPoint id="juan_ye" playOrder="1410">
+				<navLabel>
+					<text>倦夜</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#juan_ye"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
