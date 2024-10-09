@@ -3889,6 +3889,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#qian_men_feng_cheng_yan"/>
 			</navPoint>
+			<navPoint id="song_she_di_ying" playOrder="1413">
+				<navLabel>
+					<text>送舍弟穎赴齊州三首</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#song_she_di_ying"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
