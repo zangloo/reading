@@ -3913,6 +3913,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#wan_qiu_pei_yan_zheng_gong_mo_he_chi_fan_zhou"/>
 			</navPoint>
+			<navPoint id="tuo_shui_lin" playOrder="1417">
+				<navLabel>
+					<text>奉觀嚴鄭公廳事岷山沱江畫圖十韻</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#tuo_shui_lin"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
