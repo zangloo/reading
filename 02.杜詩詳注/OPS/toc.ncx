@@ -3907,6 +3907,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#yan_zheng_gong_zhai_tong_yong_zhu"/>
 			</navPoint>
+			<navPoint id="wan_qiu_pei_yan_zheng_gong_mo_he_chi_fan_zhou" playOrder="1416">
+				<navLabel>
+					<text>晚秋陪嚴鄭公摩訶池泛舟</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#wan_qiu_pei_yan_zheng_gong_mo_he_chi_fan_zhou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
