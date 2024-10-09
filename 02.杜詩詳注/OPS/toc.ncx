@@ -3895,6 +3895,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#song_she_di_ying"/>
 			</navPoint>
+			<navPoint id="yan_zheng_gong_jie_xia_xin_song" playOrder="1414">
+				<navLabel>
+					<text>嚴鄭公階下新松</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#yan_zheng_gong_jie_xia_xin_song"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
