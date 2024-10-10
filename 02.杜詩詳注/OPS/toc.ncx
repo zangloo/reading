@@ -3925,6 +3925,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#guo_gu_hu_si_xiao_shu_zhuang_er_shou"/>
 			</navPoint>
+			<navPoint id="huai_jiu" playOrder="1419">
+				<navLabel>
+					<text>懷舊</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#huai_jiu"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
