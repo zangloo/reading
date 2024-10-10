@@ -3931,6 +3931,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#huai_jiu"/>
 			</navPoint>
+			<navPoint id="ku_tai_zhou_zheng_si_hu_su_shao" playOrder="1420">
+				<navLabel>
+					<text>哭台州鄭司戶蘇少監</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#ku_tai_zhou_zheng_si_hu_su_shao"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
