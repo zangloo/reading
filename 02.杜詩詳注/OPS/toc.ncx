@@ -3919,6 +3919,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#tuo_shui_lin"/>
 			</navPoint>
+			<navPoint id="guo_gu_hu_si_xiao_shu_zhuang_er_shou" playOrder="1418">
+				<navLabel>
+					<text>過故斛斯校書莊二首</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#guo_gu_hu_si_xiao_shu_zhuang_er_shou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
