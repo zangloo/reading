@@ -3937,6 +3937,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#ku_tai_zhou_zheng_si_hu_su_shao"/>
 			</navPoint>
+			<navPoint id="bie_tang_shi_wu_jie_yin_ji_li_bu_jia_shi_lang" playOrder="1421">
+				<navLabel>
+					<text>别唐十五誡因寄禮部賈侍郎</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#bie_tang_shi_wu_jie_yin_ji_li_bu_jia_shi_lang"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
