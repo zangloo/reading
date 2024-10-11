@@ -3961,6 +3961,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#zhi_hou"/>
 			</navPoint>
+			<navPoint id="ji_he_lan_xian" playOrder="1425">
+				<navLabel>
+					<text>寄賀蘭銛</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#ji_he_lan_xian"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
