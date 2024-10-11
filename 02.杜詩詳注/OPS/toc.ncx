@@ -3949,6 +3949,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#chu_dong"/>
 			</navPoint>
+			<navPoint id="guan_li_gu_qing_si_ma_di" playOrder="1423">
+				<navLabel>
+					<text>觀李固請司馬弟山水圖三首</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#guan_li_gu_qing_si_ma_di"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
