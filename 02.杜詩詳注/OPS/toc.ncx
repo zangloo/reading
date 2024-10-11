@@ -3967,6 +3967,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#ji_he_lan_xian"/>
 			</navPoint>
+			<navPoint id="song_wang_shi_yu_wang_dong_chuan_fang_sheng_chi_zu_xi" playOrder="1426">
+				<navLabel>
+					<text>送王侍御往東川放生池祖席</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#song_wang_shi_yu_wang_dong_chuan_fang_sheng_chi_zu_xi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
