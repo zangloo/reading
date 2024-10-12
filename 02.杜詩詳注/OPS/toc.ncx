@@ -3973,6 +3973,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#song_wang_shi_yu_wang_dong_chuan_fang_sheng_chi_zu_xi"/>
 			</navPoint>
+			<navPoint id="zheng_yue_san_ri_gui_xi_shang" playOrder="1427">
+				<navLabel>
+					<text>正月三日歸溪上有作簡院内諸公</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#zheng_yue_san_ri_gui_xi_shang"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
