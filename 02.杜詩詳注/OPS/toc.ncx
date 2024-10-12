@@ -3979,6 +3979,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#zheng_yue_san_ri_gui_xi_shang"/>
 			</navPoint>
+			<navPoint id="bi_lu_qian_xing" playOrder="1428">
+				<navLabel>
+					<text>敝廬遣興奉寄嚴公</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#bi_lu_qian_xing"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
