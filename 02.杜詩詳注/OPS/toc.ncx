@@ -4003,6 +4003,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#chun_ri_jiang_cun_wu_shou"/>
 			</navPoint>
+			<navPoint id="zhang_yin" playOrder="1432">
+				<navLabel>
+					<text>長吟</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#zhang_yin"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
