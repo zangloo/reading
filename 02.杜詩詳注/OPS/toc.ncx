@@ -3997,6 +3997,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#chu_cao"/>
 			</navPoint>
+			<navPoint id="chun_ri_jiang_cun_wu_shou" playOrder="1431">
+				<navLabel>
+					<text>春日江村五首</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#chun_ri_jiang_cun_wu_shou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
