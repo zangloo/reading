@@ -4027,6 +4027,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#san_yun_san_pian"/>
 			</navPoint>
+			<navPoint id="tian_bian_lao_ren_gui_wei_de" playOrder="1436">
+				<navLabel>
+					<text>天邊行</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#tian_bian_lao_ren_gui_wei_de"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
