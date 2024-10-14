@@ -4021,6 +4021,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#jue_ju_san_shou"/>
 			</navPoint>
+			<navPoint id="san_yun_san_pian" playOrder="1435">
+				<navLabel>
+					<text>三韻三篇</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#san_yun_san_pian"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
