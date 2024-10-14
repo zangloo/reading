@@ -4033,6 +4033,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#tian_bian_lao_ren_gui_wei_de"/>
 			</navPoint>
+			<navPoint id="mo_xiang_yi_xing" playOrder="1437">
+				<navLabel>
+					<text>莫相疑行</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#mo_xiang_yi_xing"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
