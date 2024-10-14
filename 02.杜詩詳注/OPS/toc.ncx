@@ -4051,6 +4051,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#wen_gao_chang_shi_wang"/>
 			</navPoint>
+			<navPoint id="qu_shu" playOrder="1440">
+				<navLabel>
+					<text>去蜀</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#qu_shu"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
