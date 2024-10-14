@@ -4045,6 +4045,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#chi_xiao_xing"/>
 			</navPoint>
+			<navPoint id="wen_gao_chang_shi_wang" playOrder="1439">
+				<navLabel>
+					<text>聞高常侍亡</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#wen_gao_chang_shi_wang"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
