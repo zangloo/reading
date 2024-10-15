@@ -4081,6 +4081,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#yan_rong_zhou_yang_shi"/>
 			</navPoint>
+			<navPoint id="yu_zhou_hou_yan_liu_shi_yu" playOrder="1445">
+				<navLabel>
+					<text>渝州候嚴六侍御不到先下峽</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#yu_zhou_hou_yan_liu_shi_yu"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
