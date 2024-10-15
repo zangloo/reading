@@ -4069,6 +4069,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#yang_zhou_qian_shan_nei_ri_ru_po_wang"/>
 			</navPoint>
+			<navPoint id="kuang" playOrder="1443">
+				<navLabel>
+					<text>狂歌行贈四兄</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#kuang"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
