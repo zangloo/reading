@@ -4075,6 +4075,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#kuang"/>
 			</navPoint>
+			<navPoint id="yan_rong_zhou_yang_shi" playOrder="1444">
+				<navLabel>
+					<text>宴戎州楊使君東樓</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#yan_rong_zhou_yang_shi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
