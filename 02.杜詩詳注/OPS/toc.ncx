@@ -4117,6 +4117,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#ku_yan_pu_she_gui_chen"/>
 			</navPoint>
+			<navPoint id="lu_ye_shu_huai" playOrder="1451">
+				<navLabel>
+					<text>旅夜書懷</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#lu_ye_shu_huai"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
