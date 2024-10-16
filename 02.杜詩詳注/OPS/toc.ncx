@@ -4093,6 +4093,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#bo_men"/>
 			</navPoint>
+			<navPoint id="yan_zhong_zhou_shi" playOrder="1447">
+				<navLabel>
+					<text>宴忠州使君姪宅</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#yan_zhong_zhou_shi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
