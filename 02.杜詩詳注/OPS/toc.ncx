@@ -4111,6 +4111,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#ti_zhong_zhou_long_xing_si"/>
 			</navPoint>
+			<navPoint id="ku_yan_pu_she_gui_chen" playOrder="1450">
+				<navLabel>
+					<text>哭嚴僕射歸櫬</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#ku_yan_pu_she_gui_chen"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
