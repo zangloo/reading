@@ -4105,6 +4105,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#yu_miao"/>
 			</navPoint>
+			<navPoint id="ti_zhong_zhou_long_xing_si" playOrder="1449">
+				<navLabel>
+					<text>題忠州龍興寺所居院壁</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#ti_zhong_zhou_long_xing_si"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
