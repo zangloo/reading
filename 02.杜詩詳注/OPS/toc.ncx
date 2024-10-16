@@ -4087,6 +4087,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#yu_zhou_hou_yan_liu_shi_yu"/>
 			</navPoint>
+			<navPoint id="bo_men" playOrder="1446">
+				<navLabel>
+					<text>撥悶</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#bo_men"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
