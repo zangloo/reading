@@ -4135,6 +4135,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#yun_an_jiu_ri"/>
 			</navPoint>
+			<navPoint id="da_zheng_shi_qi_lang_yi_jue" playOrder="1454">
+				<navLabel>
+					<text>答鄭十七郎一絕</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#da_zheng_shi_qi_lang_yi_jue"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
