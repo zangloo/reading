@@ -4129,6 +4129,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#fang_chuan-n1832"/>
 			</navPoint>
+			<navPoint id="yun_an_jiu_ri" playOrder="1453">
+				<navLabel>
+					<text>雲安九日鄭十八攜酒陪諸公宴</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#yun_an_jiu_ri"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
