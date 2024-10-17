@@ -4147,6 +4147,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#bie_chang_zheng_jun"/>
 			</navPoint>
+			<navPoint id="chang_jiang_er_shou" playOrder="1456">
+				<navLabel>
+					<text>長江二首</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#chang_jiang_er_shou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
