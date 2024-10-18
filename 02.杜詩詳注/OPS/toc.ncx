@@ -4165,6 +4165,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#jiang_xiao_er_shou"/>
 			</navPoint>
+			<navPoint id="huai_jin_shui_ju_zhi_er_shou" playOrder="1459">
+				<navLabel>
+					<text>懷錦水居止二首</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#huai_jin_shui_ju_zhi_er_shou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
