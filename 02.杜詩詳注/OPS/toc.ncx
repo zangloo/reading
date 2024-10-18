@@ -4171,6 +4171,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#huai_jin_shui_ju_zhi_er_shou"/>
 			</navPoint>
+			<navPoint id="qing_si" playOrder="1460">
+				<navLabel>
+					<text>青絲</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#qing_si"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
