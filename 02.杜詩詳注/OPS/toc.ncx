@@ -4195,6 +4195,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#shi_er_yue_yi_ri_san_shou"/>
 			</navPoint>
+			<navPoint id="you_xue" playOrder="1464">
+				<navLabel>
+					<text>又雪</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#you_xue"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
