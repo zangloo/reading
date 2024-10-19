@@ -4213,6 +4213,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#nan_chu"/>
 			</navPoint>
+			<navPoint id="shui_ge_zhao_ji" playOrder="1467">
+				<navLabel>
+					<text>水閣朝霽奉簡雲安嚴明府</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#shui_ge_zhao_ji"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
