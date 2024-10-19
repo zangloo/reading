@@ -4189,6 +4189,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#qian_fen"/>
 			</navPoint>
+			<navPoint id="shi_er_yue_yi_ri_san_shou" playOrder="1463">
+				<navLabel>
+					<text>十二月一日三首</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#shi_er_yue_yi_ri_san_shou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
