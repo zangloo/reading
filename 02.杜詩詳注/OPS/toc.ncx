@@ -4225,6 +4225,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#du_juan"/>
 			</navPoint>
+			<navPoint id="zi_gui" playOrder="1469">
+				<navLabel>
+					<text>子規</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#zi_gui"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
