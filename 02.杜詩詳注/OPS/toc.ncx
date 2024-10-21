@@ -4255,6 +4255,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#bie_cai_shi_si_zhe_zuo"/>
 			</navPoint>
+			<navPoint id="ji_chang_zhi_jun" playOrder="1474">
+				<navLabel>
+					<text>寄常徵君</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#ji_chang_zhi_jun"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
