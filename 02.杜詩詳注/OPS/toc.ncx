@@ -4249,6 +4249,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#zeng_zheng_shi_ba_bi"/>
 			</navPoint>
+			<navPoint id="bie_cai_shi_si_zhe_zuo" playOrder="1473">
+				<navLabel>
+					<text>别蔡十四著作</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#bie_cai_shi_si_zhe_zuo"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
