@@ -4261,6 +4261,12 @@
 				</navLabel>
 				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#ji_chang_zhi_jun"/>
 			</navPoint>
+			<navPoint id="ji_cen_jia_zhou" playOrder="1475">
+				<navLabel>
+					<text>寄岑嘉州</text>
+				</navLabel>
+				<content src="c15_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan14.xhtml#ji_cen_jia_zhou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15" playOrder="1500">
             <navLabel>
