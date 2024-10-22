@@ -4273,6 +4273,12 @@
                 <text>卷十五</text>
             </navLabel>
             <content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml"/>
+			<navPoint id="yi_ju_kui_zhou_zuo" playOrder="1501">
+				<navLabel>
+					<text>移居夔州作</text>
+				</navLabel>
+				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#yi_ju_kui_zhou_zuo"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16" playOrder="1600">
             <navLabel>
