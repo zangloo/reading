@@ -4285,6 +4285,12 @@
 				</navLabel>
 				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#chuan_xia"/>
 			</navPoint>
+			<navPoint id="man_cheng_yi_shou" playOrder="1503">
+				<navLabel>
+					<text>漫成一首</text>
+				</navLabel>
+				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#man_cheng_yi_shou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16" playOrder="1600">
             <navLabel>
