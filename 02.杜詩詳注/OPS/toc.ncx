@@ -4279,6 +4279,12 @@
 				</navLabel>
 				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#yi_ju_kui_zhou_zuo"/>
 			</navPoint>
+			<navPoint id="chuan_xia" playOrder="1502">
+				<navLabel>
+					<text>船下夔州郭宿雨濕不得上岸别王十二判官</text>
+				</navLabel>
+				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#chuan_xia"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16" playOrder="1600">
             <navLabel>
