@@ -4303,6 +4303,12 @@
 				</navLabel>
 				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#yin_shui"/>
 			</navPoint>
+			<navPoint id="shi_liao" playOrder="1506">
+				<navLabel>
+					<text>示獠奴阿段</text>
+				</navLabel>
+				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#shi_liao"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16" playOrder="1600">
             <navLabel>
