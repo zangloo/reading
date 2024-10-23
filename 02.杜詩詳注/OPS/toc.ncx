@@ -4321,6 +4321,12 @@
 				</navLabel>
 				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#jiang_cheng_han_bian_tai_yi_shang"/>
 			</navPoint>
+			<navPoint id="pei_zhu_gong_shang" playOrder="1509">
+				<navLabel>
+					<text>陪諸公上白帝城頭宴越公堂之作</text>
+				</navLabel>
+				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#pei_zhu_gong_shang"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16" playOrder="1600">
             <navLabel>
