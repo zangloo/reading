@@ -4315,6 +4315,12 @@
 				</navLabel>
 				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#shang-n1879"/>
 			</navPoint>
+			<navPoint id="jiang_cheng_han_bian_tai_yi_shang" playOrder="1508">
+				<navLabel>
+					<text>上白帝城二首</text>
+				</navLabel>
+				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#jiang_cheng_han_bian_tai_yi_shang"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16" playOrder="1600">
             <navLabel>
