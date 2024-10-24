@@ -4363,6 +4363,12 @@
 				</navLabel>
 				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#lao_bing"/>
 			</navPoint>
+			<navPoint id="jin_wen" playOrder="1516">
+				<navLabel>
+					<text>近聞</text>
+				</navLabel>
+				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#jin_wen"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16" playOrder="1600">
             <navLabel>
