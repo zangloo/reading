@@ -4333,6 +4333,12 @@
 				</navLabel>
 				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#bai_di_cheng_zui_gao_lou"/>
 			</navPoint>
+			<navPoint id="wu_hou_miao" playOrder="1511">
+				<navLabel>
+					<text>武侯廟</text>
+				</navLabel>
+				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#wu_hou_miao"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16" playOrder="1600">
             <navLabel>
