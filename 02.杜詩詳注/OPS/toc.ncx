@@ -4351,6 +4351,12 @@
 				</navLabel>
 				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#xiao_wang_bai_di_cheng_yan_shan"/>
 			</navPoint>
+			<navPoint id="ju_shi" playOrder="1514">
+				<navLabel>
+					<text>灩澦堆</text>
+				</navLabel>
+				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#ju_shi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16" playOrder="1600">
             <navLabel>
