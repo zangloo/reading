@@ -4345,6 +4345,12 @@
 				</navLabel>
 				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#ba_zhen_tu"/>
 			</navPoint>
+			<navPoint id="xiao_wang_bai_di_cheng_yan_shan" playOrder="1513">
+				<navLabel>
+					<text>曉望白帝城鹽山</text>
+				</navLabel>
+				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#xiao_wang_bai_di_cheng_yan_shan"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16" playOrder="1600">
             <navLabel>
