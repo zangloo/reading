@@ -4339,6 +4339,12 @@
 				</navLabel>
 				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#wu_hou_miao"/>
 			</navPoint>
+			<navPoint id="ba_zhen_tu" playOrder="1512">
+				<navLabel>
+					<text>八陣圗</text>
+				</navLabel>
+				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#ba_zhen_tu"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16" playOrder="1600">
             <navLabel>
