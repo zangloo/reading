@@ -4399,6 +4399,12 @@
 				</navLabel>
 				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#yi_zheng_nan"/>
 			</navPoint>
+			<navPoint id="piao_yao" playOrder="1522">
+				<navLabel>
+					<text>贈崔十三評事公輔</text>
+				</navLabel>
+				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#piao_yao"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16" playOrder="1600">
             <navLabel>
