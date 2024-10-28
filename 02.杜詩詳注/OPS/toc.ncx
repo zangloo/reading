@@ -4441,6 +4441,12 @@
 				</navLabel>
 				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#du_re_ji_jian_cui_ping_shi_shi_liu_di"/>
 			</navPoint>
+			<navPoint id="xin_xing" playOrder="1529">
+				<navLabel>
+					<text>信行遠修水筒</text>
+				</navLabel>
+				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#xin_xing"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16" playOrder="1600">
             <navLabel>
