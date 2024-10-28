@@ -4429,6 +4429,12 @@
 				</navLabel>
 				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#re_san_shou"/>
 			</navPoint>
+			<navPoint id="chi_jia_bai_yan_ju_ci" playOrder="1527">
+				<navLabel>
+					<text>夔州歌十絕句</text>
+				</navLabel>
+				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#chi_jia_bai_yan_ju_ci"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16" playOrder="1600">
             <navLabel>
