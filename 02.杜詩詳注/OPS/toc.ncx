@@ -4447,6 +4447,12 @@
 				</navLabel>
 				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#xin_xing"/>
 			</navPoint>
+			<navPoint id="cui_zong_wen_shu_ji_zha" playOrder="1530">
+				<navLabel>
+					<text>催宗文樹雞栅</text>
+				</navLabel>
+				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#cui_zong_wen_shu_ji_zha"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16" playOrder="1600">
             <navLabel>
