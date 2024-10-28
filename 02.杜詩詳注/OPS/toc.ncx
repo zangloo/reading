@@ -4453,6 +4453,12 @@
 				</navLabel>
 				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#cui_zong_wen_shu_ji_zha"/>
 			</navPoint>
+			<navPoint id="yi_hua" playOrder="1531">
+				<navLabel>
+					<text>貽華陽柳少府</text>
+				</navLabel>
+				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#yi_hua"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16" playOrder="1600">
             <navLabel>
