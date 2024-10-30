@@ -4465,6 +4465,12 @@
 				</navLabel>
 				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#qi_yue_san_ri_ting_wu"/>
 			</navPoint>
+			<navPoint id="qian_niu_zhi_nu" playOrder="1533">
+				<navLabel>
+					<text>牽牛織女</text>
+				</navLabel>
+				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#qian_niu_zhi_nu"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16" playOrder="1600">
             <navLabel>
