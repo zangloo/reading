@@ -4495,6 +4495,12 @@
 				</navLabel>
 				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#jiang_shang"/>
 			</navPoint>
+			<navPoint id="yu_qing-n1939" playOrder="1538">
+				<navLabel>
+					<text>雨晴</text>
+				</navLabel>
+				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#yu_qing-n1939"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16" playOrder="1600">
             <navLabel>
