@@ -4519,6 +4519,12 @@
 				</navLabel>
 				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#yu-n1944"/>
 			</navPoint>
+			<navPoint id="feng_han_zhong_wang_shou_zha" playOrder="1542">
+				<navLabel>
+					<text>奉漢中王手札</text>
+				</navLabel>
+				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#feng_han_zhong_wang_shou_zha"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16" playOrder="1600">
             <navLabel>
