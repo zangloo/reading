@@ -4525,6 +4525,12 @@
 				</navLabel>
 				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#feng_han_zhong_wang_shou_zha"/>
 			</navPoint>
+			<navPoint id="fan_zhao" playOrder="1543">
+				<navLabel>
+					<text>返照</text>
+				</navLabel>
+				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#fan_zhao"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16" playOrder="1600">
             <navLabel>
