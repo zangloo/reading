@@ -4507,6 +4507,12 @@
 				</navLabel>
 				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#yu_bu_jue"/>
 			</navPoint>
+			<navPoint id="wan_qing-n1943" playOrder="1540">
+				<navLabel>
+					<text>晚晴</text>
+				</navLabel>
+				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#wan_qing-n1943"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16" playOrder="1600">
             <navLabel>
