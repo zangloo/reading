@@ -4543,6 +4543,12 @@
 				</navLabel>
 				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#shi_he_tian_xiu_yu_hai_jie_de_chu_lei_zhou_kan"/>
 			</navPoint>
+			<navPoint id="dian_zhong_yang_jian_jian_shi_zhang_xu_cao_shu_tu" playOrder="1546">
+				<navLabel>
+					<text>殿中楊監見示張旭草書圖</text>
+				</navLabel>
+				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#dian_zhong_yang_jian_jian_shi_zhang_xu_cao_shu_tu"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16" playOrder="1600">
             <navLabel>
