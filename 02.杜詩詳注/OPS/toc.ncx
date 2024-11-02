@@ -4549,6 +4549,12 @@
 				</navLabel>
 				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#dian_zhong_yang_jian_jian_shi_zhang_xu_cao_shu_tu"/>
 			</navPoint>
+			<navPoint id="yang_jian_you_chu_hua_ying_shi_er_shan" playOrder="1547">
+				<navLabel>
+					<text>楊監又出畫鷹十二扇</text>
+				</navLabel>
+				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#yang_jian_you_chu_hua_ying_shi_er_shan"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16" playOrder="1600">
             <navLabel>
