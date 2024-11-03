@@ -4561,6 +4561,12 @@
 				</navLabel>
 				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#song_dian_zhong_yang_jian"/>
 			</navPoint>
+			<navPoint id="zeng_li_shi_wu_zhang_bie" playOrder="1549">
+				<navLabel>
+					<text>贈李十五丈别</text>
+				</navLabel>
+				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#zeng_li_shi_wu_zhang_bie"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16" playOrder="1600">
             <navLabel>
