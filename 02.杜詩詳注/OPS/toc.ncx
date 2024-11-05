@@ -4597,6 +4597,12 @@
 				</navLabel>
 				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#ye_xian_zhu_miao"/>
 			</navPoint>
+			<navPoint id="gu_bai_xing" playOrder="1555">
+				<navLabel>
+					<text>古柏行</text>
+				</navLabel>
+				<content src="c16_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan15.xhtml#gu_bai_xing"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16" playOrder="1600">
             <navLabel>
