@@ -4609,6 +4609,12 @@
                 <text>卷十六</text>
             </navLabel>
             <content src="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16.xhtml"/>
+			<navPoint id="zhu_jiang" playOrder="1601">
+				<navLabel>
+					<text>諸將五首</text>
+				</navLabel>
+				<content src="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16.xhtml#zhu_jiang"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17" playOrder="1700">
             <navLabel>
