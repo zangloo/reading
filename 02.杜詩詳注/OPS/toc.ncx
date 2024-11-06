@@ -4615,6 +4615,18 @@
 				</navLabel>
 				<content src="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16.xhtml#zhu_jiang"/>
 			</navPoint>
+			<navPoint id="ba_ai_shi" playOrder="1602">
+				<navLabel>
+					<text>八哀詩</text>
+				</navLabel>
+				<content src="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16.xhtml#ba_ai_shi"/>
+				<navPoint id="zeng_si_kong_wang_gong_si_li" playOrder="1603">
+					<navLabel>
+						<text>贈司空王公思禮</text>
+					</navLabel>
+					<content src="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16.xhtml#zeng_si_kong_wang_gong_si_li"/>
+				</navPoint>
+			</navPoint>
         </navPoint>
         <navPoint id="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17" playOrder="1700">
             <navLabel>
