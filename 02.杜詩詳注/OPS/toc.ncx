@@ -4632,6 +4632,12 @@
 					</navLabel>
 					<content src="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16.xhtml#si_tu_tian_bao_mo_bei_shou_jin_yang_jia_hu"/>
 				</navPoint>
+				<navPoint id="zeng_zuo_pu_she_zheng_guo_gong_yan_gong_wu" playOrder="1605">
+					<navLabel>
+						<text>贈左僕射鄭國公嚴公武</text>
+					</navLabel>
+					<content src="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16.xhtml#zeng_zuo_pu_she_zheng_guo_gong_yan_gong_wu"/>
+				</navPoint>
 			</navPoint>
         </navPoint>
         <navPoint id="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17" playOrder="1700">
