@@ -4626,6 +4626,12 @@
 					</navLabel>
 					<content src="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16.xhtml#zeng_si_kong_wang_gong_si_li"/>
 				</navPoint>
+				<navPoint id="si_tu_tian_bao_mo_bei_shou_jin_yang_jia_hu" playOrder="1604">
+					<navLabel>
+						<text>故司徒李公光弼</text>
+					</navLabel>
+					<content src="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16.xhtml#si_tu_tian_bao_mo_bei_shou_jin_yang_jia_hu"/>
+				</navPoint>
 			</navPoint>
         </navPoint>
         <navPoint id="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17" playOrder="1700">
