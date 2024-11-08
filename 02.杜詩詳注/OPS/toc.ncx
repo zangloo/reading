@@ -4644,6 +4644,12 @@
 					</navLabel>
 					<content src="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16.xhtml#zeng_tai_zi_tai_shi_ru_yang_jun_wang_jin"/>
 				</navPoint>
+				<navPoint id="zeng_mi_shu_jian_jiang_xia_li_gong_yong" playOrder="1607">
+					<navLabel>
+						<text>贈秘書監江夏李公邕</text>
+					</navLabel>
+					<content src="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16.xhtml#zeng_mi_shu_jian_jiang_xia_li_gong_yong"/>
+				</navPoint>
 			</navPoint>
         </navPoint>
         <navPoint id="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17" playOrder="1700">
