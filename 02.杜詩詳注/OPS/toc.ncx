@@ -4638,6 +4638,12 @@
 					</navLabel>
 					<content src="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16.xhtml#zeng_zuo_pu_she_zheng_guo_gong_yan_gong_wu"/>
 				</navPoint>
+				<navPoint id="zeng_tai_zi_tai_shi_ru_yang_jun_wang_jin" playOrder="1606">
+					<navLabel>
+						<text>贈太子太師汝陽郡王璡</text>
+					</navLabel>
+					<content src="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16.xhtml#zeng_tai_zi_tai_shi_ru_yang_jun_wang_jin"/>
+				</navPoint>
 			</navPoint>
         </navPoint>
         <navPoint id="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17" playOrder="1700">
