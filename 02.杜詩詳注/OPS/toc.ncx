@@ -4650,6 +4650,12 @@
 					</navLabel>
 					<content src="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16.xhtml#zeng_mi_shu_jian_jiang_xia_li_gong_yong"/>
 				</navPoint>
+				<navPoint id="wu_gong_shao" playOrder="1608">
+					<navLabel>
+						<text>故秘書少監武功蘇公源明</text>
+					</navLabel>
+					<content src="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16.xhtml#wu_gong_shao"/>
+				</navPoint>
 			</navPoint>
         </navPoint>
         <navPoint id="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17" playOrder="1700">
