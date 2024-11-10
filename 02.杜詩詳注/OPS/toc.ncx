@@ -4662,6 +4662,12 @@
 					</navLabel>
 					<content src="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16.xhtml#gu_zhu_zuo_lang_bian_tai_zhou"/>
 				</navPoint>
+				<navPoint id="xiang" playOrder="1610">
+					<navLabel>
+						<text>故右僕射相國曲江張公九齡</text>
+					</navLabel>
+					<content src="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16.xhtml#xiang"/>
+				</navPoint>
 			</navPoint>
         </navPoint>
         <navPoint id="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17" playOrder="1700">
