@@ -4656,6 +4656,12 @@
 					</navLabel>
 					<content src="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16.xhtml#wu_gong_shao"/>
 				</navPoint>
+				<navPoint id="gu_zhu_zuo_lang_bian_tai_zhou" playOrder="1609">
+					<navLabel>
+						<text>故著作郎貶台州司戶滎陽鄭公虔</text>
+					</navLabel>
+					<content src="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16.xhtml#gu_zhu_zuo_lang_bian_tai_zhou"/>
+				</navPoint>
 			</navPoint>
         </navPoint>
         <navPoint id="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17" playOrder="1700">
