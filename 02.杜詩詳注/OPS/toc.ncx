@@ -4669,6 +4669,12 @@
 					<content src="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16.xhtml#xiang"/>
 				</navPoint>
 			</navPoint>
+			<navPoint id="kui_fu_shu_huai_si_shi_yun" playOrder="1611">
+				<navLabel>
+					<text>夔府書懷四十韻</text>
+				</navLabel>
+				<content src="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16.xhtml#kui_fu_shu_huai_si_shi_yun"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17" playOrder="1700">
             <navLabel>
