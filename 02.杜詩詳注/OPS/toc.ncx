@@ -4681,6 +4681,12 @@
 				</navLabel>
 				<content src="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16.xhtml#wang_zai"/>
 			</navPoint>
+			<navPoint id="xi_zhe_yu_gao_li" playOrder="1613">
+				<navLabel>
+					<text>昔遊</text>
+				</navLabel>
+				<content src="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16.xhtml#xi_zhe_yu_gao_li"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17" playOrder="1700">
             <navLabel>
