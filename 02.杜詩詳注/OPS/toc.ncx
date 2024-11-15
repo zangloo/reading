@@ -4705,6 +4705,12 @@
 				</navLabel>
 				<content src="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16.xhtml#qiu_ri_xiao_wei_shi_huai_wang_bao_xia_zhong_shao"/>
 			</navPoint>
+			<navPoint id="cun_mo_kou_hao_er_shou" playOrder="1617">
+				<navLabel>
+					<text>存殁口號二首</text>
+				</navLabel>
+				<content src="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16.xhtml#cun_mo_kou_hao_er_shou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17" playOrder="1700">
             <navLabel>
