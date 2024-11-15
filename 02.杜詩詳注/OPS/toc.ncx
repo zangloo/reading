@@ -4693,6 +4693,12 @@
 				</navLabel>
 				<content src="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16.xhtml#zhuang_you"/>
 			</navPoint>
+			<navPoint id="qian_huai" playOrder="1615">
+				<navLabel>
+					<text>遣懷</text>
+				</navLabel>
+				<content src="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16.xhtml#qian_huai"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17" playOrder="1700">
             <navLabel>
