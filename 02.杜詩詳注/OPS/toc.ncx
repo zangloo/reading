@@ -4699,6 +4699,12 @@
 				</navLabel>
 				<content src="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16.xhtml#qian_huai"/>
 			</navPoint>
+			<navPoint id="qiu_ri_xiao_wei_shi_huai_wang_bao_xia_zhong_shao" playOrder="1616">
+				<navLabel>
+					<text>奉漢中王手札報韋侍御蕭尊師亡</text>
+				</navLabel>
+				<content src="c17_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan16.xhtml#qiu_ri_xiao_wei_shi_huai_wang_bao_xia_zhong_shao"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17" playOrder="1700">
             <navLabel>
