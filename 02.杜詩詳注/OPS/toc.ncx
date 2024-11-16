@@ -4717,6 +4717,12 @@
                 <text>卷十七</text>
             </navLabel>
             <content src="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17.xhtml"/>
+			<navPoint id="zeng_li_ba" playOrder="1701">
+				<navLabel>
+					<text>贈李八秘書别三十韻</text>
+				</navLabel>
+				<content src="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17.xhtml#zeng_li_ba"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18" playOrder="1800">
             <navLabel>
