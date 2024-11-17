@@ -4789,6 +4789,12 @@
 				</navLabel>
 				<content src="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17.xhtml#chui_di"/>
 			</navPoint>
+			<navPoint id="lou_yu_zhan_yun_man_shan_han" playOrder="1713">
+				<navLabel>
+					<text>西閣雨望</text>
+				</navLabel>
+				<content src="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17.xhtml#lou_yu_zhan_yun_man_shan_han"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18" playOrder="1800">
             <navLabel>
