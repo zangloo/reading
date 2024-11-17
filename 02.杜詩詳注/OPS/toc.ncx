@@ -4771,6 +4771,12 @@
 				</navLabel>
 				<content src="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17.xhtml#ye"/>
 			</navPoint>
+			<navPoint id="cao_ge_lin_wu" playOrder="1710">
+				<navLabel>
+					<text>草閣</text>
+				</navLabel>
+				<content src="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17.xhtml#cao_ge_lin_wu"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18" playOrder="1800">
             <navLabel>
