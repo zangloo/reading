@@ -4747,6 +4747,12 @@
 				</navLabel>
 				<content src="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17.xhtml#bu_mei"/>
 			</navPoint>
+			<navPoint id="song_shi_wu_di_shi_yu_shi" playOrder="1706">
+				<navLabel>
+					<text>送十五弟侍御使蜀</text>
+				</navLabel>
+				<content src="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17.xhtml#song_shi_wu_di_shi_yu_shi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18" playOrder="1800">
             <navLabel>
