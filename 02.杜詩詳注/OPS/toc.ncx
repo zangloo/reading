@@ -4777,6 +4777,12 @@
 				</navLabel>
 				<content src="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17.xhtml#cao_ge_lin_wu"/>
 			</navPoint>
+			<navPoint id="su_jiang_bian_ge" playOrder="1711">
+				<navLabel>
+					<text>宿江邊閣</text>
+				</navLabel>
+				<content src="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17.xhtml#su_jiang_bian_ge"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18" playOrder="1800">
             <navLabel>
