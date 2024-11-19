@@ -4825,6 +4825,12 @@
 				</navLabel>
 				<content src="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17.xhtml#zong_wu_sheng_ri"/>
 			</navPoint>
+			<navPoint id="di_wu_di_feng_du_zai_jiang_zuo_jin_san_si_zai" playOrder="1719">
+				<navLabel>
+					<text>第五弟豐獨在江左近三四載寂無消息覓使寄此二首</text>
+				</navLabel>
+				<content src="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17.xhtml#di_wu_di_feng_du_zai_jiang_zuo_jin_san_si_zai"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18" playOrder="1800">
             <navLabel>
