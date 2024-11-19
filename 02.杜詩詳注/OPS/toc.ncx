@@ -4819,6 +4819,12 @@
 				</navLabel>
 				<content src="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17.xhtml#yue-n2038"/>
 			</navPoint>
+			<navPoint id="zong_wu_sheng_ri" playOrder="1718">
+				<navLabel>
+					<text>宗武生日</text>
+				</navLabel>
+				<content src="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17.xhtml#zong_wu_sheng_ri"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18" playOrder="1800">
             <navLabel>
