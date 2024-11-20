@@ -4831,6 +4831,12 @@
 				</navLabel>
 				<content src="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17.xhtml#di_wu_di_feng_du_zai_jiang_zuo_jin_san_si_zai"/>
 			</navPoint>
+			<navPoint id="ting_yang_shi_ge" playOrder="1720">
+				<navLabel>
+					<text>聽楊氏歌</text>
+				</navLabel>
+				<content src="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17.xhtml#ting_yang_shi_ge"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18" playOrder="1800">
             <navLabel>
