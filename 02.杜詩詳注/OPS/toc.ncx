@@ -4849,6 +4849,12 @@
 				</navLabel>
 				<content src="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17.xhtml#jiu_ri-n2047"/>
 			</navPoint>
+			<navPoint id="qiu_xing" playOrder="1723">
+				<navLabel>
+					<text>秋興八首</text>
+				</navLabel>
+				<content src="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17.xhtml#qiu_xing"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18" playOrder="1800">
             <navLabel>
