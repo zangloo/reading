@@ -4867,6 +4867,12 @@
 				</navLabel>
 				<content src="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17.xhtml#ji_han_jian_yi_zhu"/>
 			</navPoint>
+			<navPoint id="jie_men_shi_er_shou" playOrder="1726">
+				<navLabel>
+					<text>解悶十二首</text>
+				</navLabel>
+				<content src="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17.xhtml#jie_men_shi_er_shou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18" playOrder="1800">
             <navLabel>
