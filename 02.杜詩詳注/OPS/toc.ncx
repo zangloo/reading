@@ -4879,6 +4879,12 @@
 				</navLabel>
 				<content src="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17.xhtml#dong_fang"/>
 			</navPoint>
+			<navPoint id="su_xi" playOrder="1728">
+				<navLabel>
+					<text>宿昔</text>
+				</navLabel>
+				<content src="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17.xhtml#su_xi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18" playOrder="1800">
             <navLabel>
