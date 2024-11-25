@@ -4933,6 +4933,12 @@
 				</navLabel>
 				<content src="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17.xhtml#gu_yan_bu_yin_zhuo_fei_ming_sheng"/>
 			</navPoint>
+			<navPoint id="ou" playOrder="1737">
+				<navLabel>
+					<text>鷗</text>
+				</navLabel>
+				<content src="c18_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan17.xhtml#ou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18" playOrder="1800">
             <navLabel>
