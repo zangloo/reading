@@ -4987,6 +4987,12 @@
 				</navLabel>
 				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#ou_ti"/>
 			</navPoint>
+			<navPoint id="jun_bu_jian_jian_su_xi" playOrder="1802">
+				<navLabel>
+					<text>君不見簡蘇徯</text>
+				</navLabel>
+				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#jun_bu_jian_jian_su_xi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" playOrder="1900">
             <navLabel>
