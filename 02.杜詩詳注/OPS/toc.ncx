@@ -4981,6 +4981,12 @@
                 <text>卷十八</text>
             </navLabel>
             <content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml"/>
+			<navPoint id="ou_ti" playOrder="1801">
+				<navLabel>
+					<text>偶題</text>
+				</navLabel>
+				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#ou_ti"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" playOrder="1900">
             <navLabel>
