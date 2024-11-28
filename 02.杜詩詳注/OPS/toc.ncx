@@ -5005,6 +5005,12 @@
 				</navLabel>
 				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#bie_su_xi"/>
 			</navPoint>
+			<navPoint id="li_chao_ba_fen" playOrder="1805">
+				<navLabel>
+					<text>李潮八分小篆歌</text>
+				</navLabel>
+				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#li_chao_ba_fen"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" playOrder="1900">
             <navLabel>
