@@ -4993,6 +4993,12 @@
 				</navLabel>
 				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#jun_bu_jian_jian_su_xi"/>
 			</navPoint>
+			<navPoint id="zeng_su_si_xi" playOrder="1803">
+				<navLabel>
+					<text>贈蘇四徯</text>
+				</navLabel>
+				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#zeng_su_si_xi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" playOrder="1900">
             <navLabel>
