@@ -5011,6 +5011,12 @@
 				</navLabel>
 				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#li_chao_ba_fen"/>
 			</navPoint>
+			<navPoint id="xia_kou_er_shou" playOrder="1806">
+				<navLabel>
+					<text>峽口二首</text>
+				</navLabel>
+				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#xia_kou_er_shou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" playOrder="1900">
             <navLabel>
