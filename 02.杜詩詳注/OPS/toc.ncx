@@ -5029,6 +5029,12 @@
 				</navLabel>
 				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#qu_tang_liang_ya"/>
 			</navPoint>
+			<navPoint id="qu_tang_huai_gu" playOrder="1809">
+				<navLabel>
+					<text>瞿唐懷古</text>
+				</navLabel>
+				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#qu_tang_huai_gu"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" playOrder="1900">
             <navLabel>
