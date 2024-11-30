@@ -5041,6 +5041,12 @@
 				</navLabel>
 				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#cheng_an_geng"/>
 			</navPoint>
+			<navPoint id="xi_ge_kou_hao" playOrder="1811">
+				<navLabel>
+					<text>西閣口號呈元二十一</text>
+				</navLabel>
+				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#xi_ge_kou_hao"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" playOrder="1900">
             <navLabel>
