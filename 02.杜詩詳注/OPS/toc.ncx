@@ -5047,6 +5047,12 @@
 				</navLabel>
 				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#xi_ge_kou_hao"/>
 			</navPoint>
+			<navPoint id="ge_ye" playOrder="1812">
+				<navLabel>
+					<text>閣夜</text>
+				</navLabel>
+				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#ge_ye"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" playOrder="1900">
             <navLabel>
