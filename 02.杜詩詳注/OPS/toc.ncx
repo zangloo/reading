@@ -5059,6 +5059,12 @@
 				</navLabel>
 				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#rang_xi_han_wang"/>
 			</navPoint>
+			<navPoint id="xi_ge_pu_ri" playOrder="1814">
+				<navLabel>
+					<text>西閣曝日</text>
+				</navLabel>
+				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#xi_ge_pu_ri"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" playOrder="1900">
             <navLabel>
