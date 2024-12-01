@@ -5071,6 +5071,12 @@
 				</navLabel>
 				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#bu_li_xi_ge_er_shou"/>
 			</navPoint>
+			<navPoint id="fu_ji_xing" playOrder="1816">
+				<navLabel>
+					<text>縛雞行</text>
+				</navLabel>
+				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#fu_ji_xing"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" playOrder="1900">
             <navLabel>
