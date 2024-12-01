@@ -5083,6 +5083,12 @@
 				</navLabel>
 				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#xiao_zhi"/>
 			</navPoint>
+			<navPoint id="ji_bai_xue_shi_lin_ju" playOrder="1818">
+				<navLabel>
+					<text>寄柏學士林居</text>
+				</navLabel>
+				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#ji_bai_xue_shi_lin_ju"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" playOrder="1900">
             <navLabel>
