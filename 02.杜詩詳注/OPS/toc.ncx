@@ -5107,6 +5107,12 @@
 				</navLabel>
 				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#lan_jing_cheng_bo_zhong_cheng"/>
 			</navPoint>
+			<navPoint id="pei_bai_zhong_cheng_guan_yan_jiang" playOrder="1823">
+				<navLabel>
+					<text>陪柏中丞觀宴将士二首</text>
+				</navLabel>
+				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#pei_bai_zhong_cheng_guan_yan_jiang"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" playOrder="1900">
             <navLabel>
