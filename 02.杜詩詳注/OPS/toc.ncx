@@ -5089,6 +5089,12 @@
 				</navLabel>
 				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#ji_bai_xue_shi_lin_ju"/>
 			</navPoint>
+			<navPoint id="zhe_kan_xing" playOrder="1819">
+				<navLabel>
+					<text>折檻行</text>
+				</navLabel>
+				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#zhe_kan_xing"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" playOrder="1900">
             <navLabel>
