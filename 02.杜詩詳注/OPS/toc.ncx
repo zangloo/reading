@@ -5125,6 +5125,12 @@
 				</navLabel>
 				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#jing_zhao_xian_shi_jie_lin_lang_zhao_yi_men_chao"/>
 			</navPoint>
+			<navPoint id="feng_song_shi_qi_jiu_xia" playOrder="1826">
+				<navLabel>
+					<text>奉送十七舅下邵桂</text>
+				</navLabel>
+				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#feng_song_shi_qi_jiu_xia"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" playOrder="1900">
             <navLabel>
