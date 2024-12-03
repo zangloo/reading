@@ -5113,6 +5113,12 @@
 				</navLabel>
 				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#pei_bai_zhong_cheng_guan_yan_jiang"/>
 			</navPoint>
+			<navPoint id="feng_song_shu_zhou_bai_er_bie_jia" playOrder="1824">
+				<navLabel>
+					<text>奉送蜀州柏二别駕将中丞命赴江陵起居衛尚書太夫人因示從弟行軍司馬位</text>
+				</navLabel>
+				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#feng_song_shu_zhou_bai_er_bie_jia"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" playOrder="1900">
             <navLabel>
