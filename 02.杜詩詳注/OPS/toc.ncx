@@ -5149,6 +5149,12 @@
 				</navLabel>
 				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#jian_wang_jian_bing_ma_shi"/>
 			</navPoint>
+			<navPoint id="yu_wan_liu" playOrder="1830">
+				<navLabel>
+					<text>玉腕騮</text>
+				</navLabel>
+				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#yu_wan_liu"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" playOrder="1900">
             <navLabel>
