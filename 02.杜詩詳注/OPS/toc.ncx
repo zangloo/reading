@@ -5137,6 +5137,12 @@
 				</navLabel>
 				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#jing_nan_bing_ma_shi"/>
 			</navPoint>
+			<navPoint id="wang_bing_ma_shi" playOrder="1828">
+				<navLabel>
+					<text>王兵馬使二角鷹</text>
+				</navLabel>
+				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#wang_bing_ma_shi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" playOrder="1900">
             <navLabel>
