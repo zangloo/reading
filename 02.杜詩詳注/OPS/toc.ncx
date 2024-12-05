@@ -5185,6 +5185,12 @@
 				</navLabel>
 				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#bie_cui_yi_yin_ji_bi_ju_meng_yun_qing"/>
 			</navPoint>
+			<navPoint id="ji_du_wei-n2142" playOrder="1836">
+				<navLabel>
+					<text>寄杜位</text>
+				</navLabel>
+				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#ji_du_wei-n2142"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" playOrder="1900">
             <navLabel>
