@@ -5155,6 +5155,12 @@
 				</navLabel>
 				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#yu_wan_liu"/>
 			</navPoint>
+			<navPoint id="zui_wei_ma_zhui_zhu_gong_xie_jiu_xiang_kan" playOrder="1831">
+				<navLabel>
+					<text>醉為馬墜諸公攜酒相看</text>
+				</navLabel>
+				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#zui_wei_ma_zhui_zhu_gong_xie_jiu_xiang_kan"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" playOrder="1900">
             <navLabel>
