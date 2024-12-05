@@ -5173,6 +5173,12 @@
 				</navLabel>
 				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#ceng"/>
 			</navPoint>
+			<navPoint id="song_wang_shi_liu_pan_guan" playOrder="1834">
+				<navLabel>
+					<text>送王十六判官</text>
+				</navLabel>
+				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#song_wang_shi_liu_pan_guan"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" playOrder="1900">
             <navLabel>
