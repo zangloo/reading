@@ -5215,6 +5215,12 @@
 				</navLabel>
 				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#chou"/>
 			</navPoint>
+			<navPoint id="wang_shi_wu_qian_ge_hui" playOrder="1841">
+				<navLabel>
+					<text>王十五前閣會</text>
+				</navLabel>
+				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#wang_shi_wu_qian_ge_hui"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" playOrder="1900">
             <navLabel>
