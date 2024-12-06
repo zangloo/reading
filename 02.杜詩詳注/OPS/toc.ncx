@@ -5209,6 +5209,12 @@
 				</navLabel>
 				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#ting_cao"/>
 			</navPoint>
+			<navPoint id="chou" playOrder="1840">
+				<navLabel>
+					<text>愁</text>
+				</navLabel>
+				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#chou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" playOrder="1900">
             <navLabel>
