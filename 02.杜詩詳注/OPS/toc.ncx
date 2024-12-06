@@ -5227,6 +5227,12 @@
 				</navLabel>
 				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#cui_ping_shi_di_xu_xiang_ying_bu_dao_ying"/>
 			</navPoint>
+			<navPoint id="qian_men_xi_cheng_lu_shi_jiu_cao_zhang" playOrder="1843">
+				<navLabel>
+					<text>遣悶戲呈路十九曹長</text>
+				</navLabel>
+				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#qian_men_xi_cheng_lu_shi_jiu_cao_zhang"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" playOrder="1900">
             <navLabel>
