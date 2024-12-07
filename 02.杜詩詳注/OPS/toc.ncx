@@ -5257,6 +5257,12 @@
 				</navLabel>
 				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#huai_ba_shang_you"/>
 			</navPoint>
+			<navPoint id="ru_zhai_san_shou" playOrder="1848">
+				<navLabel>
+					<text>入宅三首</text>
+				</navLabel>
+				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#ru_zhai_san_shou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" playOrder="1900">
             <navLabel>
