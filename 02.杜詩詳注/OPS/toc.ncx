@@ -5245,6 +5245,12 @@
 				</navLabel>
 				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#mu_chun"/>
 			</navPoint>
+			<navPoint id="mu_chun_san_yue_wu_xia_zhang_xiao" playOrder="1846">
+				<navLabel>
+					<text>即事</text>
+				</navLabel>
+				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#mu_chun_san_yue_wu_xia_zhang_xiao"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" playOrder="1900">
             <navLabel>
