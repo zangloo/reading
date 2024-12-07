@@ -5233,6 +5233,12 @@
 				</navLabel>
 				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#qian_men_xi_cheng_lu_shi_jiu_cao_zhang"/>
 			</navPoint>
+			<navPoint id="zhou_meng" playOrder="1844">
+				<navLabel>
+					<text>晝夢</text>
+				</navLabel>
+				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#zhou_meng"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" playOrder="1900">
             <navLabel>
