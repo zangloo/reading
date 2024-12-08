@@ -5269,6 +5269,12 @@
 				</navLabel>
 				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#chi_jia"/>
 			</navPoint>
+			<navPoint id="bo_ju-n2160" playOrder="1850">
+				<navLabel>
+					<text>卜居</text>
+				</navLabel>
+				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#bo_ju-n2160"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" playOrder="1900">
             <navLabel>
