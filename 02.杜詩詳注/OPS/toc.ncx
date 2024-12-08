@@ -5287,6 +5287,12 @@
 				</navLabel>
 				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#ji_cong"/>
 			</navPoint>
+			<navPoint id="jiang_yu_you_huai_zheng_dian_she" playOrder="1853">
+				<navLabel>
+					<text>江雨有懷鄭典設</text>
+				</navLabel>
+				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#jiang_yu_you_huai_zheng_dian_she"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" playOrder="1900">
             <navLabel>
