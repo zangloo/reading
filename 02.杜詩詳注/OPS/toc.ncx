@@ -5311,6 +5311,12 @@
 				</navLabel>
 				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#er_guo"/>
 			</navPoint>
+			<navPoint id="xi_guan_ji_dao_fu" playOrder="1857">
+				<navLabel>
+					<text>喜觀即到復題短篇二首</text>
+				</navLabel>
+				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#xi_guan_ji_dao_fu"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" playOrder="1900">
             <navLabel>
