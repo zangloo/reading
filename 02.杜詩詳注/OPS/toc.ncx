@@ -5299,6 +5299,12 @@
 				</navLabel>
 				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#shu_shi_ri_shi_zong_wen_zong_wu"/>
 			</navPoint>
+			<navPoint id="you_shi_liang_er" playOrder="1855">
+				<navLabel>
+					<text>又示兩兒</text>
+				</navLabel>
+				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#you_shi_liang_er"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" playOrder="1900">
             <navLabel>
