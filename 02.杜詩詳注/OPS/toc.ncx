@@ -5317,6 +5317,12 @@
 				</navLabel>
 				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#xi_guan_ji_dao_fu"/>
 			</navPoint>
+			<navPoint id="wan_deng_rang_shang_tang" playOrder="1858">
+				<navLabel>
+					<text>晚登瀼上堂</text>
+				</navLabel>
+				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#wan_deng_rang_shang_tang"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" playOrder="1900">
             <navLabel>
