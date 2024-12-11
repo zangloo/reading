@@ -5335,6 +5335,12 @@
 				</navLabel>
 				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#song_hui_er_gui_gu_ju"/>
 			</navPoint>
+			<navPoint id="cheng_wen_he_bei_zhu_dao_jie_du_ru_chao" playOrder="1861">
+				<navLabel>
+					<text>承聞河北諸道節度入朝歡喜口號絕句十二首</text>
+				</navLabel>
+				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#cheng_wen_he_bei_zhu_dao_jie_du_ru_chao"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" playOrder="1900">
             <navLabel>
