@@ -5323,6 +5323,12 @@
 				</navLabel>
 				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#wan_deng_rang_shang_tang"/>
 			</navPoint>
+			<navPoint id="ji_xue_san_lang_zhong_qu" playOrder="1859">
+				<navLabel>
+					<text>寄薛三郎中璩</text>
+				</navLabel>
+				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#ji_xue_san_lang_zhong_qu"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" playOrder="1900">
             <navLabel>
