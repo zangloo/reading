@@ -5329,6 +5329,12 @@
 				</navLabel>
 				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#ji_xue_san_lang_zhong_qu"/>
 			</navPoint>
+			<navPoint id="song_hui_er_gui_gu_ju" playOrder="1860">
+				<navLabel>
+					<text>送恵二歸故居</text>
+				</navLabel>
+				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#song_hui_er_gui_gu_ju"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19" playOrder="1900">
             <navLabel>
