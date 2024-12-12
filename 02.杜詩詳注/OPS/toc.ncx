@@ -5365,6 +5365,12 @@
 				</navLabel>
 				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#guo_ke_xiang_xun"/>
 			</navPoint>
+			<navPoint id="shu_zi_zhi" playOrder="1902">
+				<navLabel>
+					<text>豎子至</text>
+				</navLabel>
+				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#shu_zi_zhi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20" playOrder="2000">
             <navLabel>
