@@ -5383,6 +5383,12 @@
 				</navLabel>
 				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#gui"/>
 			</navPoint>
+			<navPoint id="yuan_guan_song_cai" playOrder="1905">
+				<navLabel>
+					<text>園官送菜</text>
+				</navLabel>
+				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#yuan_guan_song_cai"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20" playOrder="2000">
             <navLabel>
