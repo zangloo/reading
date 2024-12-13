@@ -5389,6 +5389,12 @@
 				</navLabel>
 				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#yuan_guan_song_cai"/>
 			</navPoint>
+			<navPoint id="yuan_ren_song_gua" playOrder="1906">
+				<navLabel>
+					<text>園人送瓜</text>
+				</navLabel>
+				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#yuan_ren_song_gua"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20" playOrder="2000">
             <navLabel>
