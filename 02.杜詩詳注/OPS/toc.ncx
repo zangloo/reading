@@ -5425,6 +5425,12 @@
 				</navLabel>
 				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#ji_xia_song_xiang_di_shao_pei_huang_men_cong"/>
 			</navPoint>
+			<navPoint id="yan_yu" playOrder="1912">
+				<navLabel>
+					<text>灩澦</text>
+				</navLabel>
+				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#yan_yu"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20" playOrder="2000">
             <navLabel>
