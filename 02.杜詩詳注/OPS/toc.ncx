@@ -5413,6 +5413,12 @@
 				</navLabel>
 				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#huai_ye_leng_tao"/>
 			</navPoint>
+			<navPoint id="shang-n2197" playOrder="1910">
+				<navLabel>
+					<text>上後園山脚</text>
+				</navLabel>
+				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#shang-n2197"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20" playOrder="2000">
             <navLabel>
