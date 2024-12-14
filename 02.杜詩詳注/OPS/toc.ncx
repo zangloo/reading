@@ -5437,6 +5437,12 @@
 				</navLabel>
 				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#gao_dong_ceng"/>
 			</navPoint>
+			<navPoint id="dong_tun-n2205" playOrder="1914">
+				<navLabel>
+					<text>行官張望補稻畦水歸</text>
+				</navLabel>
+				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#dong_tun-n2205"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20" playOrder="2000">
             <navLabel>
