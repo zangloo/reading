@@ -5443,6 +5443,12 @@
 				</navLabel>
 				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#dong_tun-n2205"/>
 			</navPoint>
+			<navPoint id="qiu_xing_guan" playOrder="1915">
+				<navLabel>
+					<text>秋行官張望督促東渚耗稻向畢清晨遣女奴阿稽豎子阿段往問</text>
+				</navLabel>
+				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#qiu_xing_guan"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20" playOrder="2000">
             <navLabel>
