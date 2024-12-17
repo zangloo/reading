@@ -5467,6 +5467,12 @@
 				</navLabel>
 				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#chao-n2213"/>
 			</navPoint>
+			<navPoint id="jiang_shang_qiu_si_fen_lin" playOrder="1919">
+				<navLabel>
+					<text>驅豎子摘蒼耳</text>
+				</navLabel>
+				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#jiang_shang_qiu_si_fen_lin"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20" playOrder="2000">
             <navLabel>
