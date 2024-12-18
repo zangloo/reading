@@ -5485,6 +5485,12 @@
 				</navLabel>
 				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#xia_ri_xiao_yuan_san_bing_jiang_zhong_qiu_cai_du_lei"/>
 			</navPoint>
+			<navPoint id="shan_yu_bu_zuo_ni" playOrder="1922">
+				<navLabel>
+					<text>雨</text>
+				</navLabel>
+				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#shan_yu_bu_zuo_ni"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20" playOrder="2000">
             <navLabel>
