@@ -5479,6 +5479,12 @@
 				</navLabel>
 				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#gan_ling"/>
 			</navPoint>
+			<navPoint id="xia_ri_xiao_yuan_san_bing_jiang_zhong_qiu_cai_du_lei" playOrder="1921">
+				<navLabel>
+					<text>暇日小園散病將種秋菜督勒耕牛兼書觸目</text>
+				</navLabel>
+				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#xia_ri_xiao_yuan_san_bing_jiang_zhong_qiu_cai_du_lei"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20" playOrder="2000">
             <navLabel>
