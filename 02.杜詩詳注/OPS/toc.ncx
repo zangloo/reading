@@ -5509,6 +5509,12 @@
 				</navLabel>
 				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#bai_lu"/>
 			</navPoint>
+			<navPoint id="zhu_ge_miao" playOrder="1926">
+				<navLabel>
+					<text>諸葛廟</text>
+				</navLabel>
+				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#zhu_ge_miao"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20" playOrder="2000">
             <navLabel>
