@@ -5539,6 +5539,12 @@
 				</navLabel>
 				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#chu_sai_nan_wei_lu"/>
 			</navPoint>
+			<navPoint id="bie_li_mi_shu_shi_xing_si_suo_ju" playOrder="1931">
+				<navLabel>
+					<text>别李秘書始興寺所居</text>
+				</navLabel>
+				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#bie_li_mi_shu_shi_xing_si_suo_ju"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20" playOrder="2000">
             <navLabel>
