@@ -5515,6 +5515,12 @@
 				</navLabel>
 				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#zhu_ge_miao"/>
 			</navPoint>
+			<navPoint id="jian_ying_huo" playOrder="1927">
+				<navLabel>
+					<text>見螢火</text>
+				</navLabel>
+				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#jian_ying_huo"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20" playOrder="2000">
             <navLabel>
