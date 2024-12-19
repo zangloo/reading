@@ -5545,6 +5545,12 @@
 				</navLabel>
 				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#bie_li_mi_shu_shi_xing_si_suo_ju"/>
 			</navPoint>
+			<navPoint id="song_li_ba_mi" playOrder="1932">
+				<navLabel>
+					<text>送李八秘書赴杜相公幕</text>
+				</navLabel>
+				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#song_li_ba_mi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20" playOrder="2000">
             <navLabel>
