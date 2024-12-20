@@ -5563,6 +5563,12 @@
 				</navLabel>
 				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#meng_shi"/>
 			</navPoint>
+			<navPoint id="wu_zong" playOrder="1935">
+				<navLabel>
+					<text>吾宗</text>
+				</navLabel>
+				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#wu_zong"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20" playOrder="2000">
             <navLabel>
