@@ -5569,6 +5569,12 @@
 				</navLabel>
 				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#wu_zong"/>
 			</navPoint>
+			<navPoint id="hu_hu_xia_zhong_shui_bei_feng" playOrder="1936">
+				<navLabel>
+					<text>奉酬薛十二丈判官見贈</text>
+				</navLabel>
+				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#hu_hu_xia_zhong_shui_bei_feng"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20" playOrder="2000">
             <navLabel>
