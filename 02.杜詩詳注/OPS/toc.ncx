@@ -5581,6 +5581,12 @@
 				</navLabel>
 				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#ji_di_ming_fu_bo_ji"/>
 			</navPoint>
+			<navPoint id="tong_yuan_shi" playOrder="1938">
+				<navLabel>
+					<text>同元使君舂陵行</text>
+				</navLabel>
+				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#tong_yuan_shi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20" playOrder="2000">
             <navLabel>
