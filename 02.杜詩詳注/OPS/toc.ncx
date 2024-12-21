@@ -5575,6 +5575,12 @@
 				</navLabel>
 				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#hu_hu_xia_zhong_shui_bei_feng"/>
 			</navPoint>
+			<navPoint id="ji_di_ming_fu_bo_ji" playOrder="1937">
+				<navLabel>
+					<text>寄狄明府博濟</text>
+				</navLabel>
+				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#ji_di_ming_fu_bo_ji"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20" playOrder="2000">
             <navLabel>
