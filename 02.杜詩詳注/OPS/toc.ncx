@@ -5599,6 +5599,12 @@
 				</navLabel>
 				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#zei_tui_shi_guan_li"/>
 			</navPoint>
+			<navPoint id="qiu_ri_kui_fu_yong_huai" playOrder="1941">
+				<navLabel>
+					<text>秋日夔府詠懷奉寄鄭監李賓客一百韻</text>
+				</navLabel>
+				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#qiu_ri_kui_fu_yong_huai"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20" playOrder="2000">
             <navLabel>
