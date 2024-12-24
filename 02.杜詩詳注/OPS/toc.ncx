@@ -5605,6 +5605,12 @@
 				</navLabel>
 				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#qiu_ri_kui_fu_yong_huai"/>
 			</navPoint>
+			<navPoint id="ji_liu_xia_zhou_bo_hua_shi" playOrder="1942">
+				<navLabel>
+					<text>寄劉峽州伯華使君四十韻</text>
+				</navLabel>
+				<content src="c20_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan19.xhtml#ji_liu_xia_zhou_bo_hua_shi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20" playOrder="2000">
             <navLabel>
