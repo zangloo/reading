@@ -44,10 +44,6 @@ div.tleft {
 	margin: 0.5em 1.4em 0.8em 0;
 }
 
-.small {
-	font-size: 94%;
-}
-
 /* Styles simplified from resources/src/mediawiki.skinning/content.media-common.less */
 .mw-valign-middle {
 	vertical-align: middle;
@@ -107,13 +103,15 @@ div.tleft {
 }
 
 /* custom styles */
-small {
-    color :red;
-    font-family: Kaiti;
-    font-size: 20px;
+p {
+    font-family: fangsong;
+    font-size: x-large;
 }
 
 small {
+    color :red;
+    font-family: Kaiti;
+    font-size: medium;
     display: unset;
 }
 
