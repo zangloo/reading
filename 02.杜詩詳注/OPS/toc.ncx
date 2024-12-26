@@ -5647,6 +5647,12 @@
 				</navLabel>
 				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#qiu_ri_ji_ti_zheng_jian_hu_shang_ting_san_shou"/>
 			</navPoint>
+			<navPoint id="qiu_ye_wu_shou" playOrder="2002">
+				<navLabel>
+					<text>秋野五首</text>
+				</navLabel>
+				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#qiu_ye_wu_shou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21" playOrder="2100">
             <navLabel>
