@@ -5659,6 +5659,12 @@
 				</navLabel>
 				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#bing_zhen_yi_mao_dong_huang_chu_jing_guo_lin_bei"/>
 			</navPoint>
+			<navPoint id="fan_zhao-n2259" playOrder="2004">
+				<navLabel>
+					<text>返照</text>
+				</navLabel>
+				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#fan_zhao-n2259"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21" playOrder="2100">
             <navLabel>
