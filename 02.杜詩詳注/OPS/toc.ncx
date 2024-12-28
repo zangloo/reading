@@ -5683,6 +5683,12 @@
 				</navLabel>
 				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#fu_chou_shi_er_shou"/>
 			</navPoint>
+			<navPoint id="dong_tun_fu" playOrder="2008">
+				<navLabel>
+					<text>自瀼西荆扉且移居東屯茅屋四首</text>
+				</navLabel>
+				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#dong_tun_fu"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21" playOrder="2100">
             <navLabel>
