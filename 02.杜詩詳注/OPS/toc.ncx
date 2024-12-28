@@ -5713,6 +5713,12 @@
 				</navLabel>
 				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#shi_qi_ye_dui_yue"/>
 			</navPoint>
+			<navPoint id="xiao_wang" playOrder="2013">
+				<navLabel>
+					<text>曉望</text>
+				</navLabel>
+				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#xiao_wang"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21" playOrder="2100">
             <navLabel>
