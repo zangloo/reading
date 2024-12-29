@@ -5761,6 +5761,12 @@
 				</navLabel>
 				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#song_meng_shi_er_cang_cao_fu_dong_jing_xuan"/>
 			</navPoint>
+			<navPoint id="ping_ju_sang" playOrder="2021">
+				<navLabel>
+					<text>憑孟倉曹將書覓土婁舊莊</text>
+				</navLabel>
+				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#ping_ju_sang"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21" playOrder="2100">
             <navLabel>
