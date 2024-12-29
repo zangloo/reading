@@ -5755,6 +5755,12 @@
 				</navLabel>
 				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#chu_an_tong_qiu_ji_hu_chuang_mian_xi_qi_ji"/>
 			</navPoint>
+			<navPoint id="song_meng_shi_er_cang_cao_fu_dong_jing_xuan" playOrder="2020">
+				<navLabel>
+					<text>送孟十二倉曹赴東京選</text>
+				</navLabel>
+				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#song_meng_shi_er_cang_cao_fu_dong_jing_xuan"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21" playOrder="2100">
             <navLabel>
