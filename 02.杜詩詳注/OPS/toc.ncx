@@ -5767,6 +5767,12 @@
 				</navLabel>
 				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#ping_ju_sang"/>
 			</navPoint>
+			<navPoint id="jian_wu_lang_si_fa" playOrder="2022">
+				<navLabel>
+					<text>簡吳郎司法</text>
+				</navLabel>
+				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#jian_wu_lang_si_fa"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21" playOrder="2100">
             <navLabel>
