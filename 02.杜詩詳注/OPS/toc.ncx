@@ -5785,6 +5785,12 @@
 				</navLabel>
 				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#wan_qing_wu_lang_jian_guo"/>
 			</navPoint>
+			<navPoint id="jiu_ri_wu_shou" playOrder="2025">
+				<navLabel>
+					<text>九日五首</text>
+				</navLabel>
+				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#jiu_ri_wu_shou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21" playOrder="2100">
             <navLabel>
