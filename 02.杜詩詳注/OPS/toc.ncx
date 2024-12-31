@@ -5803,6 +5803,12 @@
 				</navLabel>
 				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#tan_shan_ren_yin_ju"/>
 			</navPoint>
+			<navPoint id="dong_tun_yue_ye" playOrder="2028">
+				<navLabel>
+					<text>東屯月夜</text>
+				</navLabel>
+				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#dong_tun_yue_ye"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21" playOrder="2100">
             <navLabel>
@@ -5814,7 +5820,7 @@
             <navLabel>
                 <text>卷二十二</text>
             </navLabel>
-            <content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml"/>
+             <content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml"/>
         </navPoint>
         <navPoint id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23" playOrder="2300">
             <navLabel>
