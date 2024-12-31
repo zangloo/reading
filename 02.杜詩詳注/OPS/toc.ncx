@@ -5797,6 +5797,12 @@
 				</navLabel>
 				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#deng_gao"/>
 			</navPoint>
+			<navPoint id="tan_shan_ren_yin_ju" playOrder="2027">
+				<navLabel>
+					<text>覃山人隠居</text>
+				</navLabel>
+				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#tan_shan_ren_yin_ju"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21" playOrder="2100">
             <navLabel>
