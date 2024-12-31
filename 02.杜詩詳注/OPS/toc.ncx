@@ -5791,6 +5791,12 @@
 				</navLabel>
 				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#jiu_ri_wu_shou"/>
 			</navPoint>
+			<navPoint id="deng_gao" playOrder="2026">
+				<navLabel>
+					<text>登高</text>
+				</navLabel>
+				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#deng_gao"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21" playOrder="2100">
             <navLabel>
