@@ -5779,6 +5779,12 @@
 				</navLabel>
 				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#you_cheng_wu_lang"/>
 			</navPoint>
+			<navPoint id="wan_qing_wu_lang_jian_guo" playOrder="2024">
+				<navLabel>
+					<text>晚晴吳郎見過北舍</text>
+				</navLabel>
+				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#wan_qing_wu_lang_jian_guo"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21" playOrder="2100">
             <navLabel>
