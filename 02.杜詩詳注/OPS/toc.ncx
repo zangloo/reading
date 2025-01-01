@@ -5833,6 +5833,12 @@
 				</navLabel>
 				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#mao_tang_jian_xiao_shou_dao_er_shou"/>
 			</navPoint>
+			<navPoint id="yi_dao_le_yong_huai" playOrder="2033">
+				<navLabel>
+					<text>刈稻了詠懷</text>
+				</navLabel>
+				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#yi_dao_le_yong_huai"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21" playOrder="2100">
             <navLabel>
