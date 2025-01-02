@@ -5845,6 +5845,12 @@
 				</navLabel>
 				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#dui_yue_na_wu_jiu_deng_lou_kuang_you_jiang_ting"/>
 			</navPoint>
+			<navPoint id="xi_ji__cui_ping_shi" playOrder="2035">
+				<navLabel>
+					<text>戲寄崔評事表姪蘇五表弟韋大少府諸姪</text>
+				</navLabel>
+				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#xi_ji__cui_ping_shi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21" playOrder="2100">
             <navLabel>
