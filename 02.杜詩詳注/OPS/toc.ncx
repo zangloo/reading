@@ -5857,6 +5857,12 @@
 				</navLabel>
 				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#ji_qiu_jiang_cun"/>
 			</navPoint>
+			<navPoint id="xiao_yuan" playOrder="2037">
+				<navLabel>
+					<text>小園</text>
+				</navLabel>
+				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#xiao_yuan"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21" playOrder="2100">
             <navLabel>
