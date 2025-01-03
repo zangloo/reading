@@ -5899,6 +5899,12 @@
 				</navLabel>
 				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#yun-n2329"/>
 			</navPoint>
+			<navPoint id="da_li_er_nian_jiu_yue_san_shi_ri" playOrder="2044">
+				<navLabel>
+					<text>大曆二年九月三十日</text>
+				</navLabel>
+				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#da_li_er_nian_jiu_yue_san_shi_ri"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21" playOrder="2100">
             <navLabel>
