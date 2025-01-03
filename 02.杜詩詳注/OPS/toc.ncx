@@ -5905,6 +5905,12 @@
 				</navLabel>
 				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#da_li_er_nian_jiu_yue_san_shi_ri"/>
 			</navPoint>
+			<navPoint id="shi_yue_yi_ri" playOrder="2045">
+				<navLabel>
+					<text>十月一日</text>
+				</navLabel>
+				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#shi_yue_yi_ri"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21" playOrder="2100">
             <navLabel>
