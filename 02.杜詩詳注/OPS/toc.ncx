@@ -5941,6 +5941,12 @@
 				</navLabel>
 				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#chao_er_shou"/>
 			</navPoint>
+			<navPoint id="xi_zuo_pai" playOrder="2051">
+				<navLabel>
+					<text>戲作俳諧體遣悶二首</text>
+				</navLabel>
+				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#xi_zuo_pai"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21" playOrder="2100">
             <navLabel>
