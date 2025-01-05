@@ -5965,6 +5965,12 @@
 				</navLabel>
 				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#da_jue_gao_seng_lan_ruo"/>
 			</navPoint>
+			<navPoint id="ye_zhen_di_si_chan_shi" playOrder="2055">
+				<navLabel>
+					<text>謁真諦寺禪師</text>
+				</navLabel>
+				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#ye_zhen_di_si_chan_shi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21" playOrder="2100">
             <navLabel>
