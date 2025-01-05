@@ -5983,6 +5983,12 @@
 				</navLabel>
 				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#fong_song_qing_er_wong"/>
 			</navPoint>
+			<navPoint id="jiu_yu_qi_wang_jiang_jun_bu_zhi" playOrder="2058">
+				<navLabel>
+					<text>久雨期王將軍不至</text>
+				</navLabel>
+				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#jiu_yu_qi_wang_jiang_jun_bu_zhi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21" playOrder="2100">
             <navLabel>
