@@ -5989,6 +5989,12 @@
 				</navLabel>
 				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#jiu_yu_qi_wang_jiang_jun_bu_zhi"/>
 			</navPoint>
+			<navPoint id="hu_ya_xing" playOrder="2059">
+				<navLabel>
+					<text>虎牙行</text>
+				</navLabel>
+				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#hu_ya_xing"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21" playOrder="2100">
             <navLabel>
