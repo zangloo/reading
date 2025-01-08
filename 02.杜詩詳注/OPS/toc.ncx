@@ -6013,6 +6013,12 @@
 				</navLabel>
 				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#ji_pei_shi_zhou"/>
 			</navPoint>
+			<navPoint id="zheng_dian_she_zi_shi_zhou_gui" playOrder="2063">
+				<navLabel>
+					<text>鄭典設自施州歸</text>
+				</navLabel>
+				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#zheng_dian_she_zi_shi_zhou_gui"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21" playOrder="2100">
             <navLabel>
