@@ -6037,6 +6037,12 @@
                 <text>卷二十一</text>
             </navLabel>
             <content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml"/>
+			<navPoint id="dong_zhi" playOrder="2101">
+				<navLabel>
+					<text>冬至</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#dong_zhi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
