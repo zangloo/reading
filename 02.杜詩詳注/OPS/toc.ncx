@@ -6019,6 +6019,18 @@
 				</navLabel>
 				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#zheng_dian_she_zi_shi_zhou_gui"/>
 			</navPoint>
+			<navPoint id="guan_gong_sun_da_niang_di_zi_wu_jian_qi_xing" playOrder="2064">
+				<navLabel>
+					<text>觀公孫大娘弟子舞劍器行</text>
+				</navLabel>
+				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#guan_gong_sun_da_niang_di_zi_wu_jian_qi_xing"/>
+			</navPoint>
+			<navPoint id="xie_huai_er_shou" playOrder="2065">
+				<navLabel>
+					<text>寫懷二首</text>
+				</navLabel>
+				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#xie_huai_er_shou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21" playOrder="2100">
             <navLabel>
