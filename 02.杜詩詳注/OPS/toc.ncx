@@ -6055,6 +6055,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#bie_li_yi"/>
 			</navPoint>
+			<navPoint id="song_gao_si_zhi_xun_feng_lang_zhou" playOrder="2104">
+				<navLabel>
+					<text>送高司直尋封閬州</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#song_gao_si_zhi_xun_feng_lang_zhou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
