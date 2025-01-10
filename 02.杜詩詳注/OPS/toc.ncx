@@ -6049,6 +6049,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#liu_si_ma_zhi"/>
 			</navPoint>
+			<navPoint id="bie_li_yi" playOrder="2103">
+				<navLabel>
+					<text>别李義</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#bie_li_yi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
