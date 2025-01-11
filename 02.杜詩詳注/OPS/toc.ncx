@@ -6073,6 +6073,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#fong_he_yang_cheng_jun"/>
 			</navPoint>
+			<navPoint id="li_yan_ba_duo_jiu_qi_duo" playOrder="2107">
+				<navLabel>
+					<text>送田四弟將軍將夔州柏中丞命起居江陵節度使陽城郡王衛公幕</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#li_yan_ba_duo_jiu_qi_duo"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
