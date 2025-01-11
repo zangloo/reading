@@ -6067,6 +6067,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#ke_tan"/>
 			</navPoint>
+			<navPoint id="fong_he_yang_cheng_jun" playOrder="2106">
+				<navLabel>
+					<text>奉賀陽城郡王太夫人恩命加鄧國太夫人</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#fong_he_yang_cheng_jun"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
