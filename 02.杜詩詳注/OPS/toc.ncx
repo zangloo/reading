@@ -6079,6 +6079,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#li_yan_ba_duo_jiu_qi_duo"/>
 			</navPoint>
+			<navPoint id="ti_bai_xue_shi_mao_wu" playOrder="2108">
+				<navLabel>
+					<text>題柏學士茅屋</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#ti_bai_xue_shi_mao_wu"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
