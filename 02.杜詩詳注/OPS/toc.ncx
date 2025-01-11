@@ -6085,6 +6085,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#ti_bai_xue_shi_mao_wu"/>
 			</navPoint>
+			<navPoint id="ti_bai_da_xiong_di_shan_ju_wu_bi_er_shou" playOrder="2109">
+				<navLabel>
+					<text>題柏大兄弟山居屋壁二首</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#ti_bai_da_xiong_di_shan_ju_wu_bi_er_shou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
