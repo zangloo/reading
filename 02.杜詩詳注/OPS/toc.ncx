@@ -6109,6 +6109,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#you_tan"/>
 			</navPoint>
+			<navPoint id="ma_du" playOrder="2113">
+				<navLabel>
+					<text>舍弟觀赴藍田取妻子到江陵喜寄三首</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#ma_du"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
