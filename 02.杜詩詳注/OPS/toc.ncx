@@ -6091,6 +6091,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#ti_bai_da_xiong_di_shan_ju_wu_bi_er_shou"/>
 			</navPoint>
+			<navPoint id="bai_di_lou" playOrder="2110">
+				<navLabel>
+					<text>白帝樓</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#bai_di_lou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
