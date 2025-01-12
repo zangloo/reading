@@ -6127,6 +6127,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#qian_ku_han_xing_er_shou"/>
 			</navPoint>
+			<navPoint id="wan_qing-n2389" playOrder="2116">
+				<navLabel>
+					<text>晚晴</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#wan_qing-n2389"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
