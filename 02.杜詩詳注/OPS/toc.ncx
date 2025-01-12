@@ -6133,6 +6133,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#wan_qing-n2389"/>
 			</navPoint>
+			<navPoint id="fang_dong_he_da___yin_sai" playOrder="2117">
+				<navLabel>
+					<text>復陰</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#fang_dong_he_da___yin_sai"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
