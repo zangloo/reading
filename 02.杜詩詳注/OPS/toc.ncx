@@ -6151,6 +6151,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#yuan_ri_shi_zong_wu"/>
 			</navPoint>
+			<navPoint id="you_shi_zong_wu" playOrder="2120">
+				<navLabel>
+					<text>又示宗武</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#you_shi_zong_wu"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
