@@ -6163,6 +6163,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#yuan_huai_she_di_ying_guan_deng"/>
 			</navPoint>
+			<navPoint id="zi_ru_dao_jing_fu_shu_lai_shu" playOrder="2122">
+				<navLabel>
+					<text>續得觀書迎就當陽居止正月中旬定出三峽</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#zi_ru_dao_jing_fu_shu_lai_shu"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
