@@ -6181,6 +6181,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#ren_ri_er_shou"/>
 			</navPoint>
+			<navPoint id="zan_pu_duo_jiao" playOrder="2125">
+				<navLabel>
+					<text>喜聞盜賊總退口號五首</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#zan_pu_duo_jiao"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
