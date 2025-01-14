@@ -6157,6 +6157,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#you_shi_zong_wu"/>
 			</navPoint>
+			<navPoint id="yuan_huai_she_di_ying_guan_deng" playOrder="2121">
+				<navLabel>
+					<text>遠懷舍弟頴觀等</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#yuan_huai_she_di_ying_guan_deng"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
