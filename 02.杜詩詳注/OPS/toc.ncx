@@ -6175,6 +6175,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#tai_sui_ri"/>
 			</navPoint>
+			<navPoint id="ren_ri_er_shou" playOrder="2124">
+				<navLabel>
+					<text>人日二首</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#ren_ri_er_shou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
