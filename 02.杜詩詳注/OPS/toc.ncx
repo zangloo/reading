@@ -6193,6 +6193,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#song_da_li_feng_zhu_bu"/>
 			</navPoint>
+			<navPoint id="jiang_bie_wu_xia_zeng_nan_qing" playOrder="2127">
+				<navLabel>
+					<text>將别巫峽贈南卿兄瀼西果園四十畝</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#jiang_bie_wu_xia_zeng_nan_qing"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
