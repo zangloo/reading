@@ -6205,6 +6205,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#wu_shan_xian_fen_zhou_tang_shi"/>
 			</navPoint>
+			<navPoint id="jing_ji_zu_di_tang_shi_ba_shi" playOrder="2129">
+				<navLabel>
+					<text>敬寄族弟唐十八使君</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#jing_ji_zu_di_tang_shi_ba_shi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
