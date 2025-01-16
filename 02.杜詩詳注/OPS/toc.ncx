@@ -6217,6 +6217,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#chun_ye_xia_zhou_tian_shi_yu_zhang"/>
 			</navPoint>
+			<navPoint id="da_li_san_nian_chun" playOrder="2131">
+				<navLabel>
+					<text>大曆三年春白帝城放船出瞿唐峽久居夔府將適江陵漂泊有詩凡四十韻</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#da_li_san_nian_chun"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
