@@ -6235,6 +6235,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#po_song_zi_jiang_ting"/>
 			</navPoint>
+			<navPoint id="cheng_yu_ru_xing_jun_liu_di_zhai" playOrder="2134">
+				<navLabel>
+					<text>乘雨入行軍六弟宅</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#cheng_yu_ru_xing_jun_liu_di_zhai"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
