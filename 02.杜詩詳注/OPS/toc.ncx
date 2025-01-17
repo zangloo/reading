@@ -6247,6 +6247,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#shang_yi_ri_xu_si_lu_lin_yuan_yan_ji"/>
 			</navPoint>
+			<navPoint id="yan_hu_shi_yu_shu_tang" playOrder="2136">
+				<navLabel>
+					<text>宴胡侍御書堂</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#yan_hu_shi_yu_shu_tang"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
