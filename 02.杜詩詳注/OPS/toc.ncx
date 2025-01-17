@@ -6253,6 +6253,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#yan_hu_shi_yu_shu_tang"/>
 			</navPoint>
+			<navPoint id="shu_tang_yin_ji_ye_fu" playOrder="2137">
+				<navLabel>
+					<text>書堂飲既夜復邀李尚書下馬月下賦絕句</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#shu_tang_yin_ji_ye_fu"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
