@@ -6223,6 +6223,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#da_li_san_nian_chun"/>
 			</navPoint>
+			<navPoint id="lao_nian_chang_dao_lu_chi_ri_fu" playOrder="2132">
+				<navLabel>
+					<text>行次古城店汎江作不揆鄙拙奉呈江陵幕府諸公</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#lao_nian_chang_dao_lu_chi_ri_fu"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
