@@ -6241,6 +6241,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#cheng_yu_ru_xing_jun_liu_di_zhai"/>
 			</navPoint>
+			<navPoint id="shang_yi_ri_xu_si_lu_lin_yuan_yan_ji" playOrder="2135">
+				<navLabel>
+					<text>上巳日徐司錄林園宴集</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#shang_yi_ri_xu_si_lu_lin_yuan_yan_ji"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
