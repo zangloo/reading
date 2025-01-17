@@ -6259,6 +6259,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#shu_tang_yin_ji_ye_fu"/>
 			</navPoint>
+			<navPoint id="feng_song_su_zhou_li_er_shi_wu_zhang" playOrder="2138">
+				<navLabel>
+					<text>奉送蘇州李二十五長史丈之任</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#feng_song_su_zhou_li_er_shi_wu_zhang"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
