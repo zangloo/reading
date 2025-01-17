@@ -6229,6 +6229,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#lao_nian_chang_dao_lu_chi_ri_fu"/>
 			</navPoint>
+			<navPoint id="po_song_zi_jiang_ting" playOrder="2133">
+				<navLabel>
+					<text>泊松滋江亭</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#po_song_zi_jiang_ting"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
