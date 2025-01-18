@@ -6295,6 +6295,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#gui_yan-n2428"/>
 			</navPoint>
+			<navPoint id="duan_ge_xing_zeng_wang_lang_si_zhi" playOrder="2144">
+				<navLabel>
+					<text>短歌行贈王郎司直</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#duan_ge_xing_zeng_wang_lang_si_zhi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
