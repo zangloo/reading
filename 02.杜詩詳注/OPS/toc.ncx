@@ -6307,6 +6307,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#yi_xi_xing"/>
 			</navPoint>
+			<navPoint id="su_zong_xi_zai_ling_wu_cheng_zhi_hui_meng_jiang" playOrder="2146">
+				<navLabel>
+					<text>惜别行送向卿進奉端午御衣之上都</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#su_zong_xi_zai_ling_wu_cheng_zhi_hui_meng_jiang"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
