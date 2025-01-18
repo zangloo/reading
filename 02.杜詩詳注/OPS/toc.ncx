@@ -6283,6 +6283,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#mu_chun_pei_li_shang_shu"/>
 			</navPoint>
+			<navPoint id="yu_wen_chao_cui_yu" playOrder="2142">
+				<navLabel>
+					<text>宇文晁崔彧重泛鄭監前湖</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#yu_wen_chao_cui_yu"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
