@@ -6289,6 +6289,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#yu_wen_chao_cui_yu"/>
 			</navPoint>
+			<navPoint id="gui_yan-n2428" playOrder="2143">
+				<navLabel>
+					<text>歸雁</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#gui_yan-n2428"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
