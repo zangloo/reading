@@ -6301,6 +6301,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#duan_ge_xing_zeng_wang_lang_si_zhi"/>
 			</navPoint>
+			<navPoint id="yi_xi_xing" playOrder="2145">
+				<navLabel>
+					<text>憶昔行</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#yi_xi_xing"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
