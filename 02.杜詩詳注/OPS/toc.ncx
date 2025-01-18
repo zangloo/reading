@@ -6265,6 +6265,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#feng_song_su_zhou_li_er_shi_wu_zhang"/>
 			</navPoint>
+			<navPoint id="mu_chun_jiang_ling" playOrder="2139">
+				<navLabel>
+					<text>暮春江陵送馬大卿公恩命追赴闕下</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#mu_chun_jiang_ling"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
