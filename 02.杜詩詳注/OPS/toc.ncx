@@ -6319,6 +6319,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#xia_ri_yang_chang_ning_zhai"/>
 			</navPoint>
+			<navPoint id="ai_ke_shang" playOrder="2148">
+				<navLabel>
+					<text>夏夜李尚書筵送宇文石首赴縣聯句</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#ai_ke_shang"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
