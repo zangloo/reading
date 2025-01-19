@@ -6313,6 +6313,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#su_zong_xi_zai_ling_wu_cheng_zhi_hui_meng_jiang"/>
 			</navPoint>
+			<navPoint id="xia_ri_yang_chang_ning_zhai" playOrder="2147">
+				<navLabel>
+					<text>夏日楊長寧宅送崔侍御常正字入京</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#xia_ri_yang_chang_ning_zhai"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
