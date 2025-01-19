@@ -6325,6 +6325,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#ai_ke_shang"/>
 			</navPoint>
+			<navPoint id="duo_bing_zhi_re_feng_huai_li_shang_shu" playOrder="2149">
+				<navLabel>
+					<text>多病執熱奉懷李尚書</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#duo_bing_zhi_re_feng_huai_li_shang_shu"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
