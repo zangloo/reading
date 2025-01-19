@@ -6331,6 +6331,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#duo_bing_zhi_re_feng_huai_li_shang_shu"/>
 			</navPoint>
+			<navPoint id="shui_su_qian_xing" playOrder="2150">
+				<navLabel>
+					<text>水宿遣興奉呈羣公</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#shui_su_qian_xing"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
