@@ -6337,6 +6337,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#shui_su_qian_xing"/>
 			</navPoint>
+			<navPoint id="qian_men" playOrder="2151">
+				<navLabel>
+					<text>遣悶</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#qian_men"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
