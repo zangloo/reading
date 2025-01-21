@@ -6361,6 +6361,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#zhou_zhong"/>
 			</navPoint>
+			<navPoint id="jiang_ling_jie_du_shi" playOrder="2155">
+				<navLabel>
+					<text>江陵節度使陽城郡王新樓成王請嚴侍御判官賦七字句同作</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#jiang_ling_jie_du_shi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
