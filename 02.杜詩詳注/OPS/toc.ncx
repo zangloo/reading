@@ -6367,6 +6367,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#jiang_ling_jie_du_shi"/>
 			</navPoint>
+			<navPoint id="you_zuo_ci_feng_wei_wang" playOrder="2156">
+				<navLabel>
+					<text>又作此奉衛王</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#you_zuo_ci_feng_wei_wang"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
