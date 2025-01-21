@@ -6343,12 +6343,18 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#qian_men"/>
 			</navPoint>
+			<navPoint id="jiang_bian_xing_yue_er_shou" playOrder="2152">
+				<navLabel>
+					<text>江邊星月二首</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#jiang_bian_xing_yue_er_shou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
                 <text>卷二十二</text>
             </navLabel>
-             <content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml"/>
+              <content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml"/>
         </navPoint>
         <navPoint id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23" playOrder="2300">
             <navLabel>
