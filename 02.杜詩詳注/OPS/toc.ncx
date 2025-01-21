@@ -6349,6 +6349,12 @@
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#jiang_bian_xing_yue_er_shou"/>
 			</navPoint>
+			<navPoint id="geng" playOrder="2153">
+				<navLabel>
+					<text>舟月對驛近寺</text>
+				</navLabel>
+				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#geng"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22" playOrder="2200">
             <navLabel>
