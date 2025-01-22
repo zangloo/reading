@@ -6409,6 +6409,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#zhong-n2455"/>
 			</navPoint>
+			<navPoint id="ku_li_chang_shi_yi_er_shou" playOrder="2204">
+				<navLabel>
+					<text>哭李常侍嶧二首</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#ku_li_chang_shi_yi_er_shou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23" playOrder="2300">
             <navLabel>
