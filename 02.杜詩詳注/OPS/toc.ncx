@@ -6415,6 +6415,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#ku_li_chang_shi_yi_er_shou"/>
 			</navPoint>
+			<navPoint id="zhou" playOrder="2205">
+				<navLabel>
+					<text>舟出江陵南浦奉寄鄭少尹審</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#zhou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23" playOrder="2300">
             <navLabel>
