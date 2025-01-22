@@ -6391,6 +6391,12 @@
                 <text>卷二十二</text>
             </navLabel>
               <content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml"/>
+			<navPoint id="mu_gui" playOrder="2201">
+				<navLabel>
+					<text>暮歸</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#mu_gui"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23" playOrder="2300">
             <navLabel>
