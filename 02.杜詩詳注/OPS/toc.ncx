@@ -6457,6 +6457,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#gong_an_song_wei_er_shao"/>
 			</navPoint>
+			<navPoint id="gong_an_xian_huai_gu" playOrder="2212">
+				<navLabel>
+					<text>公安縣懷古</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#gong_an_xian_huai_gu"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23" playOrder="2300">
             <navLabel>
