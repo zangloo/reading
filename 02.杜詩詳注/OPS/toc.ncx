@@ -6439,6 +6439,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#song_gu_ba_fen_wen_xue_shi_hong_ji_zhou"/>
 			</navPoint>
+			<navPoint id="guan_ting_xi_zuo_xi" playOrder="2209">
+				<navLabel>
+					<text>官亭夕坐戲簡顏十少府</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#guan_ting_xi_zuo_xi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23" playOrder="2300">
             <navLabel>
