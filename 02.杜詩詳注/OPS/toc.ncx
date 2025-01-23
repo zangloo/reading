@@ -6427,6 +6427,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#yi_ju_gong_an_shan_guan"/>
 			</navPoint>
+			<navPoint id="zui_ge_xing_zeng_gong_an" playOrder="2207">
+				<navLabel>
+					<text>醉歌行贈公安顏十少府請顧八題壁</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#zui_ge_xing_zeng_gong_an"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23" playOrder="2300">
             <navLabel>
