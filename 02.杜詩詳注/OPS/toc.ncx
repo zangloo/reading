@@ -6433,6 +6433,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#zui_ge_xing_zeng_gong_an"/>
 			</navPoint>
+			<navPoint id="song_gu_ba_fen_wen_xue_shi_hong_ji_zhou" playOrder="2208">
+				<navLabel>
+					<text>送顧八分文學適洪吉州</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#song_gu_ba_fen_wen_xue_shi_hong_ji_zhou"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23" playOrder="2300">
             <navLabel>
