@@ -6445,6 +6445,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#guan_ting_xi_zuo_xi"/>
 			</navPoint>
+			<navPoint id="wei_hou_bu_yi" playOrder="2210">
+				<navLabel>
+					<text>移居公安敬贈衛大郎</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#wei_hou_bu_yi"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23" playOrder="2300">
             <navLabel>
