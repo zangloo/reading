@@ -6469,6 +6469,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#ya"/>
 			</navPoint>
+			<navPoint id="fan_ai_rong_shuang_bin" playOrder="2214">
+				<navLabel>
+					<text>宴王使君宅題二首</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#fan_ai_rong_shuang_bin"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23" playOrder="2300">
             <navLabel>
