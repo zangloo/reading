@@ -6421,6 +6421,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#zhou"/>
 			</navPoint>
+			<navPoint id="yi_ju_gong_an_shan_guan" playOrder="2206">
+				<navLabel>
+					<text>移居公安山館</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#yi_ju_gong_an_shan_guan"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23" playOrder="2300">
             <navLabel>
