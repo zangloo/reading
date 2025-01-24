@@ -6487,6 +6487,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#zheng_jie_chai_sang_lan_reng_kan"/>
 			</navPoint>
+			<navPoint id="liu_bie_gong_an_tai_yi_sha_men" playOrder="2217">
+				<navLabel>
+					<text>留别公安太易沙門</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#liu_bie_gong_an_tai_yi_sha_men"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23" playOrder="2300">
             <navLabel>
