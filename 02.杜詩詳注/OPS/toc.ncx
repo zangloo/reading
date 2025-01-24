@@ -6475,6 +6475,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#fan_ai_rong_shuang_bin"/>
 			</navPoint>
+			<navPoint id="song_tan_er_pan_guan" playOrder="2215">
+				<navLabel>
+					<text>送覃二判官</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#song_tan_er_pan_guan"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23" playOrder="2300">
             <navLabel>
