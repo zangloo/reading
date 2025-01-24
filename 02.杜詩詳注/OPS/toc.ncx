@@ -6517,6 +6517,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#fa_liu_lang_pu"/>
 			</navPoint>
+			<navPoint playOrder="2222" id="bie_dong_ting">
+				<navLabel>
+					<text>别董頲</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#bie_dong_ting"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2300" id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23">
             <navLabel>
