@@ -6523,6 +6523,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#bie_dong_ting"/>
 			</navPoint>
+			<navPoint playOrder="2223" id="ye_wen_bi_li">
+				<navLabel>
+					<text>夜聞觱篥</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#ye_wen_bi_li"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2300" id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23">
             <navLabel>
