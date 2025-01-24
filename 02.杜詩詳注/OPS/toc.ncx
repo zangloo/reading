@@ -6511,6 +6511,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#xiao_fa_gong_an"/>
 			</navPoint>
+			<navPoint playOrder="2221" id="fa_liu_lang_pu">
+				<navLabel>
+					<text>發劉郎浦</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#fa_liu_lang_pu"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2300" id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23">
             <navLabel>
