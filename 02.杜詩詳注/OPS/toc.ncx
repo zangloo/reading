@@ -6535,6 +6535,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#heng_zhou_song_li_da_fu_qi_zhang"/>
 			</navPoint>
+			<navPoint playOrder="2225" id="sui_yan_xing">
+				<navLabel>
+					<text>歲宴行</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#sui_yan_xing"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2300" id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23">
             <navLabel>
