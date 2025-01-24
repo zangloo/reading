@@ -6505,6 +6505,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#dong_shen"/>
 			</navPoint>
+			<navPoint playOrder="2220" id="xiao_fa_gong_an">
+				<navLabel>
+					<text>曉發公安</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#xiao_fa_gong_an"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2300" id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23">
             <navLabel>
