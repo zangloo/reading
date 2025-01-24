@@ -6493,6 +6493,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#liu_bie_gong_an_tai_yi_sha_men"/>
 			</navPoint>
+			<navPoint playOrder="2218" id="jiu_ke">
+				<navLabel>
+					<text>久客</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#jiu_ke"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2300" id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23">
             <navLabel>
