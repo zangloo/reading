@@ -6481,6 +6481,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#song_tan_er_pan_guan"/>
 			</navPoint>
+			<navPoint id="zheng_jie_chai_sang_lan_reng_kan" playOrder="2216">
+				<navLabel>
+					<text>公安送李二十九弟晉肅入蜀余下沔鄂</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#zheng_jie_chai_sang_lan_reng_kan"/>
+			</navPoint>
         </navPoint>
         <navPoint id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23" playOrder="2300">
             <navLabel>
