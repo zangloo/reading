@@ -6553,6 +6553,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#chu-n2491"/>
 			</navPoint>
+			<navPoint playOrder="2228" id="deng_yue_yang_lou">
+				<navLabel>
+					<text>登岳陽樓</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#deng_yue_yang_lou"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2300" id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23">
             <navLabel>
