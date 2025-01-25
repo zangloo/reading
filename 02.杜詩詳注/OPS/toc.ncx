@@ -6583,6 +6583,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#guo_nan_yue_ru_dong_ting_hu"/>
 			</navPoint>
+			<navPoint playOrder="2233" id="su_qing_cao_hu">
+				<navLabel>
+					<text>宿青草湖</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#su_qing_cao_hu"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2300" id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23">
             <navLabel>
