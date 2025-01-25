@@ -6541,6 +6541,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#sui_yan_xing"/>
 			</navPoint>
+			<navPoint playOrder="2226" id="po_yue_yang_cheng_xia">
+				<navLabel>
+					<text>泊岳陽城下</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#po_yue_yang_cheng_xia"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2300" id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23">
             <navLabel>
