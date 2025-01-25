@@ -6595,6 +6595,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#su_bai_sha_yi"/>
 			</navPoint>
+			<navPoint playOrder="2235" id="xiang_fu_ren_ci">
+				<navLabel>
+					<text>湘夫人祠</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#xiang_fu_ren_ci"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2300" id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23">
             <navLabel>
