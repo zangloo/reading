@@ -6589,6 +6589,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#su_qing_cao_hu"/>
 			</navPoint>
+			<navPoint playOrder="2234" id="su_bai_sha_yi">
+				<navLabel>
+					<text>宿白沙驛</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#su_bai_sha_yi"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2300" id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23">
             <navLabel>
