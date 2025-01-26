@@ -6649,6 +6649,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#ci_kong_ling_an"/>
 			</navPoint>
+			<navPoint playOrder="2244" id="su_hua_shi_shu">
+				<navLabel>
+					<text>宿花石戍</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#su_hua_shi_shu"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2300" id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23">
             <navLabel>
