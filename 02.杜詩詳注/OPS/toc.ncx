@@ -6655,6 +6655,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#su_hua_shi_shu"/>
 			</navPoint>
+			<navPoint playOrder="2245" id="zao_fa">
+				<navLabel>
+					<text>早發</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#zao_fa"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2300" id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23">
             <navLabel>
