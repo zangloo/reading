@@ -6601,6 +6601,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#xiang_fu_ren_ci"/>
 			</navPoint>
+			<navPoint playOrder="2236" id="ci_nan_xi_wang">
+				<navLabel>
+					<text>祠南夕望</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#ci_nan_xi_wang"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2300" id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23">
             <navLabel>
