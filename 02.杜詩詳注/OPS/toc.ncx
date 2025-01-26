@@ -6625,6 +6625,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#jie_you"/>
 			</navPoint>
+			<navPoint playOrder="2240" id="su_zao_shi_pu">
+				<navLabel>
+					<text>宿鑿石浦</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#su_zao_shi_pu"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2300" id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23">
             <navLabel>
