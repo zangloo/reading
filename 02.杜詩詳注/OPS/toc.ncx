@@ -6643,6 +6643,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#guo_jin_kou"/>
 			</navPoint>
+			<navPoint playOrder="2243" id="ci_kong_ling_an">
+				<navLabel>
+					<text>次空靈岸</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#ci_kong_ling_an"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2300" id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23">
             <navLabel>
