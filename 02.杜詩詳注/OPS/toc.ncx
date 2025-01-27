@@ -6709,6 +6709,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#bei_feng"/>
 			</navPoint>
+			<navPoint playOrder="2254" id="shuang_feng_pu">
+				<navLabel>
+					<text>雙楓浦</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#shuang_feng_pu"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2300" id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23">
             <navLabel>
