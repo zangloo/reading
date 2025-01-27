@@ -6703,6 +6703,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#tong_guan_zhu_shou_feng"/>
 			</navPoint>
+			<navPoint playOrder="2253" id="bei_feng">
+				<navLabel>
+					<text>北風</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#bei_feng"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2300" id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23">
             <navLabel>
