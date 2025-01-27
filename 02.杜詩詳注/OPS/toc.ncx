@@ -6685,6 +6685,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#fa_bai_ma_tan"/>
 			</navPoint>
+			<navPoint playOrder="2250" id="ye_wang-n2520">
+				<navLabel>
+					<text>野望</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#ye_wang-n2520"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2300" id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23">
             <navLabel>
