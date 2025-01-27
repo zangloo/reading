@@ -6661,6 +6661,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#zao_fa"/>
 			</navPoint>
+			<navPoint playOrder="2246" id="ci_wan_zhou">
+				<navLabel>
+					<text>次晚洲</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#ci_wan_zhou"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2300" id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23">
             <navLabel>
