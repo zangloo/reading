@@ -6715,6 +6715,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#shuang_feng_pu"/>
 			</navPoint>
+			<navPoint playOrder="2255" id="yong_huai_er_shou">
+				<navLabel>
+					<text>詠懷二首</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#yong_huai_er_shou"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2300" id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23">
             <navLabel>
