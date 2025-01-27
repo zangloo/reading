@@ -6679,6 +6679,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#fa_tan_zhou"/>
 			</navPoint>
+			<navPoint playOrder="2249" id="fa_bai_ma_tan">
+				<navLabel>
+					<text>發白馬潭</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#fa_bai_ma_tan"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2300" id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23">
             <navLabel>
