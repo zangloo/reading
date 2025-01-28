@@ -6721,6 +6721,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#yong_huai_er_shou"/>
 			</navPoint>
+			<navPoint playOrder="2256" id="du_yuan_wai_xiong_chui_shi_shi_yin_zuo_ci_ji_shang">
+				<navLabel>
+					<text>杜員外兄垂示詩因作此寄上</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#du_yuan_wai_xiong_chui_shi_shi_yin_zuo_ci_ji_shang"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2300" id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23">
             <navLabel>
