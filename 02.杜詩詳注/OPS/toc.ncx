@@ -6745,6 +6745,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#yue_lu_shan_dao_lin_er_si_xing"/>
 			</navPoint>
+			<navPoint playOrder="2260" id="feng_song_wei_zhong_cheng_zhi_jin_fu_hu_nan">
+				<navLabel>
+					<text>奉送韋中丞之晉赴湖南</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#feng_song_wei_zhong_cheng_zhi_jin_fu_hu_nan"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2300" id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23">
             <navLabel>
