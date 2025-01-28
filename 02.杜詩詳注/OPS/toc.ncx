@@ -6751,6 +6751,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#feng_song_wei_zhong_cheng_zhi_jin_fu_hu_nan"/>
 			</navPoint>
+			<navPoint playOrder="2261" id="xiang_jiang_yan_jian_pei_er_duan_gong_fu_dao_zhou">
+				<navLabel>
+					<text>湘江宴餞裴二端公赴道州</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#xiang_jiang_yan_jian_pei_er_duan_gong_fu_dao_zhou"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2300" id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23">
             <navLabel>
