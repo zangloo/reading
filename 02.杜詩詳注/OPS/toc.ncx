@@ -6727,6 +6727,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#du_yuan_wai_xiong_chui_shi_shi_yin_zuo_ci_ji_shang"/>
 			</navPoint>
+			<navPoint playOrder="2257" id="cai_wei_sui_wan">
+				<navLabel>
+					<text>酬郭十五判官</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#cai_wei_sui_wan"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2300" id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23">
             <navLabel>
