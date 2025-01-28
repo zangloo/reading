@@ -6739,6 +6739,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#wang_yue"/>
 			</navPoint>
+			<navPoint playOrder="2259" id="yue_lu_shan_dao_lin_er_si_xing">
+				<navLabel>
+					<text>嶽麓山道林二寺行</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#yue_lu_shan_dao_lin_er_si_xing"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2300" id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23">
             <navLabel>
