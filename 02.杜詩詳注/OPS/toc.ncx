@@ -6775,6 +6775,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#tan_zhou_liu_bie_du_yuan_wai_yuan_zhang"/>
 			</navPoint>
+			<navPoint playOrder="2265" id="tan_zhou_song_wei_yuan_wai_tiao_mu_shao_zhou">
+				<navLabel>
+					<text>潭州送韋員外迢牧韶州</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#tan_zhou_song_wei_yuan_wai_tiao_mu_shao_zhou"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2300" id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23">
             <navLabel>
