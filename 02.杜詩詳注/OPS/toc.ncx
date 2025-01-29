@@ -6793,6 +6793,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#zeng_wei_shao_zhou_jian_ji"/>
 			</navPoint>
+			<navPoint playOrder="2268" id="lou_shang">
+				<navLabel>
+					<text>樓上</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#lou_shang"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2300" id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23">
             <navLabel>
