@@ -6787,6 +6787,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#zao_fa_xiang_tan_ji_du_yuan_wai_yuan_zhang"/>
 			</navPoint>
+			<navPoint playOrder="2267" id="zeng_wei_shao_zhou_jian_ji">
+				<navLabel>
+					<text>贈韋韶州見寄</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#zeng_wei_shao_zhou_jian_ji"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2300" id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23">
             <navLabel>
