@@ -6805,6 +6805,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#jiang_kuo_fu_gao_dong"/>
 			</navPoint>
+			<navPoint playOrder="2270" id="qian_qiu_jie_you_gan_er_shou">
+				<navLabel>
+					<text>千秋節有感二首</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#qian_qiu_jie_you_gan_er_shou"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2300" id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23">
             <navLabel>
