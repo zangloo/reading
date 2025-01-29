@@ -6769,6 +6769,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#jiang_ge_wo_bing"/>
 			</navPoint>
+			<navPoint playOrder="2264" id="tan_zhou_liu_bie_du_yuan_wai_yuan_zhang">
+				<navLabel>
+					<text>潭州留别杜員外院長</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#tan_zhou_liu_bie_du_yuan_wai_yuan_zhang"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2300" id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23">
             <navLabel>
