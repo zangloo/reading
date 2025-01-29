@@ -6799,6 +6799,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#lou_shang"/>
 			</navPoint>
+			<navPoint playOrder="2269" id="jiang_kuo_fu_gao_dong">
+				<navLabel>
+					<text>遠遊</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#jiang_kuo_fu_gao_dong"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2300" id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23">
             <navLabel>
