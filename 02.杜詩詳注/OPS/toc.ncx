@@ -6811,6 +6811,12 @@
 				</navLabel>
 				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#qian_qiu_jie_you_gan_er_shou"/>
 			</navPoint>
+			<navPoint playOrder="2271" id="feng_zeng_lu_wu_zhang_can_mou_ju">
+				<navLabel>
+					<text>奉贈盧五丈參謀琚</text>
+				</navLabel>
+				<content src="c23_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan22.xhtml#feng_zeng_lu_wu_zhang_can_mou_ju"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2300" id="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23">
             <navLabel>
