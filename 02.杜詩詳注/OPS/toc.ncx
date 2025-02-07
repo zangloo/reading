@@ -6853,6 +6853,12 @@
 				</navLabel>
 				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#bie_zhang_shi_san_jian_feng"/>
 			</navPoint>
+			<navPoint playOrder="2304" id="song_lu_shi_si_di">
+				<navLabel>
+					<text>送盧十四弟侍御護韋尚書靈櫬歸上都二十四韻</text>
+				</navLabel>
+				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#song_lu_shi_si_di"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2400" id="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24">
             <navLabel>
