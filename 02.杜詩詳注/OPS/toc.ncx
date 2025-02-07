@@ -6841,6 +6841,12 @@
 				</navLabel>
 				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#hu_zhong"/>
 			</navPoint>
+			<navPoint playOrder="2302" id="wan_qiu_chang_sha">
+				<navLabel>
+					<text>晚秋長沙蔡五侍御飲筵送殷六參軍歸澧覲省</text>
+				</navLabel>
+				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#wan_qiu_chang_sha"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2400" id="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24">
             <navLabel>
