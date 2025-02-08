@@ -6871,6 +6871,12 @@
 				</navLabel>
 				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#mu_qiu_wang_pei_dao_zhou_shou_zha_lu_er_qian_xing"/>
 			</navPoint>
+			<navPoint playOrder="2307" id="feng_zeng_li_ba_zhang_xun_pan_guan">
+				<navLabel>
+					<text>奉贈李八丈曛判官</text>
+				</navLabel>
+				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#feng_zeng_li_ba_zhang_xun_pan_guan"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2400" id="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24">
             <navLabel>
