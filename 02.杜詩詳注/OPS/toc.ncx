@@ -6859,6 +6859,12 @@
 				</navLabel>
 				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#song_lu_shi_si_di"/>
 			</navPoint>
+			<navPoint playOrder="2305" id="su_da_shi_yu_fang_jiang_pu_fu_ba_yun_ji_yi">
+				<navLabel>
+					<text>蘇大侍御訪江浦賦八韻記異</text>
+				</navLabel>
+				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#su_da_shi_yu_fang_jiang_pu_fu_ba_yun_ji_yi"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2400" id="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24">
             <navLabel>
