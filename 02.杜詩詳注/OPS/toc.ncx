@@ -6877,6 +6877,12 @@
 				</navLabel>
 				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#feng_zeng_li_ba_zhang_xun_pan_guan"/>
 			</navPoint>
+			<navPoint playOrder="2308" id="feng_song_wei_liu_zhang_you_shao">
+				<navLabel>
+					<text>奉送魏六丈佑少府之交廣</text>
+				</navLabel>
+				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#feng_song_wei_liu_zhang_you_shao"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2400" id="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24">
             <navLabel>
