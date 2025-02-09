@@ -6883,6 +6883,12 @@
 				</navLabel>
 				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#feng_song_wei_liu_zhang_you_shao"/>
 			</navPoint>
+			<navPoint playOrder="2309" id="bei_feng-n2569">
+				<navLabel>
+					<text>北風</text>
+				</navLabel>
+				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#bei_feng-n2569"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2400" id="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24">
             <navLabel>
