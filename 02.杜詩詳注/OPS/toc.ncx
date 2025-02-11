@@ -6925,6 +6925,12 @@
 				</navLabel>
 				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#can_qing_xiu_zuo_wo_dang_zi_bu_gui"/>
 			</navPoint>
+			<navPoint playOrder="2316" id="mu_dong_song_su_si_lang_xi_bing_cao_shi_gui_zhou">
+				<navLabel>
+					<text>暮冬送蘇四郎徯兵曹適桂州</text>
+				</navLabel>
+				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#mu_dong_song_su_si_lang_xi_bing_cao_shi_gui_zhou"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2400" id="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24">
             <navLabel>
