@@ -6907,6 +6907,12 @@
 				</navLabel>
 				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#de_yu"/>
 			</navPoint>
+			<navPoint playOrder="2313" id="shuo_feng_chui_gui_shui_da">
+				<navLabel>
+					<text>舟中夜雪有懷盧十四侍御弟</text>
+				</navLabel>
+				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#shuo_feng_chui_gui_shui_da"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2400" id="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24">
             <navLabel>
