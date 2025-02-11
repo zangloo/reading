@@ -6931,6 +6931,12 @@
 				</navLabel>
 				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#mu_dong_song_su_si_lang_xi_bing_cao_shi_gui_zhou"/>
 			</navPoint>
+			<navPoint playOrder="2317" id="ke_cong">
+				<navLabel>
+					<text>客從</text>
+				</navLabel>
+				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#ke_cong"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2400" id="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24">
             <navLabel>
