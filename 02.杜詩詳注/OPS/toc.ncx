@@ -6913,6 +6913,12 @@
 				</navLabel>
 				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#shuo_feng_chui_gui_shui_da"/>
 			</navPoint>
+			<navPoint playOrder="2314" id="dui_xue-n2577">
+				<navLabel>
+					<text>對雪</text>
+				</navLabel>
+				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#dui_xue-n2577"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2400" id="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24">
             <navLabel>
