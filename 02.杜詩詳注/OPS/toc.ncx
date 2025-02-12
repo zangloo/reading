@@ -6949,6 +6949,12 @@
 				</navLabel>
 				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#bai_fu_xing"/>
 			</navPoint>
+			<navPoint playOrder="2320" id="zhu_feng_xing">
+				<navLabel>
+					<text>朱鳳行</text>
+				</navLabel>
+				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#zhu_feng_xing"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2400" id="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24">
             <navLabel>
