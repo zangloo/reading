@@ -6967,6 +6967,12 @@
 				</navLabel>
 				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#ren_ri_ji_du_er"/>
 			</navPoint>
+			<navPoint playOrder="2323" id="song_zhong">
+				<navLabel>
+					<text>送重表姪王砅評事使南海</text>
+				</navLabel>
+				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#song_zhong"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2400" id="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24">
             <navLabel>
