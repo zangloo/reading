@@ -7003,6 +7003,12 @@
 				</navLabel>
 				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#xuan"/>
 			</navPoint>
+			<navPoint playOrder="2329" id="song_zhao_shi_qi_ming_fu_zhi_xian">
+				<navLabel>
+					<text>送趙十七明府之縣</text>
+				</navLabel>
+				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#song_zhao_shi_qi_ming_fu_zhi_xian"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2400" id="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24">
             <navLabel>
