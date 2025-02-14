@@ -6991,6 +6991,12 @@
 				</navLabel>
 				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#feng_zeng_xiao_shi_er_shi"/>
 			</navPoint>
+			<navPoint playOrder="2327" id="feng_song_er_shi_san_jiu_lu_shi">
+				<navLabel>
+					<text>奉送二十三舅錄事之攝郴州</text>
+				</navLabel>
+				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#feng_song_er_shi_san_jiu_lu_shi"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2400" id="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24">
             <navLabel>
