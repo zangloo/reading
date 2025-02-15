@@ -7039,6 +7039,12 @@
 				</navLabel>
 				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#yan_zi_lai_zhou_zhong_zuo"/>
 			</navPoint>
+			<navPoint playOrder="2335" id="zeng_wei_qi_zan_shan">
+				<navLabel>
+					<text>贈韋七贊善</text>
+				</navLabel>
+				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#zeng_wei_qi_zan_shan"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2400" id="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24">
             <navLabel>
