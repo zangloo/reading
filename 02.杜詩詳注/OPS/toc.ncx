@@ -7021,6 +7021,12 @@
 				</navLabel>
 				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#gui_yan_er_shou"/>
 			</navPoint>
+			<navPoint playOrder="2332" id="jiang_nan_feng_li_gui_nian">
+				<navLabel>
+					<text>江南逢李龜年</text>
+				</navLabel>
+				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#jiang_nan_feng_li_gui_nian"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2400" id="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24">
             <navLabel>
