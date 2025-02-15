@@ -7051,6 +7051,12 @@
 				</navLabel>
 				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#feng_chou_kou_shi_shi_yu"/>
 			</navPoint>
+			<navPoint playOrder="2337" id="ru_heng_zhou">
+				<navLabel>
+					<text>入衡州</text>
+				</navLabel>
+				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#ru_heng_zhou"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2400" id="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24">
             <navLabel>
