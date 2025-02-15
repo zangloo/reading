@@ -7027,6 +7027,12 @@
 				</navLabel>
 				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#jiang_nan_feng_li_gui_nian"/>
 			</navPoint>
+			<navPoint playOrder="2333" id="xiao_han_shi_zhou_zhong_zuo">
+				<navLabel>
+					<text>小寒食舟中作</text>
+				</navLabel>
+				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#xiao_han_shi_zhou_zhong_zuo"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2400" id="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24">
             <navLabel>
