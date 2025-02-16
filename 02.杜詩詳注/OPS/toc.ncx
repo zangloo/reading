@@ -7069,6 +7069,12 @@
 				</navLabel>
 				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#bai_ma"/>
 			</navPoint>
+			<navPoint playOrder="2340" id="zhou_zhong_ku_re">
+				<navLabel>
+					<text>舟中苦熱遣懷奉呈陽中丞通簡臺省諸公</text>
+				</navLabel>
+				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#zhou_zhong_ku_re"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2400" id="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24">
             <navLabel>
