@@ -7075,6 +7075,12 @@
 				</navLabel>
 				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#zhou_zhong_ku_re"/>
 			</navPoint>
+			<navPoint playOrder="2341" id="jiang_ge_dui_yu_you_huai_xing_ying_pei_er_duan_gong">
+				<navLabel>
+					<text>江閣對雨有懷行營裴二端公</text>
+				</navLabel>
+				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#jiang_ge_dui_yu_you_huai_xing_ying_pei_er_duan_gong"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2400" id="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24">
             <navLabel>
