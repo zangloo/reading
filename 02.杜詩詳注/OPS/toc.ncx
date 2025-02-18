@@ -7081,6 +7081,12 @@
 				</navLabel>
 				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#jiang_ge_dui_yu_you_huai_xing_ying_pei_er_duan_gong"/>
 			</navPoint>
+			<navPoint playOrder="2342" id="mao_tou_hui_zi_wei_wu_fu">
+				<navLabel>
+					<text>題衡山縣文宣王廟新學堂呈陸宰</text>
+				</navLabel>
+				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#mao_tou_hui_zi_wei_wu_fu"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2400" id="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24">
             <navLabel>
