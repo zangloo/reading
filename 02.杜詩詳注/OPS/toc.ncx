@@ -7099,6 +7099,12 @@
 				</navLabel>
 				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#hui_zhao"/>
 			</navPoint>
+			<navPoint playOrder="2345" id="jiao_shi_wei_qing_cao_long_dui_yin">
+				<navLabel>
+					<text>過洞庭湖</text>
+				</navLabel>
+				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#jiao_shi_wei_qing_cao_long_dui_yin"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2400" id="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24">
             <navLabel>
