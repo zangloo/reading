@@ -7111,6 +7111,12 @@
 				</navLabel>
 				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#deng_zhou_jiang_shi_han_yang"/>
 			</navPoint>
+			<navPoint playOrder="2347" id="shui_kuo_cang_wu_ye">
+				<navLabel>
+					<text>暮秋將歸秦留别湖南幕府親友</text>
+				</navLabel>
+				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#shui_kuo_cang_wu_ye"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2400" id="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24">
             <navLabel>
