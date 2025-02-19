@@ -7117,6 +7117,12 @@
 				</navLabel>
 				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#shui_kuo_cang_wu_ye"/>
 			</navPoint>
+			<navPoint playOrder="2348" id="yu">
+				<navLabel>
+					<text>長沙送李十一</text>
+				</navLabel>
+				<content src="c24_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan23.xhtml#yu"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2400" id="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24">
             <navLabel>
