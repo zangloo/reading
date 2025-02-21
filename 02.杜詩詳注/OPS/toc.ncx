@@ -7135,6 +7135,12 @@
                 <text>卷二十四</text>
             </navLabel>
             <content src="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24.xhtml"/>
+			<navPoint playOrder="2401" id="jin_san_da_li_fu_biao">
+				<navLabel>
+					<text>進三大禮賦表</text>
+				</navLabel>
+				<content src="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24.xhtml#jin_san_da_li_fu_biao"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2500" id="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25">
             <navLabel>
