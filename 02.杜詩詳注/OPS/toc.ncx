@@ -7147,6 +7147,12 @@
 				</navLabel>
 				<content src="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24.xhtml#chao_xian_tai_qing_gong_fu"/>
 			</navPoint>
+			<navPoint playOrder="2403" id="chao_xiang_tai_miao_fu">
+				<navLabel>
+					<text>朝享太廟賦</text>
+				</navLabel>
+				<content src="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24.xhtml#chao_xiang_tai_miao_fu"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2500" id="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25">
             <navLabel>
