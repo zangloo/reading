@@ -7153,6 +7153,12 @@
 				</navLabel>
 				<content src="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24.xhtml#chao_xiang_tai_miao_fu"/>
 			</navPoint>
+			<navPoint playOrder="2404" id="you_shi_yu_nan_jiao_fu">
+				<navLabel>
+					<text>有事於南郊賦</text>
+				</navLabel>
+				<content src="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24.xhtml#you_shi_yu_nan_jiao_fu"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2500" id="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25">
             <navLabel>
