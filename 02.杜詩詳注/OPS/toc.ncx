@@ -7171,6 +7171,12 @@
 				</navLabel>
 				<content src="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24.xhtml#feng_xi_yue_fu"/>
 			</navPoint>
+			<navPoint playOrder="2407" id="jin_diao">
+				<navLabel>
+					<text>進鵰賦表</text>
+				</navLabel>
+				<content src="c25_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan24.xhtml#jin_diao"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2500" id="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25">
             <navLabel>
