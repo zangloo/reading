@@ -7213,6 +7213,12 @@
 				</navLabel>
 				<content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml#wei_kui_fu_bai_dou_du_xie_shang_biao"/>
 			</navPoint>
+			<navPoint playOrder="2503" id="wei_bu_yi_jian_cen_can_zhuang">
+				<navLabel>
+					<text>為補遺薦岑參狀</text>
+				</navLabel>
+				<content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml#wei_bu_yi_jian_cen_can_zhuang"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2600" id="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang">
             <navLabel>
