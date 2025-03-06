@@ -7201,6 +7201,12 @@
                 <text>卷二十五</text>
             </navLabel>
             <content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml"/>
+			<navPoint playOrder="2501" id="wei_lang_zhou_wang_shi_jun">
+				<navLabel>
+					<text>為閬州王使君進論巴蜀安危表</text>
+				</navLabel>
+				<content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml#wei_lang_zhou_wang_shi_jun"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2600" id="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang">
             <navLabel>
