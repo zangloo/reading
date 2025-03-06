@@ -7207,6 +7207,12 @@
 				</navLabel>
 				<content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml#wei_lang_zhou_wang_shi_jun"/>
 			</navPoint>
+			<navPoint playOrder="2502" id="wei_kui_fu_bai_dou_du_xie_shang_biao">
+				<navLabel>
+					<text>為夔府柏都督謝上表</text>
+				</navLabel>
+				<content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml#wei_kui_fu_bai_dou_du_xie_shang_biao"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2600" id="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang">
             <navLabel>
