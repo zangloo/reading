@@ -7231,6 +7231,12 @@
 				</navLabel>
 				<content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml#wei_hua_zhou_guo_shi_jun"/>
 			</navPoint>
+			<navPoint playOrder="2506" id="wen">
+				<navLabel>
+					<text>乾元元年華州試進士策問五首</text>
+				</navLabel>
+				<content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml#wen"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2600" id="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang">
             <navLabel>
