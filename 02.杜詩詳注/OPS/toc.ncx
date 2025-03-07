@@ -7219,6 +7219,12 @@
 				</navLabel>
 				<content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml#wei_bu_yi_jian_cen_can_zhuang"/>
 			</navPoint>
+			<navPoint playOrder="2504" id="feng_xie_kou_chi">
+				<navLabel>
+					<text>奉謝口敕放三司推問狀</text>
+				</navLabel>
+				<content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml#feng_xie_kou_chi"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2600" id="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang">
             <navLabel>
