@@ -7237,6 +7237,12 @@
 				</navLabel>
 				<content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml#wen"/>
 			</navPoint>
+			<navPoint playOrder="2507" id="tang_xing_xian_ke_guan_ji">
+				<navLabel>
+					<text>唐興縣客館記</text>
+				</navLabel>
+				<content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml#tang_xing_xian_ke_guan_ji"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2600" id="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang">
             <navLabel>
