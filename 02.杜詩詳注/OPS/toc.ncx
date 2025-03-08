@@ -7261,6 +7261,12 @@
 				</navLabel>
 				<content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml#shuo_han"/>
 			</navPoint>
+			<navPoint playOrder="2511" id="dong_xi_chuan_shuo">
+				<navLabel>
+					<text>東西兩川說</text>
+				</navLabel>
+				<content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml#dong_xi_chuan_shuo"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2600" id="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang">
             <navLabel>
