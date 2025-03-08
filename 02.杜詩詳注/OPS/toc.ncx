@@ -7267,6 +7267,12 @@
 				</navLabel>
 				<content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml#dong_xi_chuan_shuo"/>
 			</navPoint>
+			<navPoint playOrder="2512" id="shi_bie_lao">
+				<navLabel>
+					<text>前殿中侍御史柳公紫微仙閣畫太乙天尊圖文</text>
+				</navLabel>
+				<content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml#shi_bie_lao"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2600" id="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang">
             <navLabel>
