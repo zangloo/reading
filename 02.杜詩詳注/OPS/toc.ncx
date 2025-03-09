@@ -7279,6 +7279,12 @@
 				</navLabel>
 				<content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml#ji_yuan_zu_dang_yang_jun_wen"/>
 			</navPoint>
+			<navPoint playOrder="2514" id="ji_wai_zu_zu_mu_wen">
+				<navLabel>
+					<text>祭外祖祖母文</text>
+				</navLabel>
+				<content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml#ji_wai_zu_zu_mu_wen"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2600" id="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang">
             <navLabel>
