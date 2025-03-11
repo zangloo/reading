@@ -7291,6 +7291,12 @@
 				</navLabel>
 				<content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml#ji_gu_xiang_guo_qing_he_fang_gong_wen"/>
 			</navPoint>
+			<navPoint playOrder="2516" id="tang_gu_de_yi">
+				<navLabel>
+					<text>唐故德儀贈淑妃皇甫氏神道碑</text>
+				</navLabel>
+				<content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml#tang_gu_de_yi"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2600" id="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang">
             <navLabel>
