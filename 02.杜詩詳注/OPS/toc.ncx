@@ -7327,6 +7327,12 @@
 				</navLabel>
 				<content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml#du_du_gong_bu_shi_ji_xu"/>
 			</navPoint>
+			<navPoint playOrder="2522" id="ti_du_zi_mei_bie_ji_hou">
+				<navLabel>
+					<text>題杜子美别集後</text>
+				</navLabel>
+				<content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml#ti_du_zi_mei_bie_ji_hou"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2600" id="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang">
             <navLabel>
