@@ -7321,6 +7321,12 @@
 				</navLabel>
 				<content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml#du_gong_bu_xiao_ji_xu"/>
 			</navPoint>
+			<navPoint playOrder="2521" id="du_du_gong_bu_shi_ji_xu">
+				<navLabel>
+					<text>讀杜工部詩集序</text>
+				</navLabel>
+				<content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml#du_du_gong_bu_shi_ji_xu"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2600" id="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang">
             <navLabel>
