@@ -7357,6 +7357,12 @@
 				</navLabel>
 				<content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml#cheng_du_xing_ke"/>
 			</navPoint>
+			<navPoint playOrder="2527" id="da_ya_tang_shi_ke">
+				<navLabel>
+					<text>大雅堂石刻杜詩記</text>
+				</navLabel>
+				<content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml#da_ya_tang_shi_ke"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2600" id="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang">
             <navLabel>
