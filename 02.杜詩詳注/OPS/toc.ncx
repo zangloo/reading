@@ -7351,6 +7351,12 @@
 				</navLabel>
 				<content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml#hou_ji"/>
 			</navPoint>
+			<navPoint playOrder="2526" id="cheng_du_xing_ke">
+				<navLabel>
+					<text>成都新刻草堂先生詩碑序</text>
+				</navLabel>
+				<content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml#cheng_du_xing_ke"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2600" id="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang">
             <navLabel>
