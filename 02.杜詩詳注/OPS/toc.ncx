@@ -7405,6 +7405,12 @@
 				</navLabel>
 				<content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml#xiao_ding_ji_zhu_du_shi"/>
 			</navPoint>
+			<navPoint playOrder="2535" id="du_gong_bu_cao_tang_shi">
+				<navLabel>
+					<text>杜工部草堂詩箋跋</text>
+				</navLabel>
+				<content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml#du_gong_bu_cao_tang_shi"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2600" id="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang">
             <navLabel>
