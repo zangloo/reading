@@ -7495,6 +7495,18 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#cao_tang_shi_hua_bian_du_shi"/>
 			</navPoint>
+			<navPoint playOrder="2609" id="zhao_yang_yan_ge">
+				<navLabel>
+					<text>朝陽巖歌</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#zhao_yang_yan_ge"/>
+			</navPoint>
+			<navPoint playOrder="2610" id="qiu_yu_yin">
+				<navLabel>
+					<text>秋雨吟</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#qiu_yu_yin"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
