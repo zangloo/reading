@@ -7483,6 +7483,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#shu_xuan_lu_ji_du_shi"/>
 			</navPoint>
+			<navPoint playOrder="2607" id="bai_hu_ming_zhu_ji_du_shi">
+				<navLabel>
+					<text>百斛明珠記杜詩</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#bai_hu_ming_zhu_ji_du_shi"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
