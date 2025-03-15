@@ -7423,6 +7423,12 @@
 				</navLabel>
 				<content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml#dong_tun_gao_zhai_ji"/>
 			</navPoint>
+			<navPoint playOrder="2538" id="du_shi_xue_ying">
+				<navLabel>
+					<text>杜詩學引</text>
+				</navLabel>
+				<content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml#du_shi_xue_ying"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2600" id="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang">
             <navLabel>
