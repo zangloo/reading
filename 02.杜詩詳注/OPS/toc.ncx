@@ -7444,13 +7444,19 @@
         </navPoint>
         <navPoint playOrder="2600" id="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang">
             <navLabel>
-                <text>卷上</text>
+                <text>杜詩補註卷上</text>
             </navLabel>
             <content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml"/>
+			<navPoint playOrder="2601" id="shao_ling_yi_shi_xiao_xu">
+				<navLabel>
+					<text>少陵逸詩小序</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#shao_ling_yi_shi_xiao_xu"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
-                <text>卷下</text>
+                <text>杜詩補註卷下</text>
             </navLabel>
             <content src="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia.xhtml"/>
         </navPoint>
