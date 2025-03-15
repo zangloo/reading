@@ -7465,6 +7465,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#wu_yan_yi_ju"/>
 			</navPoint>
+			<navPoint playOrder="2604" id="qi_yan_yi_ju">
+				<navLabel>
+					<text>七言逸句</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#qi_yan_yi_ju"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
