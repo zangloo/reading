@@ -7429,6 +7429,12 @@
 				</navLabel>
 				<content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml#du_shi_xue_ying"/>
 			</navPoint>
+			<navPoint playOrder="2539" id="chong_xiu_rang_xi_cao_tang">
+				<navLabel>
+					<text>重修瀼西草堂記</text>
+				</navLabel>
+				<content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml#chong_xiu_rang_xi_cao_tang"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2600" id="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang">
             <navLabel>
