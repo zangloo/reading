@@ -7507,6 +7507,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#qiu_yu_yin"/>
 			</navPoint>
+			<navPoint playOrder="2611" id="zhu_jia_yong_du_xiao_xu">
+				<navLabel>
+					<text>諸家詠杜小序</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#zhu_jia_yong_du_xiao_xu"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
