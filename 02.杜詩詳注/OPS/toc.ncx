@@ -7417,6 +7417,12 @@
 				</navLabel>
 				<content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml#du_shi_ju_ou"/>
 			</navPoint>
+			<navPoint playOrder="2537" id="dong_tun_gao_zhai_ji">
+				<navLabel>
+					<text>東屯高齋記</text>
+				</navLabel>
+				<content src="c26_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan25.xhtml#dong_tun_gao_zhai_ji"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2600" id="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang">
             <navLabel>
