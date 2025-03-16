@@ -7591,6 +7591,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#song_shen_guang"/>
 			</navPoint>
+			<navPoint playOrder="2625" id="xia_shan_yu_zhi">
+				<navLabel>
+					<text>峽山寓止</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#xia_shan_yu_zhi"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
