@@ -7603,6 +7603,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#shu_zhong_shang_hai_tang"/>
 			</navPoint>
+			<navPoint playOrder="2627" id="wen_du_juan">
+				<navLabel>
+					<text>聞杜鵑</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#wen_du_juan"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
