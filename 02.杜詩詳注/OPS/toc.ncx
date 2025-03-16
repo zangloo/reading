@@ -7513,6 +7513,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#zhu_jia_yong_du_xiao_xu"/>
 			</navPoint>
+			<navPoint playOrder="2612" id="lu_jun_dong_shi_men_song_du_fu">
+				<navLabel>
+					<text>魯郡東石門送杜甫</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#lu_jun_dong_shi_men_song_du_fu"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
