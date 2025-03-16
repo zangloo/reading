@@ -7555,6 +7555,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#song_ke_you_shu"/>
 			</navPoint>
+			<navPoint playOrder="2619" id="du_li_du_shi_ji">
+				<navLabel>
+					<text>讀李杜詩集因題卷後</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#du_li_du_shi_ji"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
