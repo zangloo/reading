@@ -7531,6 +7531,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#tai_bai_yi_shi"/>
 			</navPoint>
+			<navPoint playOrder="2615" id="za_yan_ji_du_shi_yi">
+				<navLabel>
+					<text>雜言寄杜拾遺</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#za_yan_ji_du_shi_yi"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
