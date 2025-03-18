@@ -7723,6 +7723,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#ci_yun_zhang_an_dao"/>
 			</navPoint>
+			<navPoint playOrder="2647" id="ci_kong_yi_fu_ji_gu_ren_shi_jian_zeng">
+				<navLabel>
+					<text>次孔毅夫集古人詩見贈</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#ci_kong_yi_fu_ji_gu_ren_shi_jian_zeng"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
