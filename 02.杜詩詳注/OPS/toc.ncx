@@ -7609,6 +7609,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#wen_du_juan"/>
 			</navPoint>
+			<navPoint playOrder="2628" id="xiang_nan_chun_ri_huai_gu">
+				<navLabel>
+					<text>湘南春日懷古</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#xiang_nan_chun_ri_huai_gu"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
