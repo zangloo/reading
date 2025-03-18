@@ -7717,6 +7717,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#zi_mei_hua_xiang"/>
 			</navPoint>
+			<navPoint playOrder="2646" id="ci_yun_zhang_an_dao">
+				<navLabel>
+					<text>次韻張安道讀杜詩</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#ci_yun_zhang_an_dao"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
