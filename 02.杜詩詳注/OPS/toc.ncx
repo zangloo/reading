@@ -7633,6 +7633,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#lei_yang"/>
 			</navPoint>
+			<navPoint playOrder="2632" id="zhang_ting_yi_xiao_ying_tao">
+				<navLabel>
+					<text>樟亭驛小櫻桃</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#zhang_ting_yi_xiao_ying_tao"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
