@@ -134,3 +134,7 @@ span.sectional, span.comment {
 span.source, span.mistake {
     text-decoration: dotted underline;
 }
+
+span.right {
+	float: right;
+}
