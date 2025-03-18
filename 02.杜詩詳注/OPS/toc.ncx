@@ -7693,6 +7693,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#ti_du_zi_mei_shu_shi"/>
 			</navPoint>
+			<navPoint playOrder="2642" id="guo_gong_an">
+				<navLabel>
+					<text>過公安</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#guo_gong_an"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
