@@ -7669,6 +7669,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#lei_yang_du_gong_ci"/>
 			</navPoint>
+			<navPoint playOrder="2638" id="xi_shi_ju_lei_du">
+				<navLabel>
+					<text>喜詩句類杜</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#xi_shi_ju_lei_du"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
