@@ -7645,6 +7645,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#shu_zhong_zeng_guang_shang_ren"/>
 			</navPoint>
+			<navPoint playOrder="2634" id="jing_tu_fu_jiu_zhai">
+				<navLabel>
+					<text>經杜甫舊宅</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#jing_tu_fu_jiu_zhai"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
