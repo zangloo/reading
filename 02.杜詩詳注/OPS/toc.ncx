@@ -7675,6 +7675,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#xi_shi_ju_lei_du"/>
 			</navPoint>
+			<navPoint playOrder="2639" id="song_feng_xue_shi_ru_shu">
+				<navLabel>
+					<text>送馮學士入蜀</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#song_feng_xue_shi_ru_shu"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
