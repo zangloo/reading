@@ -7873,6 +7873,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#du_du"/>
 			</navPoint>
+			<navPoint playOrder="2672" id="you_long_xing_si_diao_shao_ling_yu_ju_shi">
+				<navLabel>
+					<text>遊龍興寺弔少陵寓居詩</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#you_long_xing_si_diao_shao_ling_yu_ju_shi"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
