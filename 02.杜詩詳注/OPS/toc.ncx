@@ -7831,6 +7831,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#jia_ling_jiang_guo_he_zhou"/>
 			</navPoint>
+			<navPoint playOrder="2665" id="yong_du">
+				<navLabel>
+					<text>咏杜</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#yong_du"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
