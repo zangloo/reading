@@ -7741,6 +7741,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#li_tai_bai_zan"/>
 			</navPoint>
+			<navPoint playOrder="2650" id="ti_du_zi_mei_huan_hua_zui_tu">
+				<navLabel>
+					<text>題杜子美浣花醉圖</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#ti_du_zi_mei_huan_hua_zui_tu"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
