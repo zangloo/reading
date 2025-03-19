@@ -7729,6 +7729,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#ci_kong_yi_fu_ji_gu_ren_shi_jian_zeng"/>
 			</navPoint>
+			<navPoint playOrder="2648" id="song_dai_meng_fu_cheng_dou_yu_ju_guan">
+				<navLabel>
+					<text>送戴蒙赴成都玉局觀</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#song_dai_meng_fu_cheng_dou_yu_ju_guan"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
