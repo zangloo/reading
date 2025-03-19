@@ -7759,6 +7759,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#du_du_zi_mei_shi_han_wei"/>
 			</navPoint>
+			<navPoint playOrder="2653" id="du_zi_mei_ji">
+				<navLabel>
+					<text>讀子美集</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#du_zi_mei_ji"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
