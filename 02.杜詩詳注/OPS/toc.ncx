@@ -7783,6 +7783,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#wan_fan_huan_hua_sui_su_cao_tang"/>
 			</navPoint>
+			<navPoint playOrder="2657" id="cao_tang_shi_si_shou">
+				<navLabel>
+					<text>草堂詩四首</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#cao_tang_shi_si_shou"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
