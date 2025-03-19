@@ -7801,6 +7801,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#he_jia_xiang_gong_lan"/>
 			</navPoint>
+			<navPoint playOrder="2660" id="du_zi_mei">
+				<navLabel>
+					<text>杜子美</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#du_zi_mei"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
