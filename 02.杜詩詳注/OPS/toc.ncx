@@ -7747,6 +7747,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#ti_du_zi_mei_huan_hua_zui_tu"/>
 			</navPoint>
+			<navPoint playOrder="2651" id="ti_lao_du_ji">
+				<navLabel>
+					<text>題老杜集</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#ti_lao_du_ji"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
