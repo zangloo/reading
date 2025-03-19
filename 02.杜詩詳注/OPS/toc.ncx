@@ -7807,6 +7807,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#du_zi_mei"/>
 			</navPoint>
+			<navPoint playOrder="2661" id="du_gong_bu_ci">
+				<navLabel>
+					<text>杜工部祠</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#du_gong_bu_ci"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
