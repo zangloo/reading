@@ -7789,6 +7789,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#cao_tang_shi_si_shou"/>
 			</navPoint>
+			<navPoint playOrder="2658" id="tong_yang_yuan_che_you">
+				<navLabel>
+					<text>同楊元澈遊杜子美草堂</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#tong_yang_yuan_che_you"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
