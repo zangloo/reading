@@ -7825,6 +7825,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#guo_zi_mei_cao_tang"/>
 			</navPoint>
+			<navPoint playOrder="2664" id="jia_ling_jiang_guo_he_zhou">
+				<navLabel>
+					<text>嘉陵江過合州漢初縣下</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#jia_ling_jiang_guo_he_zhou"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
