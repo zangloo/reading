@@ -7861,6 +7861,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#du_du_shi"/>
 			</navPoint>
+			<navPoint playOrder="2670" id="ti_shao_ling_hua_tu_xiang">
+				<navLabel>
+					<text>題少陵畫圖像</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#ti_shao_ling_hua_tu_xiang"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
