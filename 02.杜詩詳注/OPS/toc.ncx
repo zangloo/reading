@@ -7909,6 +7909,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#zai_he_yun_long_ge"/>
 			</navPoint>
+			<navPoint playOrder="2678" id="ba_lu_wu_guan_jian_nan_shi_gao">
+				<navLabel>
+					<text>跋陸務觀劍南詩稿</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#ba_lu_wu_guan_jian_nan_shi_gao"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
