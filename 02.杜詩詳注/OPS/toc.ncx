@@ -7927,6 +7927,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#ti_lu_fang_wong_shi_juan_hou"/>
 			</navPoint>
+			<navPoint playOrder="2681" id="du_fu_fen">
+				<navLabel>
+					<text>杜甫墳</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#du_fu_fen"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
