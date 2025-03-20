@@ -7951,6 +7951,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#lun_shi_qi_jue"/>
 			</navPoint>
+			<navPoint playOrder="2685" id="lun_tang_song_shi_ti">
+				<navLabel>
+					<text>論唐宋詩體</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#lun_tang_song_shi_ti"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
