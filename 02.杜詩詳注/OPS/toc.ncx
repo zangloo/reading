@@ -7903,6 +7903,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#chang_ru_gong_du_du_shi"/>
 			</navPoint>
+			<navPoint playOrder="2677" id="zai_he_yun_long_ge">
+				<navLabel>
+					<text>再和雲龍歌留陸務觀西湖小集</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#zai_he_yun_long_ge"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
