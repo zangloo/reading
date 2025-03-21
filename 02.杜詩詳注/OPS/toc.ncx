@@ -7999,6 +7999,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#tong_jiang_ji_za_shu"/>
 			</navPoint>
+			<navPoint playOrder="2693" id="yi_shan_zhi_kou">
+				<navLabel>
+					<text>奕山值寇讀杜詩有感</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#yi_shan_zhi_kou"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
