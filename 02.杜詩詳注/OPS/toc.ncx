@@ -8035,6 +8035,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#wang_shu_shan_shui"/>
 			</navPoint>
+			<navPoint playOrder="2699" id="shi_tian_ji_za_yong">
+				<navLabel>
+					<text>石田集雜詠</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#shi_tian_ji_za_yong"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
