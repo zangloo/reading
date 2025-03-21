@@ -7987,6 +7987,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#du_fu_gu_li"/>
 			</navPoint>
+			<navPoint playOrder="2691" id="lao_du_zui_gui_tu_er_shou">
+				<navLabel>
+					<text>老杜醉歸圖二首</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#lao_du_zui_gui_tu_er_shou"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
