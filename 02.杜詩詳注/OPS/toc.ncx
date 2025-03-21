@@ -8047,6 +8047,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#shi_ping_wu_ze"/>
 			</navPoint>
+			<navPoint playOrder="2701" id="du_gong_bu_ci_song_wu">
+				<navLabel>
+					<text>杜工部祠</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#du_gong_bu_ci_song_wu"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
