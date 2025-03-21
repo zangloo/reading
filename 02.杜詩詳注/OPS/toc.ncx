@@ -8059,6 +8059,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#du_du_shi_yi_lao_wa_peng"/>
 			</navPoint>
+			<navPoint playOrder="2703" id="ti_du_fu_ma_xi">
+				<navLabel>
+					<text>題杜甫麻鞵見天子圖</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#ti_du_fu_ma_xi"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
