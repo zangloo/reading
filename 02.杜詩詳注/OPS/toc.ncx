@@ -8011,6 +8011,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#ti_du_ling_huan_hua_tu"/>
 			</navPoint>
+			<navPoint playOrder="2695" id="song_du_bo_yu_si_chuan_xing_sheng_dou_shi">
+				<navLabel>
+					<text>送杜伯玉四川行省都事</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#song_du_bo_yu_si_chuan_xing_sheng_dou_shi"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
