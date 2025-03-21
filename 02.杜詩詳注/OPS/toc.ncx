@@ -7993,6 +7993,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#lao_du_zui_gui_tu_er_shou"/>
 			</navPoint>
+			<navPoint playOrder="2692" id="tong_jiang_ji_za_shu">
+				<navLabel>
+					<text>桐江集雜書</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#tong_jiang_ji_za_shu"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
