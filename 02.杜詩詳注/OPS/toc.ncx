@@ -8017,6 +8017,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#song_du_bo_yu_si_chuan_xing_sheng_dou_shi"/>
 			</navPoint>
+			<navPoint playOrder="2696" id="jiu_ri">
+				<navLabel>
+					<text>九日</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#jiu_ri"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2700" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
