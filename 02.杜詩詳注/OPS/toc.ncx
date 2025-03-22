@@ -8173,6 +8173,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#you_du_gong_bu_cao_tang"/>
 			</navPoint>
+			<navPoint playOrder="2722" id="huan_hua_xi_na_liang">
+				<navLabel>
+					<text>浣花溪納涼</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#huan_hua_xi_na_liang"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
