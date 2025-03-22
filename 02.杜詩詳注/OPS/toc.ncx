@@ -8197,6 +8197,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#mong_du_shao_ling_zuo"/>
 			</navPoint>
+			<navPoint playOrder="2726" id="huan_hua_cao_tang_er_shou">
+				<navLabel>
+					<text>浣花草堂二首</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#huan_hua_cao_tang_er_shou"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
