@@ -8131,6 +8131,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#ti_du_shi_yi_xiang"/>
 			</navPoint>
+			<navPoint playOrder="2715" id="fan_zhou_huan_hua_dong_fu">
+				<navLabel>
+					<text>泛舟浣花東阜</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#fan_zhou_huan_hua_dong_fu"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
