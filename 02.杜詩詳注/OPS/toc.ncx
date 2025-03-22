@@ -8137,6 +8137,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#fan_zhou_huan_hua_dong_fu"/>
 			</navPoint>
+			<navPoint playOrder="2716" id="bai_hua_tan_song_ren_zhi_chu">
+				<navLabel>
+					<text>百花潭送人之楚</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#bai_hua_tan_song_ren_zhi_chu"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
