@@ -8083,6 +8083,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#yu_shan_cao_tang"/>
 			</navPoint>
+			<navPoint playOrder="2707" id="ye_wen_xie_tai_shi_du">
+				<navLabel>
+					<text>夜聞謝太史讀李杜詩</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#ye_wen_xie_tai_shi_du"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
