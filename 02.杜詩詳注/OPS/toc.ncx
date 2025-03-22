@@ -8089,6 +8089,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#ye_wen_xie_tai_shi_du"/>
 			</navPoint>
+			<navPoint playOrder="2708" id="ji_du_zi_mei_wen">
+				<navLabel>
+					<text>祭杜子美文</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#ji_du_zi_mei_wen"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
