@@ -8191,6 +8191,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#zhou_gong_xia_wei_yu_shu"/>
 			</navPoint>
+			<navPoint playOrder="2725" id="mong_du_shao_ling_zuo">
+				<navLabel>
+					<text>夢杜少陵作</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#mong_du_shao_ling_zuo"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
