@@ -8179,6 +8179,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#huan_hua_xi_na_liang"/>
 			</navPoint>
+			<navPoint playOrder="2723" id="tong_li_xiu_zhuan_gao_da_xing_yin_huan_hua_cao_tang">
+				<navLabel>
+					<text>同李修撰高大行飲浣花草堂</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#tong_li_xiu_zhuan_gao_da_xing_yin_huan_hua_cao_tang"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
