@@ -8185,6 +8185,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#tong_li_xiu_zhuan_gao_da_xing_yin_huan_hua_cao_tang"/>
 			</navPoint>
+			<navPoint playOrder="2724" id="zhou_gong_xia_wei_yu_shu">
+				<navLabel>
+					<text>周公瑕為予書浣花草亭碑寄謝</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#zhou_gong_xia_wei_yu_shu"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
