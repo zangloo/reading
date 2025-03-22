@@ -8221,6 +8221,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#du_qu_ye_zi_mei_xian_sheng_ci"/>
 			</navPoint>
+			<navPoint playOrder="2730" id="qing_zhou_qian_qian_yi">
+				<navLabel>
+					<text>秦州</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#qing_zhou_qian_qian_yi"/>
+			</navPoint>
 			<navPoint playOrder="2731" id="yong_du_wei_yi_jie">
 				<navLabel>
 					<text>咏杜</text>
