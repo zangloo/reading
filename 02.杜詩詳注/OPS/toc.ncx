@@ -8149,6 +8149,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#xi_chi"/>
 			</navPoint>
+			<navPoint playOrder="2718" id="chu_jian_meng">
+				<navLabel>
+					<text>出劍門</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#chu_jian_meng"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
