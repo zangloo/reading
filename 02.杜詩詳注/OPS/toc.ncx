@@ -8167,6 +8167,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#he_qian_ti"/>
 			</navPoint>
+			<navPoint playOrder="2721" id="you_du_gong_bu_cao_tang">
+				<navLabel>
+					<text>遊杜工部草堂</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#you_du_gong_bu_cao_tang"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
