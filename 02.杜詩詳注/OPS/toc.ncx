@@ -8125,6 +8125,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#bai_sha_lun_shi"/>
 			</navPoint>
+			<navPoint playOrder="2714" id="ti_du_shi_yi_xiang">
+				<navLabel>
+					<text>題杜拾遺像</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#ti_du_shi_yi_xiang"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
