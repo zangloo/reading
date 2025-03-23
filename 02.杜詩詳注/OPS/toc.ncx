@@ -8305,6 +8305,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#du_zi_mei_cao_tang_ti_ju"/>
 			</navPoint>
+			<navPoint playOrder="2744" id="jian_shao_ling_yi_xiang_you_gan">
+				<navLabel>
+					<text>見少陵遺像有感</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#jian_shao_ling_yi_xiang_you_gan"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
