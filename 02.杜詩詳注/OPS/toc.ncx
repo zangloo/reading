@@ -8299,6 +8299,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#du_shao_ling_zhai"/>
 			</navPoint>
+			<navPoint playOrder="2743" id="du_zi_mei_cao_tang_ti_ju">
+				<navLabel>
+					<text>杜子美草堂題句</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#du_zi_mei_cao_tang_ti_ju"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
