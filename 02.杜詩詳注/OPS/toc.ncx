@@ -8263,6 +8263,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#wong_yu_yu_suo_ti"/>
 			</navPoint>
+			<navPoint playOrder="2737" id="rang_xi_ye_shao_ling">
+				<navLabel>
+					<text>瀼西謁少陵先生祠</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#rang_xi_ye_shao_ling"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
