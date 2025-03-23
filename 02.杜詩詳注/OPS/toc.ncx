@@ -8335,6 +8335,18 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#lu_shu_zhui_huai"/>
 			</navPoint>
+			<navPoint playOrder="2749" id="xu_bian">
+				<navLabel>
+					<text>續編</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#xu_bian"/>
+			</navPoint>
+			<navPoint playOrder="2750" id="lei_yang_xi_ye_xing">
+				<navLabel>
+					<text>耒陽谿夜行</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#lei_yang_xi_ye_xing"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
