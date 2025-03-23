@@ -8287,6 +8287,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#deng_xia_du_du"/>
 			</navPoint>
+			<navPoint playOrder="2741" id="bai_di_cheng">
+				<navLabel>
+					<text>白帝城</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#bai_di_cheng"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
