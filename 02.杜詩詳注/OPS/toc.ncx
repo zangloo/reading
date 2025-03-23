@@ -8281,6 +8281,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#nan_chi"/>
 			</navPoint>
+			<navPoint playOrder="2740" id="deng_xia_du_du">
+				<navLabel>
+					<text>燈下讀杜</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#deng_xia_du_du"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
