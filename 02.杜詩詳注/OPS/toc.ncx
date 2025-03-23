@@ -8347,6 +8347,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#lei_yang_xi_ye_xing"/>
 			</navPoint>
+			<navPoint playOrder="2751" id="song_ke_you_shu">
+				<navLabel>
+					<text>送客遊蜀</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#song_ke_you_shu"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
