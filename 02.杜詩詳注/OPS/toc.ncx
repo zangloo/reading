@@ -8407,6 +8407,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#ci_he_cao_ci_xiao_hong_cui"/>
 			</navPoint>
+			<navPoint playOrder="2761" id="qi_er">
+				<navLabel>
+					<text>其二</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#qi_er"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
