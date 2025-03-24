@@ -8419,6 +8419,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#diao_lei_yang_du_mu"/>
 			</navPoint>
+			<navPoint playOrder="2763" id="gang_yin_liu_yue_zai_guo">
+				<navLabel>
+					<text>庚寅六月再過耒江謁杜工部墳</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#gang_yin_liu_yue_zai_guo"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
