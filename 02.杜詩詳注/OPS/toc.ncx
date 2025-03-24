@@ -8395,6 +8395,18 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#si_du_ting"/>
 			</navPoint>
+			<navPoint playOrder="2759" id="du_du_shi_wang_feng_yuan">
+				<navLabel>
+					<text>讀杜詩</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#du_du_shi_wang_feng_yuan"/>
+			</navPoint>
+			<navPoint playOrder="2760" id="ci_he_cao_ci_xiao_hong_cui">
+				<navLabel>
+					<text>次何漕司小紅翠亭韻</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#ci_he_cao_ci_xiao_hong_cui"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
