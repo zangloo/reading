@@ -8503,6 +8503,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#ti_li_bai_song_du_zi_mei"/>
 			</navPoint>
+			<navPoint playOrder="2776" id="du_shao_ling_qi_lu_xiao_ying">
+				<navLabel>
+					<text>杜少陵騎驢小影</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#du_shao_ling_qi_lu_xiao_ying"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
