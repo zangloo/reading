@@ -8491,6 +8491,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#xi_rang_du_shao_ling_ci"/>
 			</navPoint>
+			<navPoint playOrder="2774" id="du_shao_ling_ji_chen_ji_ru">
+				<navLabel>
+					<text>讀少陵集</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#du_shao_ling_ji_chen_ji_ru"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
