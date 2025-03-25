@@ -8497,6 +8497,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#du_shao_ling_ji_chen_ji_ru"/>
 			</navPoint>
+			<navPoint playOrder="2775" id="ti_li_bai_song_du_zi_mei">
+				<navLabel>
+					<text>題李白送别杜子美發魯郡圖</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#ti_li_bai_song_du_zi_mei"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
