@@ -8539,6 +8539,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#bai_du_shao_ling_cao_tang"/>
 			</navPoint>
+			<navPoint playOrder="2782" id="bu_cao_tang_bei_yun">
+				<navLabel>
+					<text>步草堂碑韻</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#bu_cao_tang_bei_yun"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
