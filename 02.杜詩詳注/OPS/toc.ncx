@@ -8461,6 +8461,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#gan_huai"/>
 			</navPoint>
+			<navPoint playOrder="2770" id="song_chen_xue_shi_yu_shu">
+				<navLabel>
+					<text>送陳學使玉叔之成都</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#song_chen_xue_shi_yu_shu"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
