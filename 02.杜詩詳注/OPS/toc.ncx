@@ -8509,6 +8509,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#du_shao_ling_qi_lu_xiao_ying"/>
 			</navPoint>
+			<navPoint playOrder="2777" id="song_huang_zi_yu_zhi_ren">
+				<navLabel>
+					<text>送黃子羽之任</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#song_huang_zi_yu_zhi_ren"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
