@@ -8551,6 +8551,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#yue_zhu_ren_tong_kan_cao_tang"/>
 			</navPoint>
+			<navPoint playOrder="2784" id="lu_de_shui_shi_yu_ji_du_ting_shi">
+				<navLabel>
+					<text>盧德水侍御寄杜亭詩</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#lu_de_shui_shi_yu_ji_du_ting_shi"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
