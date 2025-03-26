@@ -8611,6 +8611,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#du_du_shi_xiang_zhu_cheng_shi_gong"/>
 			</navPoint>
+			<navPoint playOrder="2794" id="du_du_shi_xiang_zhu_tian_yi">
+				<navLabel>
+					<text>讀杜詩詳註</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#du_du_shi_xiang_zhu_tian_yi"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
