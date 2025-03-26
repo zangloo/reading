@@ -8587,6 +8587,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#du_wen_zheng_gong_ci"/>
 			</navPoint>
+			<navPoint playOrder="2790" id="jiu_ri_xiu_she_shi">
+				<navLabel>
+					<text>九日袖杜詩獨登石子嶺</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#jiu_ri_xiu_she_shi"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
