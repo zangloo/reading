@@ -8593,6 +8593,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#jiu_ri_xiu_she_shi"/>
 			</navPoint>
+			<navPoint playOrder="2791" id="yi_huan_hua_xi_zuo">
+				<navLabel>
+					<text>憶浣花溪作</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#yi_huan_hua_xi_zuo"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
