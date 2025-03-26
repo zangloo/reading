@@ -8581,6 +8581,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#lei_yang_dao_zhong"/>
 			</navPoint>
+			<navPoint playOrder="2789" id="du_wen_zheng_gong_ci">
+				<navLabel>
+					<text>杜文貞公祠</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#du_wen_zheng_gong_ci"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
