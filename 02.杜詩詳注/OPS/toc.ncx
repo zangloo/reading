@@ -8557,6 +8557,12 @@
 				</navLabel>
 				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#lu_de_shui_shi_yu_ji_du_ting_shi"/>
 			</navPoint>
+			<navPoint playOrder="2785" id="tu_du_shao_ling_hua_xiang">
+				<navLabel>
+					<text>題杜少陵畫像</text>
+				</navLabel>
+				<content src="c27_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_shang.xhtml#tu_du_shao_ling_hua_xiang"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="2900" id="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia">
             <navLabel>
