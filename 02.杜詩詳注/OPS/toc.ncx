@@ -3615,7 +3615,7 @@
 			</navPoint>
 			<navPoint playOrder="1316" id="jiang_fu_jing_nan_ji_bie_li_jian_zhou">
 				<navLabel>
-					<text>將赴荆南寄别李劍州</text>
+					<text>將赴荊南寄别李劍州</text>
 				</navLabel>
 				<content src="c14_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan13.xhtml#jiang_fu_jing_nan_ji_bie_li_jian_zhou"/>
 			</navPoint>
@@ -5133,7 +5133,7 @@
 			</navPoint>
 			<navPoint playOrder="1827" id="jing_nan_bing_ma_shi">
 				<navLabel>
-					<text>荆南兵馬使太常卿趙公大食刀歌</text>
+					<text>荊南兵馬使太常卿趙公大食刀歌</text>
 				</navLabel>
 				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#jing_nan_bing_ma_shi"/>
 			</navPoint>
@@ -5169,7 +5169,7 @@
 			</navPoint>
 			<navPoint playOrder="1833" id="ceng">
 				<navLabel>
-					<text>送李功曹之荆州充鄭侍御判官重贈</text>
+					<text>送李功曹之荊州充鄭侍御判官重贈</text>
 				</navLabel>
 				<content src="c19_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan18.xhtml#ceng"/>
 			</navPoint>
@@ -5685,7 +5685,7 @@
 			</navPoint>
 			<navPoint playOrder="2008" id="dong_tun_fu">
 				<navLabel>
-					<text>自瀼西荆扉且移居東屯茅屋四首</text>
+					<text>自瀼西荊扉且移居東屯茅屋四首</text>
 				</navLabel>
 				<content src="c21_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan20.xhtml#dong_tun_fu"/>
 			</navPoint>
@@ -6375,13 +6375,13 @@
 			</navPoint>
 			<navPoint playOrder="2157" id="qiu_ri_jing_nan_shu_huai_san_shi_yun">
 				<navLabel>
-					<text>秋日荆南述懷三十韻</text>
+					<text>秋日荊南述懷三十韻</text>
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#qiu_ri_jing_nan_shu_huai_san_shi_yun"/>
 			</navPoint>
 			<navPoint playOrder="2158" id="wang_shu_feng_chen_xiang__">
 				<navLabel>
-					<text>秋日荆南送石首薛明府辭滿告别奉寄薛尚書頌德敘懷裴然之作三十韻</text>
+					<text>秋日荊南送石首薛明府辭滿告别奉寄薛尚書頌德敘懷裴然之作三十韻</text>
 				</navLabel>
 				<content src="c22_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan21.xhtml#wang_shu_feng_chen_xiang__"/>
 			</navPoint>
