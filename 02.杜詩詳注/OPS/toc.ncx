@@ -8629,6 +8629,12 @@
                 <text>杜詩補註卷下</text>
             </navLabel>
             <content src="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia.xhtml"/>
+			<navPoint playOrder="2901" id="zhu_jia_lun_du">
+				<navLabel>
+					<text>諸家論杜</text>
+				</navLabel>
+				<content src="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia.xhtml#zhu_jia_lun_du"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="5000" id="about">
             <navLabel>
