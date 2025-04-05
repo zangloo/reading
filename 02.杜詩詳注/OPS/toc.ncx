@@ -8635,6 +8635,12 @@
 				</navLabel>
 				<content src="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia.xhtml#zhu_jia_lun_du"/>
 			</navPoint>
+			<navPoint playOrder="2902" id="fu_jing_shu_biao">
+				<navLabel>
+					<text>附進書表</text>
+				</navLabel>
+				<content src="c28_du_shi_xiang_zhu__si_ku_quan_shu_ben__juan_xia.xhtml#fu_jing_shu_biao"/>
+			</navPoint>
         </navPoint>
         <navPoint playOrder="5000" id="about">
             <navLabel>
