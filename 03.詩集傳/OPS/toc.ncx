@@ -13,235 +13,241 @@
         <text></text>
     </docAuthor>
     <navMap>
-        <navPoint id="title" playOrder="1">
+        <navPoint playOrder="1" id="title">
             <navLabel>
                 <text>封面</text>
             </navLabel>
             <content src="title.xhtml"/>
         </navPoint>
-        <navPoint id="c0_shi_ji_chuan__si_ku_quan_shu_ben_" playOrder="2">
+        <navPoint playOrder="2" id="c0_shi_ji_chuan__si_ku_quan_shu_ben_">
             <navLabel>
                 <text>詩集傳 (四庫全書本)</text>
             </navLabel>
             <content src="c0_shi_ji_chuan__si_ku_quan_shu_ben_.xhtml"/>
         </navPoint>
-        <navPoint id="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1" playOrder="100">
+        <navPoint playOrder="100" id="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1">
             <navLabel>
                 <text>卷一</text>
             </navLabel>
             <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml"/>
-            <navPoint id="guo_feng_yi-n457" playOrder="101">
+            <navPoint playOrder="101" id="guo_feng_yi-n457">
                 <navLabel>
                     <text>國風一</text>
                 </navLabel>
                 <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#guo_feng_yi-n457"/>
-                <navPoint id="zhou_nan_yi_zhi_yi-n458" playOrder="102">
+            </navPoint>
+            <navPoint playOrder="102" id="zhou_nan_yi_zhi_yi-n458">
+                <navLabel>
+                    <text>周南一之一</text>
+                </navLabel>
+                <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#zhou_nan_yi_zhi_yi-n458"/>
+                <navPoint playOrder="103" id="guan_guan_ju-n459">
                     <navLabel>
-                        <text>周南一之一</text>
+                        <text>關雎</text>
                     </navLabel>
-                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#zhou_nan_yi_zhi_yi-n458"/>
-                    <navPoint id="guan_guan_ju-n459" playOrder="103">
-                        <navLabel>
-                            <text>關雎</text>
-                        </navLabel>
-                        <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#guan_guan_ju-n459"/>
-                    </navPoint>
-                    <navPoint id="ge_zhi_tan_xi_shi-n460" playOrder="104">
-                        <navLabel>
-                            <text>葛覃</text>
-                        </navLabel>
-                        <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#ge_zhi_tan_xi_shi-n460"/>
-                    </navPoint>
-                    <navPoint id="cai_cai_juan-n461" playOrder="105">
-                        <navLabel>
-                            <text>卷耳</text>
-                        </navLabel>
-                        <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#cai_cai_juan-n461"/>
-                    </navPoint>
-                    <navPoint id="nan_you_jiu-n463" playOrder="106">
-                        <navLabel>
-                            <text>樛木</text>
-                        </navLabel>
-                        <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#nan_you_jiu-n463"/>
-                    </navPoint>
-                    <navPoint id="zhong_si-n464" playOrder="107">
-                        <navLabel>
-                            <text>螽斯</text>
-                        </navLabel>
-                        <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#zhong_si-n464"/>
-                    </navPoint>
-                    <navPoint id="tao_zhi_yao_yao-n465" playOrder="108">
-                        <navLabel>
-                            <text>桃夭</text>
-                        </navLabel>
-                        <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#tao_zhi_yao_yao-n465"/>
-                    </navPoint>
-                    <navPoint id="su_su_tu_ju-n466" playOrder="109">
-                        <navLabel>
-                            <text>兔罝</text>
-                        </navLabel>
-                        <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#su_su_tu_ju-n466"/>
-                    </navPoint>
-                    <navPoint id="cai_cai_fu_yi-n468" playOrder="110">
-                        <navLabel>
-                            <text>芣苢</text>
-                        </navLabel>
-                        <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#cai_cai_fu_yi-n468"/>
-                    </navPoint>
-                    <navPoint id="nan_you_qiao_mu" playOrder="111">
-                        <navLabel>
-                            <text>漢廣</text>
-                        </navLabel>
-                        <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#nan_you_qiao_mu"/>
-                    </navPoint>
-                    <navPoint id="zun_bi_ru_fen" playOrder="112">
-                        <navLabel>
-                            <text>汝墳</text>
-                        </navLabel>
-                        <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#zun_bi_ru_fen"/>
-                    </navPoint>
-                    <navPoint id="lin_zhi_zhi" playOrder="113">
-                        <navLabel>
-                            <text>麟之趾</text>
-                        </navLabel>
-                        <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#lin_zhi_zhi"/>
-                    </navPoint>
+                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#guan_guan_ju-n459"/>
                 </navPoint>
-                <navPoint id="zhao_nan_yi_zhi_er-n472" playOrder="114">
+                <navPoint playOrder="104" id="ge_zhi_tan_xi_shi-n460">
                     <navLabel>
-                        <text>召南一之二</text>
+                        <text>葛覃</text>
                     </navLabel>
-                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#zhao_nan_yi_zhi_er-n472"/>
-	                <navPoint id="wei_que_you_chao_wei_jiu_ju-n473" playOrder="115">
-	                    <navLabel>
-	                        <text>鵲巢</text>
-	                    </navLabel>
-	                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#wei_que_you_chao_wei_jiu_ju-n473"/>
-	                </navPoint>
-	                <navPoint id="cai_fan" playOrder="116">
-	                    <navLabel>
-	                        <text>采蘩</text>
-	                    </navLabel>
-	                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#cai_fan"/>
-	                </navPoint>
-	                <navPoint id="cao_chong" playOrder="117">
-	                    <navLabel>
-	                        <text>草蟲</text>
-	                    </navLabel>
-	                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#cao_chong"/>
-	                </navPoint>
-	                <navPoint id="cai_ping" playOrder="118">
-	                    <navLabel>
-	                        <text>采蘋</text>
-	                    </navLabel>
-	                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#cai_ping"/>
-	                </navPoint>
-	                <navPoint id="gan_tang" playOrder="119">
-	                    <navLabel>
-	                        <text>甘棠</text>
-	                    </navLabel>
-	                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#gan_tang"/>
-	                </navPoint>
-	                <navPoint id="xing_lu" playOrder="120">
-	                    <navLabel>
-	                        <text>行露</text>
-	                    </navLabel>
-	                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#xing_lu"/>
-	                </navPoint>
-	                <navPoint id="gao_yang_zhi_pi-n479" playOrder="121">
-	                    <navLabel>
-	                        <text>羔羊</text>
-	                    </navLabel>
-	                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#gao_yang_zhi_pi-n479"/>
-	                </navPoint>
-	                <navPoint id="ying_qi_lei" playOrder="122">
-	                    <navLabel>
-	                        <text>殷其靁</text>
-	                    </navLabel>
-	                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#ying_qi_lei"/>
-	                </navPoint>
-	                <navPoint id="piao_you_mei" playOrder="123">
-	                    <navLabel>
-	                        <text>摽有梅</text>
-	                    </navLabel>
-	                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#piao_you_mei"/>
-	                </navPoint>
-	                <navPoint id="xiao_xing" playOrder="124">
-	                    <navLabel>
-	                        <text>小星</text>
-	                    </navLabel>
-	                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#xiao_xing"/>
-	                </navPoint>
-	                <navPoint id="jiang_you_si-n484" playOrder="125">
-	                    <navLabel>
-	                        <text>江有汜</text>
-	                    </navLabel>
-	                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#jiang_you_si-n484"/>
-	                </navPoint>
-	                <navPoint id="ye_you_si_jun-n486" playOrder="126">
-	                    <navLabel>
-	                        <text>野有死麕</text>
-	                    </navLabel>
-	                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#ye_you_si_jun-n486"/>
-	                </navPoint>
-	                <navPoint id="he_bi_nong-n487" playOrder="127">
-	                    <navLabel>
-	                        <text>何彼穠矣</text>
-	                    </navLabel>
-	                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#he_bi_nong-n487"/>
-	                </navPoint>
-	                <navPoint id="zou_yu" playOrder="128">
-	                    <navLabel>
-	                        <text>騶虞</text>
-	                    </navLabel>
-	                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#zou_yu"/>
-	                </navPoint>
+                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#ge_zhi_tan_xi_shi-n460"/>
+                </navPoint>
+                <navPoint playOrder="105" id="cai_cai_juan-n461">
+                    <navLabel>
+                        <text>卷耳</text>
+                    </navLabel>
+                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#cai_cai_juan-n461"/>
+                </navPoint>
+                <navPoint playOrder="106" id="nan_you_jiu-n463">
+                    <navLabel>
+                        <text>樛木</text>
+                    </navLabel>
+                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#nan_you_jiu-n463"/>
+                </navPoint>
+                <navPoint playOrder="107" id="zhong_si-n464">
+                    <navLabel>
+                        <text>螽斯</text>
+                    </navLabel>
+                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#zhong_si-n464"/>
+                </navPoint>
+                <navPoint playOrder="108" id="tao_zhi_yao_yao-n465">
+                    <navLabel>
+                        <text>桃夭</text>
+                    </navLabel>
+                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#tao_zhi_yao_yao-n465"/>
+                </navPoint>
+                <navPoint playOrder="109" id="su_su_tu_ju-n466">
+                    <navLabel>
+                        <text>兔罝</text>
+                    </navLabel>
+                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#su_su_tu_ju-n466"/>
+                </navPoint>
+                <navPoint playOrder="110" id="cai_cai_fu_yi-n468">
+                    <navLabel>
+                        <text>芣苢</text>
+                    </navLabel>
+                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#cai_cai_fu_yi-n468"/>
+                </navPoint>
+                <navPoint playOrder="111" id="nan_you_qiao_mu">
+                    <navLabel>
+                        <text>漢廣</text>
+                    </navLabel>
+                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#nan_you_qiao_mu"/>
+                </navPoint>
+                <navPoint playOrder="112" id="zun_bi_ru_fen">
+                    <navLabel>
+                        <text>汝墳</text>
+                    </navLabel>
+                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#zun_bi_ru_fen"/>
+                </navPoint>
+                <navPoint playOrder="113" id="lin_zhi_zhi">
+                    <navLabel>
+                        <text>麟之趾</text>
+                    </navLabel>
+                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#lin_zhi_zhi"/>
+                </navPoint>
+            </navPoint>
+            <navPoint playOrder="114" id="zhao_nan_yi_zhi_er-n472">
+                <navLabel>
+                    <text>召南一之二</text>
+                </navLabel>
+                <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#zhao_nan_yi_zhi_er-n472"/>
+                <navPoint playOrder="115" id="wei_que_you_chao_wei_jiu_ju-n473">
+                    <navLabel>
+                        <text>鵲巢</text>
+                    </navLabel>
+                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#wei_que_you_chao_wei_jiu_ju-n473"/>
+                </navPoint>
+                <navPoint playOrder="116" id="cai_fan">
+                    <navLabel>
+                        <text>采蘩</text>
+                    </navLabel>
+                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#cai_fan"/>
+                </navPoint>
+                <navPoint playOrder="117" id="cao_chong">
+                    <navLabel>
+                        <text>草蟲</text>
+                    </navLabel>
+                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#cao_chong"/>
+                </navPoint>
+                <navPoint playOrder="118" id="cai_ping">
+                    <navLabel>
+                        <text>采蘋</text>
+                    </navLabel>
+                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#cai_ping"/>
+                </navPoint>
+                <navPoint playOrder="119" id="gan_tang">
+                    <navLabel>
+                        <text>甘棠</text>
+                    </navLabel>
+                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#gan_tang"/>
+                </navPoint>
+                <navPoint playOrder="120" id="xing_lu">
+                    <navLabel>
+                        <text>行露</text>
+                    </navLabel>
+                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#xing_lu"/>
+                </navPoint>
+                <navPoint playOrder="121" id="gao_yang_zhi_pi-n479">
+                    <navLabel>
+                        <text>羔羊</text>
+                    </navLabel>
+                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#gao_yang_zhi_pi-n479"/>
+                </navPoint>
+                <navPoint playOrder="122" id="ying_qi_lei">
+                    <navLabel>
+                        <text>殷其靁</text>
+                    </navLabel>
+                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#ying_qi_lei"/>
+                </navPoint>
+                <navPoint playOrder="123" id="piao_you_mei">
+                    <navLabel>
+                        <text>摽有梅</text>
+                    </navLabel>
+                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#piao_you_mei"/>
+                </navPoint>
+                <navPoint playOrder="124" id="xiao_xing">
+                    <navLabel>
+                        <text>小星</text>
+                    </navLabel>
+                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#xiao_xing"/>
+                </navPoint>
+                <navPoint playOrder="125" id="jiang_you_si-n484">
+                    <navLabel>
+                        <text>江有汜</text>
+                    </navLabel>
+                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#jiang_you_si-n484"/>
+                </navPoint>
+                <navPoint playOrder="126" id="ye_you_si_jun-n486">
+                    <navLabel>
+                        <text>野有死麕</text>
+                    </navLabel>
+                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#ye_you_si_jun-n486"/>
+                </navPoint>
+                <navPoint playOrder="127" id="he_bi_nong-n487">
+                    <navLabel>
+                        <text>何彼穠矣</text>
+                    </navLabel>
+                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#he_bi_nong-n487"/>
+                </navPoint>
+                <navPoint playOrder="128" id="zou_yu">
+                    <navLabel>
+                        <text>騶虞</text>
+                    </navLabel>
+                    <content src="c1_shi_ji_chuan__si_ku_quan_shu_ben__juan1.xhtml#zou_yu"/>
                 </navPoint>
             </navPoint>
         </navPoint>
-        <navPoint id="c3_shi_ji_chuan__si_ku_quan_shu_ben__juan2" playOrder="200">
+        <navPoint playOrder="200" id="c3_shi_ji_chuan__si_ku_quan_shu_ben__juan2">
             <navLabel>
                 <text>卷二</text>
             </navLabel>
             <content src="c3_shi_ji_chuan__si_ku_quan_shu_ben__juan2.xhtml"/>
+            <navPoint playOrder="201" id="bei_yi_zhi_san-n491">
+                <navLabel>
+                    <text>邶一之三</text>
+                </navLabel>
+                <content src="c3_shi_ji_chuan__si_ku_quan_shu_ben__juan2.xhtml#bei_yi_zhi_san-n491"/>
+            </navPoint>
         </navPoint>
-        <navPoint id="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3" playOrder="300">
+        <navPoint playOrder="300" id="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3">
             <navLabel>
                 <text>卷三</text>
             </navLabel>
             <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml"/>
         </navPoint>
-        <navPoint id="c5_shi_ji_chuan__si_ku_quan_shu_ben__juan4" playOrder="400">
+        <navPoint playOrder="400" id="c5_shi_ji_chuan__si_ku_quan_shu_ben__juan4">
             <navLabel>
                 <text>卷四</text>
             </navLabel>
             <content src="c5_shi_ji_chuan__si_ku_quan_shu_ben__juan4.xhtml"/>
         </navPoint>
-        <navPoint id="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5" playOrder="500">
+        <navPoint playOrder="500" id="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5">
             <navLabel>
                 <text>卷五</text>
             </navLabel>
             <content src="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5.xhtml"/>
         </navPoint>
-        <navPoint id="c7_shi_ji_chuan__si_ku_quan_shu_ben__juan6" playOrder="600">
+        <navPoint playOrder="600" id="c7_shi_ji_chuan__si_ku_quan_shu_ben__juan6">
             <navLabel>
                 <text>巻六</text>
             </navLabel>
             <content src="c7_shi_ji_chuan__si_ku_quan_shu_ben__juan6.xhtml"/>
         </navPoint>
-        <navPoint id="c8_shi_ji_chuan__si_ku_quan_shu_ben__juan7" playOrder="700">
+        <navPoint playOrder="700" id="c8_shi_ji_chuan__si_ku_quan_shu_ben__juan7">
             <navLabel>
                 <text>卷七</text>
             </navLabel>
             <content src="c8_shi_ji_chuan__si_ku_quan_shu_ben__juan7.xhtml"/>
         </navPoint>
-        <navPoint id="c9_shi_ji_chuan__si_ku_quan_shu_ben__juan8" playOrder="800">
+        <navPoint playOrder="800" id="c9_shi_ji_chuan__si_ku_quan_shu_ben__juan8">
             <navLabel>
                 <text>卷八</text>
             </navLabel>
             <content src="c9_shi_ji_chuan__si_ku_quan_shu_ben__juan8.xhtml"/>
         </navPoint>
-        <navPoint id="about" playOrder="900">
+        <navPoint playOrder="900" id="about">
             <navLabel>
                 <text>关于</text>
             </navLabel>
