@@ -311,6 +311,12 @@
                     </navLabel>
                     <content src="c3_shi_ji_chuan__si_ku_quan_shu_ben__juan2.xhtml#jing_nu_san_zhang_zhang_si_ju-n515"/>
                 </navPoint>
+                <navPoint playOrder="219" id="xin_tai_san_zhang_zhang_si_ju-n516">
+                    <navLabel>
+                        <text>新臺</text>
+                    </navLabel>
+                    <content src="c3_shi_ji_chuan__si_ku_quan_shu_ben__juan2.xhtml#xin_tai_san_zhang_zhang_si_ju-n516"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="300" id="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3">
