@@ -341,6 +341,12 @@
                     </navLabel>
                     <content src="c3_shi_ji_chuan__si_ku_quan_shu_ben__juan2.xhtml#qiang_you_ci_san_zhang_zhang_liu_ju-n522"/>
                 </navPoint>
+                <navPoint playOrder="224" id="jun_zi_xie_lao_fu_ji_liu_jia-n523">
+                    <navLabel>
+                        <text>君子偕老</text>
+                    </navLabel>
+                    <content src="c3_shi_ji_chuan__si_ku_quan_shu_ben__juan2.xhtml#jun_zi_xie_lao_fu_ji_liu_jia-n523"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="300" id="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3">
