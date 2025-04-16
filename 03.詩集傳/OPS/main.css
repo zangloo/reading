@@ -44,8 +44,16 @@ div.tleft {
 	margin: 0.5em 1.4em 0.8em 0;
 }
 
-.small {
-	font-size: 94%;
+p {
+    font-family: fangsong;
+    font-size: x-large;
+}
+
+small {
+    color :red;
+    font-family: Kaiti;
+    font-size: medium;
+    display: unset;
 }
 
 /* Styles simplified from resources/src/mediawiki.skinning/content.media-common.less */
