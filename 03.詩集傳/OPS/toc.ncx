@@ -401,6 +401,12 @@
                     </navLabel>
                     <content src="c3_shi_ji_chuan__si_ku_quan_shu_ben__juan2.xhtml#qi_ao_san_zhang_zhang_jiu_ju-n536"/>
                 </navPoint>
+                <navPoint playOrder="234" id="kao_pan_zai_jian-n537">
+                    <navLabel>
+                        <text>考槃</text>
+                    </navLabel>
+                    <content src="c3_shi_ji_chuan__si_ku_quan_shu_ben__juan2.xhtml#kao_pan_zai_jian-n537"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="300" id="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3">
