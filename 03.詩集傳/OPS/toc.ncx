@@ -449,6 +449,12 @@
                     </navLabel>
                     <content src="c3_shi_ji_chuan__si_ku_quan_shu_ben__juan2.xhtml#you_hu_san_zhang_zhang_si_ju-n546"/>
                 </navPoint>
+                <navPoint playOrder="242" id="mu_gua_san_zhang_zhang_si_ju-n547">
+                    <navLabel>
+                        <text>木瓜</text>
+                    </navLabel>
+                    <content src="c3_shi_ji_chuan__si_ku_quan_shu_ben__juan2.xhtml#mu_gua_san_zhang_zhang_si_ju-n547"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="300" id="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3">
