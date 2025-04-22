@@ -485,6 +485,12 @@
                     </navLabel>
                     <content src="c3_shi_ji_chuan__si_ku_quan_shu_ben__juan2.xhtml#yang_zhi_shui_san_zhang_zhang_liu_ju-n553"/>
                 </navPoint>
+                <navPoint playOrder="248" id="zhong_gu_you_tui-n554">
+                    <navLabel>
+                        <text>中谷有蓷</text>
+                    </navLabel>
+                    <content src="c3_shi_ji_chuan__si_ku_quan_shu_ben__juan2.xhtml#zhong_gu_you_tui-n554"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="300" id="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3">
