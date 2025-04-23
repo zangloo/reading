@@ -545,6 +545,12 @@
                     </navLabel>
                     <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#jiang-n564"/>
                 </navPoint>
+                <navPoint playOrder="304" id="shu_yu_tian_san_zhang_zhang_wu_ju-n566">
+                    <navLabel>
+                        <text>叔于田</text>
+                    </navLabel>
+                    <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#shu_yu_tian_san_zhang_zhang_wu_ju-n566"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="400" id="c5_shi_ji_chuan__si_ku_quan_shu_ben__juan4">
