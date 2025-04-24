@@ -581,6 +581,12 @@
                     </navLabel>
                     <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#nu_yue_ji_ming_san_zhang_zhang_liu_ju-n572"/>
                 </navPoint>
+                <navPoint playOrder="310" id="you_nu_tong_che_er_zhang_zhang_liu_ju-n573">
+                    <navLabel>
+                        <text>有女同車</text>
+                    </navLabel>
+                    <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#you_nu_tong_che_er_zhang_zhang_liu_ju-n573"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="400" id="c5_shi_ji_chuan__si_ku_quan_shu_ben__juan4">
