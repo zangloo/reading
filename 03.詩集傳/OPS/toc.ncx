@@ -563,6 +563,12 @@
                     </navLabel>
                     <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#qing_ren_zai_peng-n567"/>
                 </navPoint>
+                <navPoint playOrder="307" id="gao_qiu_ru_ru-n569">
+                    <navLabel>
+                        <text>羔裘</text>
+                    </navLabel>
+                    <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#gao_qiu_ru_ru-n569"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="400" id="c5_shi_ji_chuan__si_ku_quan_shu_ben__juan4">
