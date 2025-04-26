@@ -677,6 +677,12 @@
                     </navLabel>
                     <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#hai_san_zhang_zhang_si_ju-n588"/>
                 </navPoint>
+                <navPoint playOrder="326" id="zhe_san_zhang_zhang_san_ju-n589">
+                    <navLabel>
+                        <text>著</text>
+                    </navLabel>
+                    <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#zhe_san_zhang_zhang_san_ju-n589"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="400" id="c5_shi_ji_chuan__si_ku_quan_shu_ben__juan4">
