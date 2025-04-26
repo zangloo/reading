@@ -671,6 +671,12 @@
                     </navLabel>
                     <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#ji_ji_ming_yi_chao-n586"/>
                 </navPoint>
+                <navPoint playOrder="325" id="hai_san_zhang_zhang_si_ju-n588">
+                    <navLabel>
+                        <text>還</text>
+                    </navLabel>
+                    <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#hai_san_zhang_zhang_si_ju-n588"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="400" id="c5_shi_ji_chuan__si_ku_quan_shu_ben__juan4">
