@@ -665,6 +665,12 @@
                     <text>齊一之八</text>
                 </navLabel>
                 <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#qi_yi_zhi_ba-n585"/>
+                <navPoint playOrder="324" id="ji_ji_ming_yi_chao-n586">
+                    <navLabel>
+                        <text>雞鳴</text>
+                    </navLabel>
+                    <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#ji_ji_ming_yi_chao-n586"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="400" id="c5_shi_ji_chuan__si_ku_quan_shu_ben__juan4">
