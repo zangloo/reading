@@ -641,6 +641,12 @@
                     </navLabel>
                     <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#yang_zi_shui-n581"/>
                 </navPoint>
+                <navPoint playOrder="320" id="chu_qi_dong_men_er_zhang_zhang_liu_ju-n582">
+                    <navLabel>
+                        <text>出其東門</text>
+                    </navLabel>
+                    <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#chu_qi_dong_men_er_zhang_zhang_liu_ju-n582"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="400" id="c5_shi_ji_chuan__si_ku_quan_shu_ben__juan4">
