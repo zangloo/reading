@@ -635,6 +635,12 @@
                     </navLabel>
                     <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#zi_jin_san_zhang_zhang_si_ju-n581"/>
                 </navPoint>
+                <navPoint playOrder="319" id="yang_zi_shui-n581">
+                    <navLabel>
+                        <text>揚之水</text>
+                    </navLabel>
+                    <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#yang_zi_shui-n581"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="400" id="c5_shi_ji_chuan__si_ku_quan_shu_ben__juan4">
