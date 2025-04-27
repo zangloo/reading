@@ -707,6 +707,12 @@
                     </navLabel>
                     <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#wu_tian-n593"/>
                 </navPoint>
+                <navPoint playOrder="331" id="lu_ling_san_zhang_zhang_er_ju-n595">
+                    <navLabel>
+                        <text>盧令</text>
+                    </navLabel>
+                    <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#lu_ling_san_zhang_zhang_er_ju-n595"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="400" id="c5_shi_ji_chuan__si_ku_quan_shu_ben__juan4">
