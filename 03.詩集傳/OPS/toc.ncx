@@ -743,6 +743,12 @@
                     </navLabel>
                     <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#jiu_jiu-n602"/>
                 </navPoint>
+                <navPoint playOrder="337" id="bi_fen-n604">
+                    <navLabel>
+                        <text>汾沮洳</text>
+                    </navLabel>
+                    <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#bi_fen-n604"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="400" id="c5_shi_ji_chuan__si_ku_quan_shu_ben__juan4">
