@@ -737,6 +737,12 @@
                     <text>魏一之九</text>
                 </navLabel>
                 <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#wei_yi_zhi_jiu-n601"/>
+                <navPoint playOrder="336" id="jiu_jiu-n602">
+                    <navLabel>
+                        <text>葛屨</text>
+                    </navLabel>
+                    <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#jiu_jiu-n602"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="400" id="c5_shi_ji_chuan__si_ku_quan_shu_ben__juan4">
