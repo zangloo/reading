@@ -767,6 +767,12 @@
                     </navLabel>
                     <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#shi_mu_zhi_xian_er_zhang_zhang_san_ju-n608"/>
                 </navPoint>
+                <navPoint playOrder="341" id="fa_tan_san_zhang_zhang_jiu_ju-n609">
+                    <navLabel>
+                        <text>伐檀</text>
+                    </navLabel>
+                    <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#fa_tan_san_zhang_zhang_jiu_ju-n609"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="400" id="c5_shi_ji_chuan__si_ku_quan_shu_ben__juan4">
