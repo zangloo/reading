@@ -803,6 +803,12 @@
                     </navLabel>
                     <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#yang_zhi_shui-n614"/>
                 </navPoint>
+                <navPoint playOrder="347" id="jiao_liao_zhi_shi_fan_yan_ying_sheng_bi_qi-n615">
+                    <navLabel>
+                        <text>椒聊</text>
+                    </navLabel>
+                    <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#jiao_liao_zhi_shi_fan_yan_ying_sheng_bi_qi-n615"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="400" id="c5_shi_ji_chuan__si_ku_quan_shu_ben__juan4">
