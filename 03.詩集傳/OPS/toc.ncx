@@ -833,6 +833,12 @@
                     </navLabel>
                     <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#su_su_bao_yu_ji_yu_bao_xu-n620"/>
                 </navPoint>
+                <navPoint playOrder="352" id="wu_yi_er_zhang_zhang_san_ju-n622">
+                    <navLabel>
+                        <text>無衣</text>
+                    </navLabel>
+                    <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#wu_yi_er_zhang_zhang_san_ju-n622"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="400" id="c5_shi_ji_chuan__si_ku_quan_shu_ben__juan4">
