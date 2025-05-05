@@ -953,6 +953,12 @@
                     </navLabel>
                     <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#dong_men_zhi_chi_san_zhang_zhang_si_ju-n641"/>
                 </navPoint>
+                <navPoint playOrder="371" id="dong_men_zhi_yang_er_zhang_zhang_si_ju-n642">
+                    <navLabel>
+                        <text>東門之楊</text>
+                    </navLabel>
+                    <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#dong_men_zhi_yang_er_zhang_zhang_si_ju-n642"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="400" id="c5_shi_ji_chuan__si_ku_quan_shu_ben__juan4">
