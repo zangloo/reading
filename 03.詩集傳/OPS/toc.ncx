@@ -917,6 +917,12 @@
                     </navLabel>
                     <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#wei_yang-n634"/>
                 </navPoint>
+                <navPoint playOrder="366" id="quan_yu_er_zhang_zhang_wu_ju-n635">
+                    <navLabel>
+                        <text>權輿</text>
+                    </navLabel>
+                    <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#quan_yu_er_zhang_zhang_wu_ju-n635"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="400" id="c5_shi_ji_chuan__si_ku_quan_shu_ben__juan4">
