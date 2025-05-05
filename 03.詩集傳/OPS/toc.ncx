@@ -947,6 +947,12 @@
                     </navLabel>
                     <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#heng_men_san_zhang_zhang_si_ju-n640"/>
                 </navPoint>
+                <navPoint playOrder="370" id="dong_men_zhi_chi_san_zhang_zhang_si_ju-n641">
+                    <navLabel>
+                        <text>東門之池</text>
+                    </navLabel>
+                    <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#dong_men_zhi_chi_san_zhang_zhang_si_ju-n641"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="400" id="c5_shi_ji_chuan__si_ku_quan_shu_ben__juan4">
