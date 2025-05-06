@@ -971,6 +971,12 @@
                     </navLabel>
                     <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#fang_you_que_chao_er_zhang_zhang_si_ju-n644"/>
                 </navPoint>
+                <navPoint playOrder="374" id="yue_chu_san_zhang_zhang_si_ju-n645">
+                    <navLabel>
+                        <text>月出</text>
+                    </navLabel>
+                    <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#yue_chu_san_zhang_zhang_si_ju-n645"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="400" id="c5_shi_ji_chuan__si_ku_quan_shu_ben__juan4">
