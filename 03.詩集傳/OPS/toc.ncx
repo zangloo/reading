@@ -1050,6 +1050,12 @@
                     <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#xia_quan-n659"/>
                 </navPoint>
             </navPoint>
+            <navPoint playOrder="387" id="bing_guo-n655">
+                <navLabel>
+                    <text>豳一之十五</text>
+                </navLabel>
+                <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#bing_guo-n655"/>
+            </navPoint>
         </navPoint>
         <navPoint playOrder="400" id="c5_shi_ji_chuan__si_ku_quan_shu_ben__juan4">
             <navLabel>
