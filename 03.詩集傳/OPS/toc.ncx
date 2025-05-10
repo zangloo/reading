@@ -1067,6 +1067,12 @@
                     </navLabel>
                     <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#chi_xiao_chi_xiao_ji_qu_wo_zi-n663"/>
                 </navPoint>
+                <navPoint playOrder="390" id="wo_cu_dong_shan_tao_tao-n665">
+                    <navLabel>
+                        <text>東山</text>
+                    </navLabel>
+                    <content src="c4_shi_ji_chuan__si_ku_quan_shu_ben__juan3.xhtml#wo_cu_dong_shan_tao_tao-n665"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="400" id="c5_shi_ji_chuan__si_ku_quan_shu_ben__juan4">
