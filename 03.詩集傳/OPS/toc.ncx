@@ -1145,6 +1145,12 @@
                     </navLabel>
                     <content src="c5_shi_ji_chuan__si_ku_quan_shu_ben__juan4.xhtml#fa_mu_ding_ding-n684"/>
                 </navPoint>
+                <navPoint playOrder="408" id="tian_bao_ding_er_yi_kong_zhi_gu_bi_er_dan-n686">
+                    <navLabel>
+                        <text>天保</text>
+                    </navLabel>
+                    <content src="c5_shi_ji_chuan__si_ku_quan_shu_ben__juan4.xhtml#tian_bao_ding_er_yi_kong_zhi_gu_bi_er_dan-n686"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="500" id="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5">
