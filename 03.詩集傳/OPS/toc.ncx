@@ -1181,6 +1181,12 @@
                     <text>白華之什二之二</text>
                 </navLabel>
                 <content src="c5_shi_ji_chuan__si_ku_quan_shu_ben__juan4.xhtml#bai_hua_zhi_shen_er_zhi_er-n692"/>
+                <navPoint playOrder="414" id="bai_hua-n693">
+                    <navLabel>
+                        <text>白華</text>
+                    </navLabel>
+                    <content src="c5_shi_ji_chuan__si_ku_quan_shu_ben__juan4.xhtml#bai_hua-n693"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="500" id="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5">
