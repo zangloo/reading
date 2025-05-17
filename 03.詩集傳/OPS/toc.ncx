@@ -1229,6 +1229,12 @@
                     </navLabel>
                     <content src="c5_shi_ji_chuan__si_ku_quan_shu_ben__juan4.xhtml#you_yi-n702"/>
                 </navPoint>
+                <navPoint playOrder="422" id="liao-n703">
+                    <navLabel>
+                        <text>蓼蕭</text>
+                    </navLabel>
+                    <content src="c5_shi_ji_chuan__si_ku_quan_shu_ben__juan4.xhtml#liao-n703"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="500" id="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5">
