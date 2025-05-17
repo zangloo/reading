@@ -1259,6 +1259,12 @@
                     </navLabel>
                     <content src="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5.xhtml#tong_gong_san_zhang_zhang_liu_ju-n707"/>
                 </navPoint>
+                <navPoint playOrder="503" id="jing_jing-n708">
+                    <navLabel>
+                        <text>菁菁者莪</text>
+                    </navLabel>
+                    <content src="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5.xhtml#jing_jing-n708"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="600" id="c7_shi_ji_chuan__si_ku_quan_shu_ben__juan6">
