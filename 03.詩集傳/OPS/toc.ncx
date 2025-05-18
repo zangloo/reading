@@ -1277,6 +1277,12 @@
                     </navLabel>
                     <content src="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5.xhtml#cai_qi_si_zhang_zhang_shi_er_ju-n711"/>
                 </navPoint>
+                <navPoint playOrder="506" id="wo_che-n711">
+                    <navLabel>
+                        <text>車攻</text>
+                    </navLabel>
+                    <content src="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5.xhtml#wo_che-n711"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="600" id="c7_shi_ji_chuan__si_ku_quan_shu_ben__juan6">
