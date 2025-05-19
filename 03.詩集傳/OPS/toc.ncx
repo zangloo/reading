@@ -1314,6 +1314,18 @@
                     <content src="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5.xhtml#he_ming_yu_jiu_gao_sheng_wen-n716"/>
                 </navPoint>
             </navPoint>
+            <navPoint playOrder="512" id="qi_fu_zhi_shen_er_zhi_si-n718">
+                <navLabel>
+                    <text>祈父之什二之四</text>
+                </navLabel>
+                <content src="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5.xhtml#qi_fu_zhi_shen_er_zhi_si-n718"/>
+                <navPoint playOrder="513" id="qi_fu_san_zhang_zhang_si_ju-n719">
+                    <navLabel>
+                        <text>祈父</text>
+                    </navLabel>
+                    <content src="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5.xhtml#qi_fu_san_zhang_zhang_si_ju-n719"/>
+                </navPoint>
+            </navPoint>
         </navPoint>
         <navPoint playOrder="600" id="c7_shi_ji_chuan__si_ku_quan_shu_ben__juan6">
             <navLabel>
