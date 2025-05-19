@@ -1295,6 +1295,12 @@
                     </navLabel>
                     <content src="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5.xhtml#hong_yan_san_zhang_zhang_liu_ju-n714"/>
                 </navPoint>
+                <navPoint playOrder="509" id="ting_liao_san_zhang_zhang_wu_ju-n715">
+                    <navLabel>
+                        <text>庭燎</text>
+                    </navLabel>
+                    <content src="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5.xhtml#ting_liao_san_zhang_zhang_wu_ju-n715"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="600" id="c7_shi_ji_chuan__si_ku_quan_shu_ben__juan6">
