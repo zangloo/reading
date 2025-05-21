@@ -1343,6 +1343,12 @@
                     </navLabel>
                     <content src="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5.xhtml#wo_xing_qi_ye_bi_fei-n722"/>
                 </navPoint>
+                <navPoint playOrder="517" id="zhi_zhi_si_gan-n724">
+                    <navLabel>
+                        <text>斯干</text>
+                    </navLabel>
+                    <content src="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5.xhtml#zhi_zhi_si_gan-n724"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="600" id="c7_shi_ji_chuan__si_ku_quan_shu_ben__juan6">
