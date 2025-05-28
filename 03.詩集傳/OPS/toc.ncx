@@ -1427,6 +1427,12 @@
                     </navLabel>
                     <content src="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5.xhtml#gu_feng_san_zhang_zhang_liu_ju-n738"/>
                 </navPoint>
+                <navPoint playOrder="531" id="liao_wu-n738">
+                    <navLabel>
+                        <text>蓼莪</text>
+                    </navLabel>
+                    <content src="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5.xhtml#liao_wu-n738"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="600" id="c7_shi_ji_chuan__si_ku_quan_shu_ben__juan6">
