@@ -1446,6 +1446,18 @@
                     <content src="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5.xhtml#si_yue_ba_zhang_zhang_si_ju-n741"/>
                 </navPoint>
             </navPoint>
+            <navPoint playOrder="534" id="bei_shan_zhi_shen_er_zhi_liu-n742">
+                <navLabel>
+                    <text>北山之什二之六</text>
+                </navLabel>
+                <content src="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5.xhtml#bei_shan_zhi_shen_er_zhi_liu-n742"/>
+                <navPoint playOrder="535" id="bei_shan-n742">
+                    <navLabel>
+                        <text>北山</text>
+                    </navLabel>
+                    <content src="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5.xhtml#bei_shan-n742"/>
+                </navPoint>
+            </navPoint>
         </navPoint>
         <navPoint playOrder="600" id="c7_shi_ji_chuan__si_ku_quan_shu_ben__juan6">
             <navLabel>
