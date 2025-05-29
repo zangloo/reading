@@ -1439,6 +1439,12 @@
                     </navLabel>
                     <content src="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5.xhtml#you_meng-n739"/>
                 </navPoint>
+                <navPoint playOrder="533" id="si_yue_ba_zhang_zhang_si_ju-n741">
+                    <navLabel>
+                        <text>四月</text>
+                    </navLabel>
+                    <content src="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5.xhtml#si_yue_ba_zhang_zhang_si_ju-n741"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="600" id="c7_shi_ji_chuan__si_ku_quan_shu_ben__juan6">
