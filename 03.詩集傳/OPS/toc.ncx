@@ -1481,6 +1481,12 @@
                     </navLabel>
                     <content src="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5.xhtml#chu_ci_liu_zhang_zhang_shi_er_ju-n747"/>
                 </navPoint>
+                <navPoint playOrder="540" id="xin_bi_nan_shan_wei_yu_dian-n748">
+                    <navLabel>
+                        <text>信南山</text>
+                    </navLabel>
+                    <content src="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5.xhtml#xin_bi_nan_shan_wei_yu_dian-n748"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="600" id="c7_shi_ji_chuan__si_ku_quan_shu_ben__juan6">
