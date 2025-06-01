@@ -1499,6 +1499,12 @@
                     </navLabel>
                     <content src="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5.xhtml#da_tian-n750"/>
                 </navPoint>
+                <navPoint playOrder="543" id="zhan_bi_luo_yi_wei_shui_yang_yang-n751">
+                    <navLabel>
+                        <text>瞻彼洛矣</text>
+                    </navLabel>
+                    <content src="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5.xhtml#zhan_bi_luo_yi_wei_shui_yang_yang-n751"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="600" id="c7_shi_ji_chuan__si_ku_quan_shu_ben__juan6">
