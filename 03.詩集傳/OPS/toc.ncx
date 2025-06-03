@@ -1541,6 +1541,12 @@
                     </navLabel>
                     <content src="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5.xhtml#che_xia_wu_zhang_zhang_liu_ju-n758"/>
                 </navPoint>
+                <navPoint playOrder="550" id="qing_ying_san_zhang_zhang_si_ju-n759">
+                    <navLabel>
+                        <text>青蠅</text>
+                    </navLabel>
+                    <content src="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5.xhtml#qing_ying_san_zhang_zhang_si_ju-n759"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="600" id="c7_shi_ji_chuan__si_ku_quan_shu_ben__juan6">
