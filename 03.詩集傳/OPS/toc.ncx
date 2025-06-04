@@ -1547,6 +1547,12 @@
                     </navLabel>
                     <content src="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5.xhtml#qing_ying_san_zhang_zhang_si_ju-n759"/>
                 </navPoint>
+                <navPoint playOrder="551" id="bin_zhi_chu_yan_wu_zhang_zhang_shi_si_ju-n760">
+                    <navLabel>
+                        <text>賓之初筵</text>
+                    </navLabel>
+                    <content src="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5.xhtml#bin_zhi_chu_yan_wu_zhang_zhang_shi_si_ju-n760"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="600" id="c7_shi_ji_chuan__si_ku_quan_shu_ben__juan6">
