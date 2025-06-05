@@ -1578,6 +1578,18 @@
                     <content src="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5.xhtml#wan_liu_san_zhang_zhang_liu_ju-n765"/>
                 </navPoint>
             </navPoint>
+            <navPoint playOrder="556" id="dou_ren_shi_zhi_shen_er_zhi_ba-n766">
+                <navLabel>
+                    <text>都人士之什二之八</text>
+                </navLabel>
+                <content src="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5.xhtml#dou_ren_shi_zhi_shen_er_zhi_ba-n766"/>
+                <navPoint playOrder="557" id="dou_ren_shi_wu_zhang_zhang_liu_ju-n767">
+                    <navLabel>
+                        <text>都人士</text>
+                    </navLabel>
+                    <content src="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5.xhtml#dou_ren_shi_wu_zhang_zhang_liu_ju-n767"/>
+                </navPoint>
+            </navPoint>
         </navPoint>
         <navPoint playOrder="600" id="c7_shi_ji_chuan__si_ku_quan_shu_ben__juan6">
             <navLabel>
