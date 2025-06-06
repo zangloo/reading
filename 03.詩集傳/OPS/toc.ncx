@@ -1619,6 +1619,12 @@
                     </navLabel>
                     <content src="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5.xhtml#mian_man_san_zhang_zhang_ba_ju-n773"/>
                 </navPoint>
+                <navPoint playOrder="562" id="hu_ye_si_zhang_zhang_si_ju-n774">
+                    <navLabel>
+                        <text>瓠葉</text>
+                    </navLabel>
+                    <content src="c6_shi_ji_chuan__si_ku_quan_shu_ben__juan5.xhtml#hu_ye_si_zhang_zhang_si_ju-n774"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="600" id="c7_shi_ji_chuan__si_ku_quan_shu_ben__juan6">
