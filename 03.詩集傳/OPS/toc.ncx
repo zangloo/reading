@@ -1650,6 +1650,24 @@
                 <text>卷六</text>
             </navLabel>
             <content src="c7_shi_ji_chuan__si_ku_quan_shu_ben__juan6.xhtml"/>
+            <navPoint playOrder="601" id="da_ya_san-n780">
+                <navLabel>
+                    <text>大雅三</text>
+                </navLabel>
+                <content src="c7_shi_ji_chuan__si_ku_quan_shu_ben__juan6.xhtml#da_ya_san-n780"/>
+            </navPoint>
+            <navPoint playOrder="602" id="wen_wang_zhi_shen_san_zhi_yi-n781">
+                <navLabel>
+                    <text>文王之什三之一</text>
+                </navLabel>
+                <content src="c7_shi_ji_chuan__si_ku_quan_shu_ben__juan6.xhtml#wen_wang_zhi_shen_san_zhi_yi-n781"/>
+                <navPoint playOrder="603" id="wen_wang_qi_zhang_zhang_ba_ju-n782">
+                    <navLabel>
+                        <text>何草不黃</text>
+                    </navLabel>
+                    <content src="c7_shi_ji_chuan__si_ku_quan_shu_ben__juan6.xhtml#wen_wang_qi_zhang_zhang_ba_ju-n782"/>
+                </navPoint>
+            </navPoint>
         </navPoint>
         <navPoint playOrder="700" id="c8_shi_ji_chuan__si_ku_quan_shu_ben__juan7">
             <navLabel>
