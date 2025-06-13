@@ -1733,6 +1733,12 @@
                     </navLabel>
                     <content src="c7_shi_ji_chuan__si_ku_quan_shu_ben__juan6.xhtml#sheng_ming-n794"/>
                 </navPoint>
+                <navPoint playOrder="615" id="dun-n795">
+                    <navLabel>
+                        <text>行葦</text>
+                    </navLabel>
+                    <content src="c7_shi_ji_chuan__si_ku_quan_shu_ben__juan6.xhtml#dun-n795"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="700" id="c8_shi_ji_chuan__si_ku_quan_shu_ben__juan7">
