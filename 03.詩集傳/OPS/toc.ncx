@@ -1722,6 +1722,18 @@
                     <content src="c7_shi_ji_chuan__si_ku_quan_shu_ben__juan6.xhtml#wen_wang_you_sheng_tong-n793"/>
                 </navPoint>
             </navPoint>
+            <navPoint playOrder="613" id="sheng_min_zhi_shen_san_zhi_er-n794">
+                <navLabel>
+                    <text>生民之什三之二</text>
+                </navLabel>
+                <content src="c7_shi_ji_chuan__si_ku_quan_shu_ben__juan6.xhtml#sheng_min_zhi_shen_san_zhi_er-n794"/>
+                <navPoint playOrder="614" id="sheng_ming-n794">
+                    <navLabel>
+                        <text>生民</text>
+                    </navLabel>
+                    <content src="c7_shi_ji_chuan__si_ku_quan_shu_ben__juan6.xhtml#sheng_ming-n794"/>
+                </navPoint>
+            </navPoint>
         </navPoint>
         <navPoint playOrder="700" id="c8_shi_ji_chuan__si_ku_quan_shu_ben__juan7">
             <navLabel>
