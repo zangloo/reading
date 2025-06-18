@@ -1805,6 +1805,12 @@
                     </navLabel>
                     <content src="c8_shi_ji_chuan__si_ku_quan_shu_ben__juan7.xhtml#dang_dang_shang_di_xia_min_zhi_pi-n805"/>
                 </navPoint>
+                <navPoint playOrder="703" id="yi-n805">
+                    <navLabel>
+                        <text>抑</text>
+                    </navLabel>
+                    <content src="c8_shi_ji_chuan__si_ku_quan_shu_ben__juan7.xhtml#yi-n805"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="800" id="c9_shi_ji_chuan__si_ku_quan_shu_ben__juan8">
