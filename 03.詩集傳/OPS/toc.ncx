@@ -1829,6 +1829,12 @@
                     </navLabel>
                     <content src="c8_shi_ji_chuan__si_ku_quan_shu_ben__juan7.xhtml#song_gao_ba_zhang_zhang_ba_ju-n809"/>
                 </navPoint>
+                <navPoint playOrder="707" id="zheng_min_ba_zhang_zhang_ba_ju-n810">
+                    <navLabel>
+                        <text>烝民</text>
+                    </navLabel>
+                    <content src="c8_shi_ji_chuan__si_ku_quan_shu_ben__juan7.xhtml#zheng_min_ba_zhang_zhang_ba_ju-n810"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="800" id="c9_shi_ji_chuan__si_ku_quan_shu_ben__juan8">
