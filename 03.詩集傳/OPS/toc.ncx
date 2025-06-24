@@ -1895,6 +1895,12 @@
                     </navLabel>
                     <content src="c9_shi_ji_chuan__si_ku_quan_shu_ben__juan8.xhtml#wei_tian_zhi_ming_yu-n817"/>
                 </navPoint>
+                <navPoint playOrder="805" id="wei_qing_yi_zhang_wu_ju-n819">
+                    <navLabel>
+                        <text>維清</text>
+                    </navLabel>
+                    <content src="c9_shi_ji_chuan__si_ku_quan_shu_ben__juan8.xhtml#wei_qing_yi_zhang_wu_ju-n819"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="900" id="about">
