@@ -1944,6 +1944,18 @@
                     <content src="c9_shi_ji_chuan__si_ku_quan_shu_ben__juan8.xhtml#si_wen_yi_zhang_ba_ju-n828"/>
                 </navPoint>
             </navPoint>
+            <navPoint playOrder="813" id="zhou_song_cheng_gong-n830">
+                <navLabel>
+                    <text>周頌臣工之什四之二</text>
+                </navLabel>
+                <content src="c9_shi_ji_chuan__si_ku_quan_shu_ben__juan8.xhtml#zhou_song_cheng_gong-n830"/>
+                <navPoint playOrder="814" id="jie_jie_chen_gong_jing_er_zai_gong_wang_xi-n830">
+                    <navLabel>
+                        <text>臣工</text>
+                    </navLabel>
+                    <content src="c9_shi_ji_chuan__si_ku_quan_shu_ben__juan8.xhtml#jie_jie_chen_gong_jing_er_zai_gong_wang_xi-n830"/>
+                </navPoint>
+            </navPoint>
         </navPoint>
         <navPoint playOrder="900" id="about">
             <navLabel>
