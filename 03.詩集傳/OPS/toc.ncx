@@ -1937,6 +1937,12 @@
                     </navLabel>
                     <content src="c9_shi_ji_chuan__si_ku_quan_shu_ben__juan8.xhtml#zhi_jing_yi_zhang_shi_si_ju-n827"/>
                 </navPoint>
+                <navPoint playOrder="812" id="si_wen_yi_zhang_ba_ju-n828">
+                    <navLabel>
+                        <text>思文</text>
+                    </navLabel>
+                    <content src="c9_shi_ji_chuan__si_ku_quan_shu_ben__juan8.xhtml#si_wen_yi_zhang_ba_ju-n828"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="900" id="about">
