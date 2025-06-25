@@ -1925,6 +1925,12 @@
                     </navLabel>
                     <content src="c9_shi_ji_chuan__si_ku_quan_shu_ben__juan8.xhtml#wo_jiang_wo_xiang_wei_yang_wei_niu_wei_tian_qi_you-n824"/>
                 </navPoint>
+                <navPoint playOrder="810" id="shi_mai_qi_bang_hao_tian_qi_zi_zhi-n825">
+                    <navLabel>
+                        <text>時邁</text>
+                    </navLabel>
+                    <content src="c9_shi_ji_chuan__si_ku_quan_shu_ben__juan8.xhtml#shi_mai_qi_bang_hao_tian_qi_zi_zhi-n825"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="900" id="about">
