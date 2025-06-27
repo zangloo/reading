@@ -1985,6 +1985,12 @@
                     </navLabel>
                     <content src="c9_shi_ji_chuan__si_ku_quan_shu_ben__juan8.xhtml#qian_yi_zhang_liu_ju-n836"/>
                 </navPoint>
+                <navPoint playOrder="820" id="yong_yi_zhang_shi_liu_ju-n837">
+                    <navLabel>
+                        <text>雝</text>
+                    </navLabel>
+                    <content src="c9_shi_ji_chuan__si_ku_quan_shu_ben__juan8.xhtml#yong_yi_zhang_shi_liu_ju-n837"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="900" id="about">
