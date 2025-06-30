@@ -2051,6 +2051,12 @@
                     </navLabel>
                     <content src="c9_shi_ji_chuan__si_ku_quan_shu_ben__juan8.xhtml#ce_ce-n850"/>
                 </navPoint>
+                <navPoint playOrder="831" id="si_yi_qi_fou-n852">
+                    <navLabel>
+                        <text>絲衣</text>
+                    </navLabel>
+                    <content src="c9_shi_ji_chuan__si_ku_quan_shu_ben__juan8.xhtml#si_yi_qi_fou-n852"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="900" id="about">
