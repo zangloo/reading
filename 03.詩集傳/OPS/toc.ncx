@@ -2069,6 +2069,12 @@
                     </navLabel>
                     <content src="c9_shi_ji_chuan__si_ku_quan_shu_ben__juan8.xhtml#sui_wan_bang_lu-n855"/>
                 </navPoint>
+                <navPoint playOrder="834" id="lai_yi_zhang_liu_ju-n857">
+                    <navLabel>
+                        <text>賚</text>
+                    </navLabel>
+                    <content src="c9_shi_ji_chuan__si_ku_quan_shu_ben__juan8.xhtml#lai_yi_zhang_liu_ju-n857"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="900" id="about">
