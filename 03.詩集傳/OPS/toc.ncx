@@ -2123,6 +2123,12 @@
                     </navLabel>
                     <content src="c9_shi_ji_chuan__si_ku_quan_shu_ben__juan8.xhtml#yi-n865"/>
                 </navPoint>
+                <navPoint playOrder="843" id="jie_jie_lie_zu_you_zhi_si_hu-n867">
+                    <navLabel>
+                        <text>烈祖</text>
+                    </navLabel>
+                    <content src="c9_shi_ji_chuan__si_ku_quan_shu_ben__juan8.xhtml#jie_jie_lie_zu_you_zhi_si_hu-n867"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="900" id="about">
