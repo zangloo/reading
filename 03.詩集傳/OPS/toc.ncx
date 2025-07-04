@@ -2141,6 +2141,12 @@
                     </navLabel>
                     <content src="c9_shi_ji_chuan__si_ku_quan_shu_ben__juan8.xhtml#chang_fa-n867"/>
                 </navPoint>
+                <navPoint playOrder="846" id="ta_bi_yin_wu_fen_fa_jing_chu_mi-n869">
+                    <navLabel>
+                        <text>殷武</text>
+                    </navLabel>
+                    <content src="c9_shi_ji_chuan__si_ku_quan_shu_ben__juan8.xhtml#ta_bi_yin_wu_fen_fa_jing_chu_mi-n869"/>
+                </navPoint>
             </navPoint>
         </navPoint>
         <navPoint playOrder="900" id="about">
