@@ -11,7 +11,7 @@
 				    <link rel="cc:license" href="http://creativecommons.org/licenses/by-sa/3.0/" />
 				    <dc:rights xml:lang="en">GNU Free Documentation License</dc:rights>
 				    <link rel="cc:license" href="http://www.gnu.org/copyleft/fdl.html" />
-				    <dc:contributor id="meta-bkp">Wikisource</dc:contributor>
+				    <dc:contributor id="meta-bkp">Wikisource。句讀：張路。</dc:contributor>
 				    <meta refines="#meta-bkp" property="role" scheme="marc:relators">bkp</meta><meta name="cover" content="title" /></metadata>
 			     <manifest>
 				    <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav" />
